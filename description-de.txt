@@ -1,0 +1,15 @@
+Niederdeutsches Wörterbuch
+
+Nach der Installation kann Text als Niederdeutsch markiert werden:
+Menü Extras/Sprache/Für den gesamten Text/Mehr...
+Dann Niederdeutsch im Auswahldialog anwählen.
+
+Based on hunspell-nds-0.1.zip and the included Aspell dictionaries,
+copyright 2004 by
+  Heiko Evermann  <heiko.evermann@gmx.de>
+  Soenke Dibbern  <s_dibbern@web.de>
+  Volker Jockheck <volkae@gmx.net>
+
+
+
+

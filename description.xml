@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:lo="http://libreoffice.org/extensions/description/2011">
+     <version value="0.0.1"/>
+     <identifier value="net.thebehrens.dictionary.nds_de"/>
+     <publisher>
+        <name xlink:href="http://www.thebehrens.net" lang="en">Jörn Knabbe &amp; Thorsten Behrens</name>
+     </publisher>
+     <display-name>
+        <name lang="en">Low German spelling dictionary</name>
+        <name lang="de">Niederdeutsches Wörterbuch</name>
+        <name lang="nds">Plattdüütsch Wöörnbook</name>
+     </display-name>
+     <platform value="all" />
+     <extension-description>
+        <src xlink:href="description-en.txt" lang="en"/>
+        <src xlink:href="description-de.txt" lang="de"/>
+        <src xlink:href="description-nds.txt" lang="nds"/>
+     </extension-description>
+</description>

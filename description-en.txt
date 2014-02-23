@@ -1,0 +1,15 @@
+Low German Spelling Dictionary
+
+After installation, mark your text as Low German:
+Menu Tools->Language->all text
+Then pick Low German in the appearing dialog.
+
+Based on hunspell-nds-0.1.zip and the included Aspell dictionaries,
+copyright 2004 by
+  Heiko Evermann  <heiko.evermann@gmx.de>
+  Soenke Dibbern  <s_dibbern@web.de>
+  Volker Jockheck <volkae@gmx.net>
+
+
+
+

@@ -1,0 +1,161 @@
+# this is the affix file of the de_DE Hunspell dictionary
+# derived from the igerman98 dictionary
+#
+# Release date: 20080306
+#
+# Copyright (C) 1998-2007 Bjoern Jacke <bjoern@j3e.de>
+#
+# License: GPLv2 or OASIS distribution license agreement
+# There should be a copy of both of this licenses included
+# with every distribution of this dictionary. Modified
+# versions using the GPL may only include the GPL
+
+SET ISO8859-1
+TRY esijanrtolcdugmphbyfvkwqxzESIJANRTOLCDUGMPHBYFVKWQXZ-.
+
+###### Fre'e Prefixen: YÄÖ
+#
+# Kanditaten: ran, rüm, mit
+#
+#	af		Q
+#	an		A
+#	be		B
+#	dör+dörch	R
+#	her		S
+#	hen		E
+#	in		J
+#	na		H
+#	op		P
+#	rin		N
+#	rop		K
+#	rut		G
+#	to		T
+#	ut		U
+#	ver		V
+#	vör		F
+#	weg		X
+#	üm		Ü
+#	-s		L
+#	-e		C
+#	-en		Z
+
+PFX A Y 2
+PFX A 0 an .
+PFX A 0 anto .
+
+PFX Q Y 2
+PFX Q 0 af .
+PFX Q 0 afto .
+
+PFX B Y 1
+PFX B 0 be .
+
+PFX R Y 4
+PFX R 0 dör .
+PFX R 0 dörch .
+PFX R 0 dörto .
+PFX R 0 dörchto .
+
+PFX S Y 2
+PFX S 0 her .
+PFX S 0 herto .
+
+PFX E Y 2
+PFX E 0 hen .
+PFX E 0 hento .
+
+PFX J Y 2
+PFX J 0 in .
+PFX J 0 into .
+
+PFX H Y 2
+PFX H 0 na .
+PFX H 0 nato .
+
+PFX P Y 2
+PFX P 0 op .
+PFX P 0 opto .
+
+PFX N Y 2
+PFX N 0 rin .
+PFX N 0 rinto .
+
+PFX K Y 2
+PFX K 0 rop .
+PFX K 0 ropto .
+
+PFX G Y 2
+PFX G 0 rut .
+PFX G 0 rutto .
+
+PFX T Y 2
+PFX T 0 to .
+PFX T 0 toto .
+
+PFX U Y 2
+PFX U 0 ut .
+PFX U 0 utto .
+
+PFX V Y 1
+PFX V 0 ver .
+
+PFX F Y 2
+PFX F 0 vör .
+PFX F 0 vörto .
+
+PFX X Y 2
+PFX X 0 weg .
+PFX X 0 wegto .
+
+PFX Ü Y 2
+PFX Ü 0 üm .
+PFX Ü 0 ümto .
+
+SFX C Y 1
+SFX C 0 e [^e]
+
+SFX Z Y 2
+SFX Z 0 en [^e]
+SFX Z 0 n [e]
+
+SFX L Y 1
+SFX L 0 s .
+
+###### Suffixen för Verben
+# I=ik, Ennen för 1.Persoon
+# D=du
+# W=wi
+# M=Mehrtall vun't Part.Perf. ("leeste Böker")
+# O=Part.Perf.Eentall in'n Objektiv ("den fohrten Mann")
+# 1. Reeg: Verben op -en (schicken, mellen)
+# 2. Reeg: Verben op -rn un -ln (ännern, sekern, hanneln, stapeln)
+# 3. Reeg: Verben mit Vokaalverdubbeln, Formen warrt vun de 1.Pers. afleddt: maken, (ik) maak/DWMO; lesen, (ik) lees/WMO)
+# 4. Reeg: Verben op -sen/-ten (passen, setten, stütten))
+
+SFX I Y 2
+SFX I en 0 en
+SFX I n 0 [lr]n
+
+SFX D Y 4
+SFX D en st [^s]en
+SFX D n st [lr]n
+SFX D 0 st [^n]
+SFX D en t sen
+
+SFX W Y 4
+SFX W en t [^t]en
+SFX W n t [lr]n
+SFX W 0 t [^n]
+SFX W en 0 ten
+
+SFX M Y 4
+SFX M en te [^t]en
+SFX M n te e[lr]n
+SFX M 0 te [^n]
+SFX M en e ten
+
+SFX O Y 4
+SFX O en ten [^t]en
+SFX O n ten e[lr]n
+SFX O 0 ten [^n]
+SFX O en en ten
