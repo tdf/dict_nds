@@ -11,7 +11,45 @@
 # versions using the GPL may only include the GPL
 
 SET ISO8859-1
-TRY esijanrtolcdugmphbyfvkwqxzESIJANRTOLCDUGMPHBYFVKWQXZ-.
+TRY esijanrtolcdugmphbyfvkwqxzäüößáéêàâñESIJANRTOLCDUGMPHBYFVKWQXZÄÜÖÉ-.
+
+### List of neighbouring characters on QWERTZ keyboard:
+KEY qwertzuiopü|asdfghjklöä|yxcvbnm
+
+### Replace common mis-spellings
+REP 22
+REP ß ss
+REP ss ß
+REP s ss
+REP ss s
+REP o oh
+REP oh o
+REP a ah
+REP ah a
+REP e eh
+REP eh e
+REP ae ä
+REP oe ö
+REP ue ü
+REP Ae Ä
+REP Oe Ö
+REP Ue Ü
+REP f ph
+REP ph f
+REP d t
+REP t d
+REP th t
+REP t th
+
+### compounds with hyphens - instruct hunspell to break at hyphen for
+### individual component check
+BREAK 2
+BREAK -
+BREAK --
+
+### Minimal word length for compounds is two
+COMPOUNDMIN 2
+
 
 ###### Fre'e Prefixen: YÄÖ
 #
