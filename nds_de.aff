@@ -50,6 +50,10 @@ BREAK --
 ### Minimal word length for compounds is two
 COMPOUNDMIN 2
 
+### TEMP - needs more thought! For the while, flags select words
+### suitable to form compounds
+COMPOUNDFLAG c
+COMPOUNDPERMITFLAG d
 
 ###### Fre'e Prefixen: YÄÖ
 #
@@ -153,8 +157,8 @@ SFX C Y 1
 SFX C 0 e [^e]
 
 SFX Z Y 2
-SFX Z 0 en [^e]
-SFX Z 0 n [e]
+SFX Z 0 en/d [^e]
+SFX Z 0 n/d [e]
 
 SFX L Y 1
 SFX L 0 s .
