@@ -1,0 +1,4 @@
+Plattdüütsch		pa:platt st:platt pa:düütsch
+
+Plattdüütschen		pa:platt st:platt pa:düütschen st:düütsch fl:Z
+

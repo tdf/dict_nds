@@ -1,0 +1,4 @@
+Karkleven		pa:Kark st:Kark pa:leven
+
+Karkenleven		pa:Karken st:Kark fl:Z pa:leven
+

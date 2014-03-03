@@ -35,7 +35,16 @@ dict-nds_de.oxt: $(OUTDIR)/Dictionaries.xcu $(OUTDIR)/nds_de.aff $(OUTDIR)/nds_d
                  $(OUTDIR)/META-INF/manifest.xml
 	cd $(OUTDIR); zip -r dict-nds_de.oxt *
 
-.PHONY all: dict-nds_de.oxt
+$(OUTDIR)/alltexts.txt: test/sample*.txt
+	cat test/sample*.txt > $@
 
-.PHONY clean:
+.PHONY: check
+check: $(OUTDIR)/alltexts.txt test/sample*.txt
+	hunspell -1 -d nds_de -m test/sample*.txt | diff -wu $(OUTDIR)/alltexts.txt -
+
+.PHONY: all
+all: dict-nds_de.oxt
+
+.PHONY: clean
+clean:
 	rm -fr .lib
