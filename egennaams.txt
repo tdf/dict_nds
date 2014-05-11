@@ -1,0 +1,443 @@
+# Länner, Regionen un Spraken, dat is beter, de blangeneenanner to hebben, för't Dörchsehen
+Abchasien abchaassch/EN
+afaarsch/EN
+Afghanistan
+Afrika afrikaansch/EN
+Ägypten
+Albanien albaansch/EN
+Algerien
+Amerika amerikaansch/EN
+amhaarsch/EN
+Andorra
+Angola
+Antarktis antarktsch/EN
+Antigua un Barbuda
+Antillen
+Äquatoriaal-Guinea
+Arabien araabsch/EN
+Argentinien argentiensch/EN
+Armenien armeensch/EN
+Aserbaidschan aserbaidschaansch/EN
+Asien
+assameesch/EN
+Äthiopien äthioopsch
+Avesta
+Aymara
+Australien austraalsch/EN
+Bahamas
+Bahrain
+baltsch/EN
+Bandar
+Bangladesch
+Barbados
+baschkiirsch/EN
+basksch/EN
+Belgien belgsch/EN
+Belgrad
+Belize
+bengaalsch/EN
+Benin
+Bermudas
+Bihari
+Bislama
+Bhutan
+Bokmål
+Bolivien
+Bosnien-Herzegowina bosnisch/EN
+Botswana
+Brasilien brasiliaansch/EN
+bretoonsch/EN
+britsch/EN
+Brunei
+Bulgarien bulgaarsch
+Burkina Faso
+Burma burmeesch/EN
+Burundi
+Caicosinseln
+Chamorro
+Chichewa
+China chineesch
+Chile
+Costa Rica
+Dänmark däänsch/EN
+Düütschland düütsch/EN
+Dominica
+Dominikaansche Republiek
+Dschibuti
+Dzongkha
+Ecuador
+Elfenbeenküst
+El Salvador
+England engelsch/EN
+Eritrea
+Esperanto
+Estland estnsch/EN
+Europa europääsch/EN
+Farsi
+Färöer färöösch/EN
+Fidschi
+Finnland finnsch/EN
+Frankriek franzöösch/EN
+Freesland freesch/EN
+Gabun
+Gallegan
+Galizien galizsch/EN
+Gambia
+Georgien georgsch/EN
+Ghana
+Grenada
+Grekenland greeksch/EN
+Grootbritannien GB
+Guam
+Guarani
+Guatemala
+Gudscharati
+Guinea
+Guinea-Bissau
+Gurmukhi
+Guyana
+Gäälsch
+Haiti
+Haussa
+hebrääsch/EN
+Herero
+Hindi
+Hiri
+Holsteen
+Honduras
+Ido
+Indien indisch/EN
+Indonesien indoneesch/EN
+Interlingua
+Interlingue
+Inuktitut
+Inupiak
+Irak
+Iran iraansch/EN
+Irland irsch/EN
+Island islannsch/EN
+Israel hebrääsch hebräsche hebräschen
+Italien italieensch/EN
+Jamaika
+Japan japaansch/EN
+Java javaneesch/EN
+Jemen jemenietsch/EN
+jiddsch/EN
+Jordanien
+Jugoslawien jugoslaawsch/EN
+Kalaallisut
+Kambodscha
+Kamerun
+Kanada kanaadsch/EN
+Kannada
+Kap Verde
+katalaansch/EN
+Kasachstan kasachsch/EN
+Kaschmir kaschmiirsch/EN
+Katar
+Kenia
+Khmer
+Kikuyu
+Kinyarwanda
+Kirgisien kirgiisch/EN
+Kiribati
+Kolumbien
+Komi
+Komoren
+Kongo
+Korea koreaansch/EN
+kornisch/EN
+Korsika korssch/EN
+Kroatien kroaatsch/EN
+Kuba
+Kurdistan kurdsch/EN
+Kuwait
+Kwanjama
+Laos laootsch/EN
+Latienamerika latienamerikaansch/EN
+latiensch/EN
+Lesotho
+Lettland lettsch/EN
+Libanon
+Liberia
+Libyen
+Liechtensteen
+limborgsch/EN
+Lingala
+Litauen litausch/EN
+Luxemborg luxemborgsch/EN
+Madagaskar madagass'sch
+Makao
+Makedonien makedoonsch/EN
+Malawi
+Malayalam
+Malaysia malaiisch/EN
+Malediven
+Mali
+Malta malteesch/EN
+Manx
+Maori
+Marathi
+Marokko
+Marshallinseln marschalleesch/EN
+Mauretanien
+Mauritius
+Mexiko
+Mikronesien
+Moldawien moldaawsch/EN
+Monaco
+Mongolei mongoolsch/EN
+Motu
+Mosambik
+Myanmar birmaanssch/EN
+Namibia
+Nauru
+Navajo
+Ndebele
+Ndonga
+Nedderlannen nedderlannsch/EN
+Nepal nepaleesch/EN
+Nicaragua
+Niegseeland
+Niemünster
+Niger
+Nigeria
+Njandscha
+Noordkorea
+Norwegen norweegsch/EN
+Nynorsk
+Ogham
+okzitaansch/EN
+Oman
+Oosttimor
+Oriya
+Oromo
+Ossetien osseetsch/EN
+Österriek
+Ozeanien
+Pakistan
+Palau
+Pali
+Palästina palästinensch/EN
+Panama
+Pandschab pandschaabsch/EN
+Papua-Niegguinea
+Paraguay
+paschtuunsch/EN
+persisch/EN
+Peru
+Philippinen
+Polen poolsch/EN
+Polynesien polyneesch/EN
+Portugal portugeesch/EN
+provenzaalsch/EN
+Ketschua
+Rumänien rumäänsch/EN
+Ruanda
+Rundi
+Russland russ'sch/EN
+rätoromaansch/EN
+saamsch/EN
+Salomonen
+Sambia
+Samoa samoaansch/EN
+Sango
+Sanskrit
+Sardinien sardiensch/EN
+San Marino
+São Tomé un Príncipe
+Saudi-Arabien
+Schottland schottsch/EN
+Senegal
+Serbien Montenegro serbsch/EN serbokroaatsch/EN
+Seychellen
+Shona
+Sierra Leone
+Simbabwe
+Sindhi
+singaleesch/EN
+Singapur
+slaawsch/EN
+Sleswig
+Slowakei slowaaksch/EN
+Slowenien sloweensch/EN
+Somali
+Somalia
+sorbsch/EN
+Spanien spaansch/EN
+Sotho
+Sri Lanka
+St Kitts Nevis Lucia Vincent Grenadinen
+Sudan
+sundaneesch/EN
+Surinam
+Swahili
+Swati
+Swasiland
+Sweden sweedsch/EN
+Swiez swiezerdüütsch/EN Swiezer/L
+Syrien syrsch/EN
+Söödafrika
+Söödkorea
+Tadschikistan tadschiiksch/EN
+Tahiti tahiitsch/EN
+Taiwan
+tamielsch/EN
+Tansania
+tartaarsch/EN
+Telugu
+Tibet tibeetsch/EN
+Tigrinya
+Törkei törksch/EN
+Thai
+Thailand thailannsch/EN
+Togo
+Tonga
+Trinidad un Tobago
+Tschad
+Tschechien tschechsch/EN
+tschetscheensch/EN
+tschuwasch/EN
+Tsonga
+Tswana
+Tunesien
+Turkmenistan turkmeensch/EN
+Tuvalu
+Uganda
+uighuursch/EN
+Ukraine ukrainsch/EN
+Ungarn ungaarsch/EN
+Urdu
+Uruguay
+US USA
+Usbekistan usbeeksch/EN
+Vanuatu
+Venda
+Venezuela
+Vereenigte Araabsche Emiraten
+Vietnam vietnameesch/EN
+Volapük
+Wales waliessch/EN
+walloonsch/EN
+Wittrussland
+Wolof
+Xhosa
+Yoruba
+Zaire
+Zentraalafrikaansche Republiek
+Zhuang
+Zulu
+Zypern
+
+# Personen
+Sönke Dibbern
+Heiko Evermann
+Volker Jockheck
+Manfred Wiese
+
+# Software, Dateiformaten, Protokollen usw.
+Adobe
+ASCII
+ASpell
+Bash
+bashrc
+BeOS
+Bitmap
+BMP
+BSD
+BTS
+BZip
+CSS
+CUPS
+DCOP
+Debian
+DNS
+DVI
+Emacs
+Foomatic
+FreeBSD
+FTP
+Ghostscript
+GhostView
+GIF
+GNOME
+GNU
+GTK
+GZip
+HTML
+HTTP
+ICQ
+IBM
+IMAP
+IO
+IP
+IRC
+ISpell
+JavaScript
+JPEG
+Kate
+KDE
+KDED
+KDesktop
+KDiskett
+KHTML
+Kicker
+KMahjongg KMail KNode KNotes Konqueror/L KOrganizer KParts KPilot KSplash KTux KWeather KWin KWrited KNotify
+Konsole
+Kontact
+KSpell
+KWrite
+LaTeX
+Linux
+LPD
+LPR
+MBox
+MC
+MIDI
+MIME
+Mozilla
+MPEG
+Netscape
+OpenGL
+OpenOffice
+OpenPGP
+OS
+PDF
+Perl
+PGP
+PHP
+png
+POP
+PostScript
+PPC
+Python
+Qt
+RPM
+RSH rsh
+RTF
+Samba
+SGML
+Solaris
+SQL
+SSH ssh
+SSL
+StarOffice
+SVG
+TeX
+TIFF
+TrueType
+UNIX
+Unix
+UTF
+VIM
+WAV
+Windows
+WML
+WWW
+www
+XFree
+XHTML
+XML
+XTerm
+Zip
+ZModem

@@ -11,15 +11,15 @@
 # versions using the GPL may only include the GPL
 
 SET ISO8859-1
-TRY esijanrtolcdugmphbyfvkwqxz����������ESIJANRTOLCDUGMPHBYFVKWQXZ����-.
+TRY esijanrtolcdugmphbyfvkwqxzäüößáéêàâñESIJANRTOLCDUGMPHBYFVKWQXZÄÜÖÉ-.
 
 ### List of neighbouring characters on QWERTZ keyboard:
-KEY qwertzuiop�|asdfghjkl��|yxcvbnm
+KEY qwertzuiopü|asdfghjklöä|yxcvbnm
 
 ### Replace common mis-spellings
 REP 22
-REP � ss
-REP ss �
+REP ß ss
+REP ss ß
 REP s ss
 REP ss s
 REP o oh
@@ -28,12 +28,12 @@ REP a ah
 REP ah a
 REP e eh
 REP eh e
-REP ae �
-REP oe �
-REP ue �
-REP Ae �
-REP Oe �
-REP Ue �
+REP ae ä
+REP oe ö
+REP ue ü
+REP Ae Ä
+REP Oe Ö
+REP Ue Ü
 REP f ph
 REP ph f
 REP d t
@@ -55,14 +55,14 @@ COMPOUNDMIN 2
 COMPOUNDFLAG c
 COMPOUNDPERMITFLAG d
 
-###### Fre'e Prefixen: Y��
+###### Fre'e Prefixen: YÄÖ
 #
-# Kanditaten: ran, r�m, mit
+# Kanditaten: ran, rüm, mit
 #
 #	af		Q
 #	an		A
 #	be		B
-#	d�r+d�rch	R
+#	dör+dörch	R
 #	her		S
 #	hen		E
 #	in		J
@@ -74,9 +74,9 @@ COMPOUNDPERMITFLAG d
 #	to		T
 #	ut		U
 #	ver		V
-#	v�r		F
+#	vör		F
 #	weg		X
-#	�m		�
+#	üm		Ü
 #	-s		L
 #	-e		C
 #	-en		Z
@@ -93,10 +93,10 @@ PFX B Y 1
 PFX B 0 be .
 
 PFX R Y 4
-PFX R 0 d�r .
-PFX R 0 d�rch .
-PFX R 0 d�rto .
-PFX R 0 d�rchto .
+PFX R 0 dör .
+PFX R 0 dörch .
+PFX R 0 dörto .
+PFX R 0 dörchto .
 
 PFX S Y 2
 PFX S 0 her .
@@ -142,16 +142,16 @@ PFX V Y 1
 PFX V 0 ver .
 
 PFX F Y 2
-PFX F 0 v�r .
-PFX F 0 v�rto .
+PFX F 0 vör .
+PFX F 0 vörto .
 
 PFX X Y 2
 PFX X 0 weg .
 PFX X 0 wegto .
 
-PFX � Y 2
-PFX � 0 �m .
-PFX � 0 �mto .
+PFX Ü Y 2
+PFX Ü 0 üm .
+PFX Ü 0 ümto .
 
 SFX C Y 1
 SFX C 0 e [^e]
@@ -163,16 +163,16 @@ SFX Z 0 n/d [e]
 SFX L Y 1
 SFX L 0 s .
 
-###### Suffixen f�r Verben
-# I=ik, Ennen f�r 1.Persoon
+###### Suffixen för Verben
+# I=ik, Ennen för 1.Persoon
 # D=du
 # W=wi
-# M=Mehrtall vun't Part.Perf. ("leeste B�ker")
+# M=Mehrtall vun't Part.Perf. ("leeste Böker")
 # O=Part.Perf.Eentall in'n Objektiv ("den fohrten Mann")
 # 1. Reeg: Verben op -en (schicken, mellen)
-# 2. Reeg: Verben op -rn un -ln (�nnern, sekern, hanneln, stapeln)
+# 2. Reeg: Verben op -rn un -ln (ännern, sekern, hanneln, stapeln)
 # 3. Reeg: Verben mit Vokaalverdubbeln, Formen warrt vun de 1.Pers. afleddt: maken, (ik) maak/DWMO; lesen, (ik) lees/WMO)
-# 4. Reeg: Verben op -sen/-ten (passen, setten, st�tten))
+# 4. Reeg: Verben op -sen/-ten (passen, setten, stütten))
 
 SFX I Y 2
 SFX I en 0 en
@@ -201,3 +201,317 @@ SFX O en ten [^t]en
 SFX O n ten e[lr]n
 SFX O 0 ten [^n]
 SFX O en en ten
+
+# Suffix s: schwaches Verb Standardmuster. In dic-Datei wird die 1. Sg Präsens
+# angegeben, z.B. : maak/s
+# Infinitiv: maken => genauso gebaut wie SFX-N, ggf. Vokalentdoppelung behandeln
+# 2. St Präsens: -st anhängen => maakst
+# 3. Sg. Präsens: -t anhängen => maakt
+# Einheitsplural Präsens: -t anhängen (identisch mit 3. Sg Präsens) => maakt
+# 1. Sg Vergangenheit: maak => Grundform
+# 2. Sg Vergangenheit: maakst => wie Präsens
+# 3. Sg. Vergangenheit: maak => wie Präsens
+# Plural Vergangenheit: maken =>  wie Infinitiv
+# Partizip: maakt => wie 3. Sg. Präsens.
+# Partizip dekliniert: maakte maakten => führt nie zu Vokalveränderung
+SFX s Y 98
+SFX s 0 st
+SFX s 0 t
+SFX s 0 te
+SFX s 0 ten
+SFX s 0   en     [^aeiouöü][^aeiouöü]
+SFX s 0   n      er
+SFX s 0   n      el
+SFX s aab aben   aab
+SFX s aad aden   aad
+SFX s aag agen   aag
+SFX s aak aken   aak
+SFX s aal alen   aal
+SFX s aam amen   aam
+SFX s aan anen   aan
+SFX s aap apen   aap
+SFX s aar aren   aar
+SFX s aas asen   aas
+SFX s aat aten   aat
+SFX s aav aven   aav
+SFX s aaw awen   aaw
+SFX s eeb eben   eeb
+SFX s eed eden   eed
+SFX s eeg egen   eeg
+SFX s eek eken   eek
+SFX s eel elen   eel
+SFX s eem emen   eem
+SFX s een enen   een
+SFX s eep epen   eep
+SFX s eer eren   eer
+SFX s ees esen   ees
+SFX s eet eten   eet
+SFX s eev even   eev
+SFX s eew ewen   eew
+SFX s oob oben   oob
+SFX s ood oden   ood
+SFX s oog ogen   oog
+SFX s ook oken   ook
+SFX s ool olen   ool
+SFX s oom omen   oom
+SFX s oon onen   oon
+SFX s oop open   oop
+SFX s oor oren   oor
+SFX s oos osen   oos
+SFX s oot oten   oot
+SFX s oov oven   oov
+SFX s oow owen   oow
+SFX s uub uben   uub
+SFX s uud uden   uud
+SFX s uug ugen   uug
+SFX s uuk uken   uuk
+SFX s uul ulen   uul
+SFX s uum umen   uum
+SFX s uun unen   uun
+SFX s uup upen   uup
+SFX s uur uren   uur
+SFX s uus usen   uus
+SFX s uut uten   uut
+SFX s uuv uven   uuv
+SFX s uuw uwen   uuw
+SFX s ääb äben   ääb
+SFX s ääd äden   ääd
+SFX s ääg ägen   ääg
+SFX s ääk äken   ääk
+SFX s ääl älen   ääl
+SFX s ääm ämen   ääm
+SFX s ään änen   ään
+SFX s ääp äpen   ääp
+SFX s äär ären   äär
+SFX s ääs äsen   ääs
+SFX s äät äten   äät
+SFX s ääv även   ääv
+SFX s ääw äwen   ääw
+SFX s ööb öben   ööb
+SFX s ööd öden   ööd
+SFX s öög ögen   öög
+SFX s öök öken   öök
+SFX s ööl ölen   ööl
+SFX s ööm ömen   ööm
+SFX s öön önen   öön
+SFX s ööp öpen   ööp
+SFX s öör ören   öör
+SFX s öös ösen   öös
+SFX s ööt öten   ööt
+SFX s ööv öven   ööv
+SFX s ööw öwen   ööw
+SFX s üüb üben   üüb
+SFX s üüd üden   üüd
+SFX s üüg ügen   üüg
+SFX s üük üken   üük
+SFX s üül ülen   üül
+SFX s üüm ümen   üüm
+SFX s üün ünen   üün
+SFX s üüp üpen   üüp
+SFX s üür üren   üür
+SFX s üüs üsen   üüs
+SFX s üüt üten   üüt
+SFX s üüv üven   üüv
+SFX s üüw üwen   üüw
+
+
+# E anfügen, z.B. Adjektiv good => gode
+SFX E Y 94
+SFX E 0   e     [^aeiouöü][^aeiouöü]
+SFX E 0   e     [^aeiouöü]er
+SFX E bel ble   bel
+SFX E aab abe   aab
+SFX E aad ade   aad
+SFX E aag age   aag
+SFX E aak ake   aak
+SFX E aal ale   aal
+SFX E aam ame   aam
+SFX E aan ane   aan
+SFX E aap ape   aap
+SFX E aar are   aar
+SFX E aas ase   aas
+SFX E aat ate   aat
+SFX E aav ave   aav
+SFX E aaw awe   aaw
+SFX E eeb ebe   eeb
+SFX E eed ede   eed
+SFX E eeg ege   eeg
+SFX E eek eke   eek
+SFX E eel ele   eel
+SFX E eem eme   eem
+SFX E een ene   een
+SFX E eep epe   eep
+SFX E eer ere   eer
+SFX E ees ese   ees
+SFX E eet ete   eet
+SFX E eev eve   eev
+SFX E eew ewe   eew
+SFX E oob obe   oob
+SFX E ood ode   ood
+SFX E oog oge   oog
+SFX E ook oke   ook
+SFX E ool ole   ool
+SFX E oom ome   oom
+SFX E oon one   oon
+SFX E oop ope   oop
+SFX E oor ore   oor
+SFX E oos ose   oos
+SFX E oot ote   oot
+SFX E oov ove   oov
+SFX E oow owe   oow
+SFX E uub ube   uub
+SFX E uud ude   uud
+SFX E uug uge   uug
+SFX E uuk uke   uuk
+SFX E uul ule   uul
+SFX E uum ume   uum
+SFX E uun une   uun
+SFX E uup upe   uup
+SFX E uur ure   uur
+SFX E uus use   uus
+SFX E uut ute   uut
+SFX E uuv uve   uuv
+SFX E uuw uwe   uuw
+SFX E ääb äbe   ääb
+SFX E ääd äde   ääd
+SFX E ääg äge   ääg
+SFX E ääk äke   ääk
+SFX E ääl äle   ääl
+SFX E ääm äme   ääm
+SFX E ään äne   ään
+SFX E ääp äpe   ääp
+SFX E äär äre   äär
+SFX E ääs äse   ääs
+SFX E äät äte   äät
+SFX E ääv äve   ääv
+SFX E ääw äwe   ääw
+SFX E ööb öbe   ööb
+SFX E ööd öde   ööd
+SFX E öög öge   öög
+SFX E öök öke   öök
+SFX E ööl öle   ööl
+SFX E ööm öme   ööm
+SFX E öön öne   öön
+SFX E ööp öpe   ööp
+SFX E öör öre   öör
+SFX E öös öse   öös
+SFX E ööt öte   ööt
+SFX E ööv öve   ööv
+SFX E ööw öwe   ööw
+SFX E üüb übe   üüb
+SFX E üüd üde   üüd
+SFX E üüg üge   üüg
+SFX E üük üke   üük
+SFX E üül üle   üül
+SFX E üüm üme   üüm
+SFX E üün üne   üün
+SFX E üüp üpe   üüp
+SFX E üür üre   üür
+SFX E üüs üse   üüs
+SFX E üüt üte   üüt
+SFX E üüv üve   üüv
+SFX E üüw üwe   üüw
+
+# N anfügen, z.B. Adjektiv good => gode
+SFX N Y 96
+SFX N 0   en     [^aeiouöü][^aeiouöü]
+SFX N 0   en     [^aeiouöü]er
+SFX N 0   n      e
+SFX N 0   en     [i][^aeiouöü]
+SFX N bel blen   bel
+SFX N aab aben   aab
+SFX N aad aden   aad
+SFX N aag agen   aag
+SFX N aak aken   aak
+SFX N aal alen   aal
+SFX N aam amen   aam
+SFX N aan anen   aan
+SFX N aap apen   aap
+SFX N aar aren   aar
+SFX N aas asen   aas
+SFX N aat aten   aat
+SFX N aav aven   aav
+SFX N aaw awen   aaw
+SFX N eeb eben   eeb
+SFX N eed eden   eed
+SFX N eeg egen   eeg
+SFX N eek eken   eek
+SFX N eel elen   eel
+SFX N eem emen   eem
+SFX N een enen   een
+SFX N eep epen   eep
+SFX N eer eren   eer
+SFX N ees esen   ees
+SFX N eet eten   eet
+SFX N eev even   eev
+SFX N eew ewen   eew
+SFX N oob oben   oob
+SFX N ood oden   ood
+SFX N oog ogen   oog
+SFX N ook oken   ook
+SFX N ool olen   ool
+SFX N oom omen   oom
+SFX N oon onen   oon
+SFX N oop open   oop
+SFX N oor oren   oor
+SFX N oos osen   oos
+SFX N oot oten   oot
+SFX N oov oven   oov
+SFX N oow owen   oow
+SFX N uub uben   uub
+SFX N uud uden   uud
+SFX N uug ugen   uug
+SFX N uuk uken   uuk
+SFX N uul ulen   uul
+SFX N uum umen   uum
+SFX N uun unen   uun
+SFX N uup upen   uup
+SFX N uur uren   uur
+SFX N uus usen   uus
+SFX N uut uten   uut
+SFX N uuv uven   uuv
+SFX N uuw uwen   uuw
+SFX N ääb äben   ääb
+SFX N ääd äden   ääd
+SFX N ääg ägen   ääg
+SFX N ääk äken   ääk
+SFX N ääl älen   ääl
+SFX N ääm ämen   ääm
+SFX N ään änen   ään
+SFX N ääp äpen   ääp
+SFX N äär ären   äär
+SFX N ääs äsen   ääs
+SFX N äät äten   äät
+SFX N ääv även   ääv
+SFX N ääw äwen   ääw
+SFX N ööb öben   ööb
+SFX N ööd öden   ööd
+SFX N öög ögen   öög
+SFX N öök öken   öök
+SFX N ööl ölen   ööl
+SFX N ööm ömen   ööm
+SFX N öön önen   öön
+SFX N ööp öpen   ööp
+SFX N öör ören   öör
+SFX N öös ösen   öös
+SFX N ööt öten   ööt
+SFX N ööv öven   ööv
+SFX N ööw öwen   ööw
+SFX N üüb üben   üüb
+SFX N üüd üden   üüd
+SFX N üüg ügen   üüg
+SFX N üük üken   üük
+SFX N üül ülen   üül
+SFX N üüm ümen   üüm
+SFX N üün ünen   üün
+SFX N üüp üpen   üüp
+SFX N üür üren   üür
+SFX N üüs üsen   üüs
+SFX N üüt üten   üüt
+SFX N üüv üven   üüv
+SFX N üüw üwen   üüw
+
+# Angehängtes S zur Pluralbildung.
+# Führt nie zu Doppelvokalvereinzelung
+SFX S Y 1
+SFX S 0 s
