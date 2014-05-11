@@ -65,4 +65,4 @@ all: dict-nds_de.oxt
 
 .PHONY: clean
 clean:
-	rm -fr dist count.txt nds.wl
+	rm -fr dist count.txt nds.wl nds_de.dic
