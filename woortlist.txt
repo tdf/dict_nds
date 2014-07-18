@@ -515,7 +515,7 @@ blucken/IDWMOP
 Blues
 Bock Böck
 Bodden
-bögen/QRSEJHPNKGTVFXÜ böög/DWMOQRSEJHPNKGTVFXÜ boog/DQRSEJHPNKGTVFXÜ bogen/QRSEJHPNKGTVFXÜ bagen/QRSEJHPNKGTVFXÜ
+bögen/QRYEJHPNKGTVFXÜ böög/DWMOQRYEJHPNKGTVFXÜ boog/DQRYEJHPNKGTVFXÜ bogen/QRYEJHPNKGTVFXÜ bagen/QRYEJHPNKGTVFXÜ
 bohren/IDWMO
 Bohrmaschien Bohrmaschienen
 bölken/IDWMO
@@ -554,7 +554,7 @@ Brenner/L
 Brett Breed
 Brill/Z
 Brillenglas Brillenglöös
-bringen/IDWAQRJPSEUVFX brochen/IDWMOAQRJPSEUVFX
+bringen/IDWAQRJPYEUVFX brochen/IDWMOAQRJPYEUVFX
 Broder Bröder
 Brook Bröök
 Broot
@@ -646,7 +646,7 @@ Dann/Z
 Dannenappel Dannenappeln
 Dannenboom Dannenbööm
 dannig/CZ danniger/CZ dannigst/CZ
-danzen/IDWMOQSEHNKGFXÜ
+danzen/IDWMOQYEHNKGFXÜ
 Dänzer/L
 Danz Dänz
 Danzschool Danzscholen
@@ -859,11 +859,11 @@ dreekantig/CZ
 Dreemaster/L
 dreetimpig/CZ
 dreetollig/CZ
-dregen/AQBJPTSEUVFX dreeg/WAQBJPTSEUVFX driggst/AQBJPTSEUVFX driggt/AQBJPTSEUVFX droog/DAQBJPTSEUVFX drogen/AQBJPTSEUVFX dragen/AQBJPTSEUVFX
+dregenEUV/AQBJPTYFX dreeg/WAQBJPTYEUVFX driggst/AQBJPTYEUVFX driggt/AQBJPTYEUVFX droog/DAQBJPTYEUVFX drogen/AQBJPTYEUVFX dragen/AQBJPTYEUVFX
 Dreger/L
 Dreihbass
 Dreihbook Dreiböker
-dreihen/IDWMOAQRPTSEVXÜ
+dreihen/IDWMOAQRPTYEVXÜ
 Dreiher/L
 drellen/IDWMO
 dremmeln/IDWMO
@@ -872,7 +872,7 @@ Dreper/L
 drewelig/CZ
 Dribbel
 driest/CZ
-drieven/IWQABRSEPNKGTUVXÜ driffst/QABRSEPNKGTUVXÜ drifft/QABRSEPNKGTUVXÜ dreev/DQABRSEPNKGTUVXÜ dreven/QABRSEPNKGTUVXÜ
+drieven/IWQABRYEPNKGTUVXÜ driffst/QABRYEPNKGTUVXÜ drifft/QABRYEPNKGTUVXÜ dreev/DQABRYEPNKGTUVXÜ dreven/QABRYEPNKGTUVXÜ
 drievens # Adverb
 Driever/L
 Drievhuuseffekt/Z
@@ -893,7 +893,7 @@ droppen/IDWMOQRNGX
 druckbor/CZ
 Druck Drück
 drucken/IDWMOQBJPU
-drücken/IDWMOQBRJPTSEUVX
+drücken/IDWMOQBRJPTYEUVX
 Drucker/L
 drüppeln/IDWMOQBREPNKGTUVX
 Drüppen/L
@@ -1151,7 +1151,7 @@ Fleddermuus Fleddermüüs
 Fleesch
 Fleeschkieker/L
 Flegel/L
-flegen/AQRSEJPTUVFXÜ fleeg/WAQRSEJPTUVFXÜ flüggst/AQRSEJPTUVFXÜ flüggt/AQRSEJPTUVFXÜ flöög/DAQRSEJPTUVFXÜ flögen/AQRSEJPTUVFXÜ flagen/AQRSEJPTUVFXÜ
+flegen/AQRYEJPTUVFXÜ fleeg/WAQRYEJPTUVFXÜ flüggst/AQRYEJPTUVFXÜ flüggt/AQRYEJPTUVFXÜ flöög/DAQRYEJPTUVFXÜ flögen/AQRYEJPTUVFXÜ flagen/AQRYEJPTUVFXÜ
 Fleger/L
 fleten/QRJUX fleet/QRJUX flüttst/QRJUX flütt/QRJUX floot/DQRJUX floten/QRJUX flaten/QRJUX
 flicken/IDWMOAJPNKTU
@@ -1162,8 +1162,8 @@ föddern/IDWMOAQJP
 föfftig eenunföfftig unföfftig
 fögen/AJTV föög/DWMOAJTV
 föhlen/IDWMOABREJF
-fohren/IDWMOAQBRJHPNKGSEUVFX
-föhren/IDWMOAQRJPSEUVFX
+fohren/IDWMOAQBRJHPNKGYEUVFX
+föhren/IDWMOAQRJPYEUVFX
 Föhrer
 Fokus
 fokusseren fokusseer/DWMO
@@ -1219,7 +1219,7 @@ fuurts
 gaatlich/CZ
 Gaav Gaven
 Gadder
-gahn/AQBRJHPNGTSEUVFXÜ gah/AQBRJHPNGTSEUVFXÜ geihst/AQBRJHPNGTSEUVFXÜ geiht/AQBRJHPNGTSEUVFXÜ gaht/AQBRJHPNGSTEUVFXÜ gung/AQBRJHPNGTSEUVFXÜ gungst/AQBRJHPNGTSEUVFXÜ güngen/AQBRJHPNGTSEUVFXÜ
+gahn/AQBRJHPNGTYEUVFXÜ gah/AQBRJHPNGTYEUVFXÜ geihst/AQBRJHPNGTYEUVFXÜ geiht/AQBRJHPNGTYEUVFXÜ gaht/AQBRJHPNGYTEUVFXÜ gung/AQBRJHPNGTYEUVFXÜ gungst/AQBRJHPNGTYEUVFXÜ güngen/AQBRJHPNGTYEUVFXÜ
 Gang Gäng
 ganz/CZ
 Garantie/Z
@@ -1264,7 +1264,7 @@ Gesett/Z
 Gesicht Gesichter
 Geslecht Geslechter
 Geswister/L
-geven/ABQRJPGTSEUVFX geev/ABQRJPGTSEUVFX giffst/ABQRJPGTSEUVFX gifft/ABRJPGTSEUVFX geevt/ABQRJPGTSEUVFX geevst/ABRJPGTSEUVFX giff
+geven/ABQRJPGTYEUVFX geev/ABQRJPGTYEUVFX giffst/ABQRJPGTYEUVFX gifft/ABRJPGTYEUVFX geevt/ABQRJPGTYEUVFX geevst/ABRJPGTYEUVFX giff
 Gever/L
 giftig/CZ
 Gift
@@ -1303,7 +1303,7 @@ graven/QRJPNGUVFÜ graav/DWQRJPNGUVFÜ groov/DQRJPNGUVFÜ groven/QRJPNGUVFÜ
 grenzen/AQBJU grenz/WMOAQBJU
 Grenz/Z
 gresig/CZ
-griepen/IWAQBRJPTSUVFX grippst/AQBRJPTSUVFX grippt/AQBRJPTSUVFX greep/DAQBRJPTSUVFX grepen/AQBRJPTSUVFX
+griepen/IWAQBRJPTYUVFX grippst/AQBRJPTYUVFX grippt/AQBRJPTYUVFX greep/DAQBRJPTYUVFX grepen/AQBRJPTYUVFX
 Grieper/L
 griepsch/CZ
 gries/CZ
@@ -1324,7 +1324,7 @@ güstern
 Gymnasium
 Hai/Z
 Haken/L
-halen/QVUSPJHNKG haal/DWMOQVUSPJHNKG
+halen/QVUYPJHNKG haal/DWMOQVUYPJHNKG
 half halve halven halvig/CZ
 Hall/Z
 Hals/Z
@@ -1371,7 +1371,7 @@ Hoff Hööv
 högen höög/DW
 Höker/L
 holl
-hollen/AQBRJPTSEUVF hool/WAQBRJPTSEUVF höllst/AQBRJPTSEUVF höllt/AQBRJPTSEUVF heel/DAQBRJPTSEUVF helen/AQBRJPTSEUVF hollt
+hollen/AQBRJPTYEUVF hool/WAQBRJPTYEUVF höllst/AQBRJPTYEUVF höllt/AQBRJPTYEUVF heel/DAQBRJPTYEUVF helen/AQBRJPTYEUVF hollt
 Holler/L
 hölpen/IDWQBPU hulpen/IDQBPU
 Hölper/L
@@ -1385,7 +1385,7 @@ Hoor Horen
 Höörn Hörnen
 Hoot Hööt
 Hopen/L
-hören/AFJPTSEVX höör/DWMOAFJPTSEVX
+hören/AFJPTYEVX höör/DWMOAFJPTYEVX
 Hülp
 Hülper/L
 Hund Hunnen
@@ -1471,7 +1471,7 @@ Joystick/L
 jüm
 jümehr
 jümmer/L ümmer
-jumpen/IDWMOAQRSEJPNKGTVFX
+jumpen/IDWMOAQRYEJPNKGTVFX
 jüst
 Juud Juden
 juudsch/CZ
@@ -1480,7 +1480,7 @@ kakendig
 kaken kaak/DWMO
 Kalenner/L
 kalibreren kalibreer/DWMO
-kamen/ABRHPNKGSEUVFX kaam/WABRHPNKGSEUVFX keem/DABRHPNKGSEUVFX kemen/ABRHPNKGSEUVFX kumm/DWABRHPNKGSEUVFX
+kamen/ABRHPNKGYEUVFX kaam/WABRHPNKGYEUVFX keem/DABRHPNKGYEUVFX kemen/ABRHPNKGYEUVFX kumm/DWABRHPNKGYEUVFX
 Kamera/L
 Kanaal/L
 Kant Kanten
@@ -1511,7 +1511,7 @@ kennen/IDWMOBUV
 Kernel/L
 kettelig/CZ
 kHz
-kieken/IDWAQBRJHTSEUVX keek/DAQBRJHTSEUVX keken/AQBRJHTSEUVX
+kieken/IDWAQBRJHTYEUVX keek/DAQBRJHTYEUVX keken/AQBRJHTYEUVX
 Kieker/L
 Kiel/Z
 Kimm
@@ -1603,7 +1603,7 @@ Koornbrandwien
 Koorn
 Koort/Z
 köpen/AQJPTVFX kööp/WAQJPTVFX köff/DWAQJPTVFX köffen/AQJPTVFX
-koperen/SE kopeer/DWMOSE
+koperen/E kopeer/DWMOYE
 Kopie Kopien
 Koppel/L
 koppeln/IDWMOAQJTUVÜ
@@ -1661,7 +1661,7 @@ Lamp/Z
 Land Länner Lannen
 Landschop Landschoppen
 lang/CZ länger/CZ längst/CZ
-langen/IDWMOABRSETV
+langen/IDWMOABRYETV
 langs
 langsam/CZ langsamer/CZ langsamst/CZ
 Läng/Z Längd/CZ
@@ -1673,7 +1673,7 @@ Latücht/Z
 Layout/L
 LCD
 Leck/L
-ledden/IDWMOAQRSJTUVÜ
+ledden/IDWMOAQRYJTUVÜ
 Ledder Leddern
 leddig/CZ
 leeg lege legen leger/CZ legerst/CZ
@@ -1682,8 +1682,8 @@ leesbor/CZ
 Leesborkeit
 Leesteken/L
 legaal legale legalen
-leggen/IDWMOAQBJPTSEUVFX leed/DAQBJPTSEUVFX leden/AQBJPTSEUVFX
-lehnen/IDWMOAQSEFX
+leggen/IDWMOAQBJPTYEUVFX leed/DAQBJPTYEUVFX leden/AQBJPTYEUVFX
+lehnen/IDWMOAQYEFX
 lehren/IDWMOABV
 Lehrer/L
 leider
@@ -1714,7 +1714,7 @@ lila
 Lineaal/Z
 lineaar lineare/Z
 Linguist/Z
-linken/IDWMOSEJV # en Link maken
+linken/IDWMOYEJV # en Link maken
 linkerhand
 Link/L
 Linkpoot Linkpoten
@@ -1724,7 +1724,7 @@ listen/IDWMOP
 List/Z
 Literatuur
 Lizenz/Z
-locken/IDWMOARSENKGVX
+locken/IDWMOARYENKGVX
 Lock Löcker
 logaritmisch/CZ
 Logbook Logböker
@@ -1735,7 +1735,7 @@ Loof
 Loop Lööp
 loos
 löösbor/CZ
-lopen/AQBRJPTSEUVFX loop/WAQBRJPTSEUVFX löppst/AQBRJPTSEUVFX löppt/AQBRJPTSEUVFX leep/DAQBRJPTSEUVFX lepen/AQBRJPTSEUVFX
+lopen/AQBRJPTYEUVFX loop/WAQBRJPTYEUVFX löppst/AQBRJPTYEUVFX löppt/AQBRJPTYEUVFX leep/DAQBRJPTYEUVFX lepen/AQBRJPTYEUVFX
 löschen/IDWMOUVX
 lösen/QJPU löös/WMOQJPU
 Lück/Z
@@ -1901,7 +1901,7 @@ neem
 Nees Nesen
 negativ/CZ
 negentig eenunnegentig unnegentig
-nehmen/IWAQJPTSEUVFX nöhmen/IDAQJPTSEUVFX nimm/DWAQJPTSEUVFX nahmen/AQJPTSEUVFX
+nehmen/IWAQJPTYEUVFX nöhmen/IDAQJPTYEUVFX nimm/DWAQJPTYEUVFX nahmen/AQJPTYEUVFX
 neihen/IDWMOQAHKTUXÜ
 nerrn
 nettbaseert/CZ
@@ -2000,7 +2000,7 @@ Ovaal Ovalen
 överscherig/CZ
 Översetter/L
 övrig/CZ
-packen/IDWMOAQBSEJPNKGTUVFXÜ
+packen/IDWMOAQBYEJPNKGTUVFXÜ
 Padd/Z
 Paket/Z
 Paneel/L
@@ -2040,7 +2040,7 @@ Piel/Z
 PIN
 Pinbalken
 Pingel/L
-pingeln/IDWMOARSGF
+pingeln/IDWMOARYGF
 Pinsel/L
 Pixel/L
 Plaan/L
@@ -2125,7 +2125,7 @@ Punkt Punkten Pünkt
 Püüster/L
 Quadraat Quadraten
 quadraatsch/CZ
-quälen/QRSENKG quääl/DWMOQRSENKG
+quälen/QRYENKG quääl/DWMOQRYENKG
 quengeln/IDW
 Quitten
 Raat Raden
@@ -2171,7 +2171,7 @@ registreren registreer/DWMO
 reguleer regulere reguleren #(hd. regulär)
 reguleren reguleer/DWMO #(hd. regulieren)
 reik/CZ
-reisen/IDWMOAQBRSEJTUVFX
+reisen/IDWMOAQBRYEJTUVFX
 Reis Reisen
 reken/AQBEJPTUVFXÜ reek/DWMOAQBEJPTUVFXÜ
 rekursiv/CZ
@@ -2191,11 +2191,11 @@ Revischoon Revischonen
 revolutschoneren revolutschoneer/DWMO
 Revolutschoon Revolutschonen
 RGB
-richten/IDWMOAFBJPTSEUV
+richten/IDWMOAFBJPTYEUV
 richtig/CZ
 Richt/Z
 Ridder Ridderslüüd
-rieden/IWARSEJHNKGTUFXÜ riddst/ARSEJHNKGTUFXÜ riddt/ARSEJHNKGTUFXÜ reed/DARSEJHNKGTUFXÜ reden/ARSEJHNKGTUFXÜ
+rieden/IWARYEJHNKGTUFXÜ riddst/ARYEJHNKGTUFXÜ riddt/ARYEJHNKGTUFXÜ reed/DARYEJHNKGTUFXÜ reden/ARYEJHNKGTUFXÜ
 Riek/Z
 Riepde
 riepen/IDWMORHU
@@ -2221,7 +2221,7 @@ root rode roden
 ropen/AQBRPTU roop/WAQBRPTU röppst/AQBRPTU röppt/AQBRPTU reep/DAQBRPTU repen/AQBRPTU
 Routine Routinen
 Rubriek Rubriken
-rücken/IDWQSEJPUVFXÜ
+rücken/IDWQYEJPUVFXÜ
 rullen/IDWMOQJPEUX
 Rull/Z
 rüm
@@ -2251,7 +2251,7 @@ Schadden/L
 schaden schaad/DWMO
 schalten/IDWMOAQJPTUVFXÜ
 Schalter/L
-schapen/ABSENKGX schaap/DWMOABSENKGX
+schapen/ABYENKGX schaap/DWMOABYENKGX
 scharp/CZ scharper/CZ scharpst/CZ
 Scharpde
 scharpen/IDWMO
@@ -2265,7 +2265,7 @@ Schell/Z
 Schema/L
 scheren/ARJU scheer/DWMOARJU
 scheten/QBRJP scheet/QBRJP schüttst/QBRJP schütt/QBRJP schoot/DQBRJP schoten/QBRJP schaten/QBRJP
-schicken/IDWMOABQRJTSEVFX
+schicken/IDWMOABQRJTYEVFX
 schienen/IDWABRPGV
 Schiet
 schieten/IQABNKGTUVX schitt/DQABNKGTUVX scheet/DQABNKGTUVX scheten/QABNKGTUVX
@@ -2297,16 +2297,16 @@ Schruuv Schruven
 schüddeln/IDWMOQRGU
 schulen schuul/DWMO
 schummern/IDW
-schutern/IDWMOSEJHTUXÜ
+schutern/IDWMOYEJHTUXÜ
 schuulsam/CZ
-schuven/AQRJPNKGTSEVFX schuuv/WAQRJPNKGTSEVFX schuffst/AQRJPNKGTSEVFX schufft/AQRJPNKGTSEVFX schoov/DAQRJPNKGTSEVFX schoven/AQRJPNKGTSEVFX schaven/AQRJPNKGTSEVFX
+schuven/AQRJPNKGTYEVFX schuuv/WAQRJPNKGTYEVFX schuffst/AQRJPNKGTYEVFX schufft/AQRJPNKGTYEVFX schoov/DAQRJPNKGTYEVFX schoven/AQRJPNKGTYEVFX schaven/AQRJPNKGTYEVFX
 Schuver/L
 SCSI
 se
 See/Z
 seggen/IDWMOAQRPTUVF see/DAQRPTUVF seen/AQRPTUVF
 Segment/Z
-sehn/AQBRJPTSEUVFX seh/AQBRJPTSEUVFX sühst/AQBRJPTSEUVFX süht/AQBRJPTSEUVFX seht/AQBRJPTSEUVFX seeg/AQBRJPTSEUVFX seegst/AQBRJPTSEUVFX segen/AQBRJPTSEUVFX
+sehn/AQBRJPTYEUVFX seh/AQBRJPTYEUVFX sühst/AQBRJPTYEUVFX süht/AQBRJPTYEUVFX seht/AQBRJPTYEUVFX seeg/AQBRJPTYEUVFX seegst/AQBRJPTYEUVFX segen/AQBRJPTYEUVFX
 Sek # Afkörten för Sekunn
 seker/CZ sekrer/CZ sekerst/CZ
 Sekerheit
@@ -2318,14 +2318,14 @@ Sekunn Sekunnen
 Selekschoon Selekschonen
 Sellschop Sellschoppen
 Semikolon/L
-sennen/IDQJTSEUVX sendt/QJTSEUVX sendte/QJTSEUVX sendten/QJTSEUVX
+sennen/IDQJTYEUVX sendt/QJTYEUVX sendte/QJTYEUVX sendten/QJTYEUVX
 Senner/L
 Sensor Sensoren
 Sensortyp/Z
 seriell/CZ
 Serie Serien
 Server/L
-setten/IDWMOAQBRJPNKGTESUVFXÜ
+setten/IDWMOAQBRJPNKGTEYUVFXÜ
 sichtbor/CZ
 Sichtborkeit
 Sicht Sichten
@@ -2361,7 +2361,7 @@ Smaragd/Z
 Smartkoort/Z
 Smeed Smeden
 smeren/ABJHPNKTUVFX smeer/DWMOQABJHPNKTUVFX
-smieten/IAQBJGTSEX smittst/AQBJGTSEX smitt/AQBJGTSEX smeet/DAQBJGTSEX smeten/AQBJGTSEX
+smieten/IAQBJGTYEX smittst/AQBJGTYEX smitt/AQBJGTYEX smeet/DAQBJGTYEX smeten/AQBJGTYEX
 smölten/IDWMOQRJPNGUVXÜ smolten/QRJPNGUVXÜ
 smuck/CZ smucker/CZ smuckst/CZ
 Smuckheit
@@ -2419,7 +2419,7 @@ Spiraal Spiralen
 spitz/CZ
 spöken spöök/DW
 Spöker/L
-spölen/QARSEHGUFX spööl/DWMOQARSEHGUFX
+spölen/QARYEHGUFX spööl/DWMOQARYEHGUFX
 Spool Spolen
 Spoor Spöör Sporen
 sporen/AQJP spoor/DWMOAQJP
@@ -2457,7 +2457,7 @@ Steern/L
 Steert Sterten
 steken/AQBRJPTEUVX steek/DWAQBRJPTEUVX stickst/AQBRJPTEUVX stickt/AQBRJPTEUVX stick/AQBRJPTEUVX
 Steker/L
-stellen/IDWMOAQBRSJPTEUVFXÜ
+stellen/IDWMOAQBRYJPTEUVFXÜ
 Stempel/L
 Steven/L
 stevig/CZ steviger/CZ stevigst/CZ
@@ -2475,10 +2475,10 @@ stoppen/IDWMOQP
 stören/P stöör/DWMOP
 Storm Störm
 störten/IDWMOQJ
-stöten/AQRSEPTUVX stööt/AQRSEPTUVX stött/DAQRSEPTUVX stötten/AQRSEPTUVX
+stöten/AQRYEPTUVX stööt/AQRYEPTUVX stött/DAQRYEPTUVX stötten/AQRYEPTUVX
 stövern/IDWMOR
 Straat Straten
-strahlen/IDWMOQABRSEJNGTUV
+strahlen/IDWMOQABRYEJNGTUV
 Strahl/Z
 Strategie Strategien
 Streek Streken
@@ -2491,7 +2491,7 @@ Striet
 Stroom Strööm
 Struktuur Strukturen
 Stück/Z
-stüern/IDWMOARSEUVX
+stüern/IDWMOARYEUVX
 stumm/CZ
 Stünn Stünnen
 stütten/IDWMOAP
@@ -2518,7 +2518,7 @@ Süür Süren
 suutje/Z
 swach/CZ swacher/CZ swachst/CZ
 swatt/CZ swatter/CZ swattst/CZ
-sweven/AQRSEJFXÜ sweev/DWMOAQRSEJFXÜ
+sweven/AQRYEJFXÜ sweev/DWMOAQRYEJFXÜ
 swiestern/IDWMOBJT
 swinnen/IDWEV swunnen/IDWEV
 swoor swore sworen sworer/CZ swoorst/CZ
@@ -2541,7 +2541,7 @@ Taktik/Z
 Takt/Z
 Tall/Z
 Tapeet Tapeten
-tarren/IDWMORSEVFX
+tarren/IDWMORYEVFX
 Taschenreekner
 Tastatuur Tastaturen
 tasten/IDWMOQBNKGF
@@ -2612,14 +2612,14 @@ töven/Q tööv/DWQ
 Töveree/Z
 Töverer
 toverlässig/CZ
-tövern/IDWMOBSVX
+tövern/IDWMOBYVX
 traag trage tragen
 traditschonell/CZ
 transparent/CZ
 Transparenz
 Treckball Treckbäll
 treckbor/CZ
-trecken/IDWQABRSEJHPNKGTUVFXÜ trocken/IDQABRSEJHPNKGTUVFXÜ
+trecken/IDWQABRYEJHPNKGTUVFXÜ trocken/IDQABRYEJHPNKGTUVFXÜ
 trennen/IDWMOQRP
 Trenner/L
 Trennteken
@@ -2821,7 +2821,7 @@ Waschköök Waschköken
 Waschmaschien/Z
 Wäsch
 Waschschöttel Waschschötteln
-wassen/IDWABRSEJPTUV wussen/IDABRSEJPTUV
+wassen/IDWABRYEJPTUV wussen/IDABRYEJPTUV
 wat
 Water
 Waterammer/L
