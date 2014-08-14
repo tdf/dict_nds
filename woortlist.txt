@@ -1,4 +1,4 @@
-a verschoonnullpunkttwee
+a verschoonnullpunkttwee # Debug zum Prüfen, ob LibreOffice wirklich die richtige Version geladen hat. Kann später weg. 
 Aaft
 Aaftboom Aaftbööm
 Aaftgoorn

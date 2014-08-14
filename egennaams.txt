@@ -1,4 +1,5 @@
 # Länner, Regionen un Spraken, dat is beter, de blangeneenanner to hebben, för't Dörchsehen
+# Suffixe sind kontrolliert
 Abchasien abchaassch/en
 afaarsch/en
 Afghanistan
