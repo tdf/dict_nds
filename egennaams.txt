@@ -1,57 +1,57 @@
-# LÃ¤nner, Regionen un Spraken, dat is beter, de blangeneenanner to hebben, fÃ¶r't DÃ¶rchsehen
-Abchasien abchaassch/EN
-afaarsch/EN
+# Länner, Regionen un Spraken, dat is beter, de blangeneenanner to hebben, för't Dörchsehen
+Abchasien abchaassch/en
+afaarsch/en
 Afghanistan
-Afrika afrikaansch/EN
-Ã„gypten
-Albanien albaansch/EN
+Afrika afrikaansch/en
+Ägypten
+Albanien albaansch/en
 Algerien
-Amerika amerikaansch/EN
-amhaarsch/EN
+Amerika amerikaansch/en
+amhaarsch/en
 Andorra
 Angola
-Antarktis antarktsch/EN
+Antarktis antarktsch/en
 Antigua un Barbuda
 Antillen
-Ã„quatoriaal-Guinea
-Arabien araabsch/EN
-Argentinien argentiensch/EN
-Armenien armeensch/EN
-Aserbaidschan aserbaidschaansch/EN
+Äquatoriaal-Guinea
+Arabien araabsch/en
+Argentinien argentiensch/en
+Armenien armeensch/en
+Aserbaidschan aserbaidschaansch/en
 Asien
-assameesch/EN
-Ã„thiopien Ã¤thioopsch
+assameesch/en
+Äthiopien äthioopsch
 Avesta
 Aymara
-Australien austraalsch/EN
+Australien austraalsch/en
 Bahamas
 Bahrain
-baltsch/EN
+baltsch/en
 Bandar
 Bangladesch
 Barbados
-baschkiirsch/EN
-basksch/EN
-Belgien belgsch/EN
+baschkiirsch/en
+basksch/en
+Belgien belgsch/en
 Belgrad
 Belize
-bengaalsch/EN
+bengaalsch/en
 Benin
 Bermudas
 Bihari
 Bislama
 Bhutan
-BokmÃ¥l
+Bokmål
 Bolivien
-Bosnien-Herzegowina bosnisch/EN
+Bosnien-Herzegowina bosnisch/en
 Botswana
-Brasilien brasiliaansch/EN
-bretoonsch/EN
-britsch/EN
+Brasilien brasiliaansch/en
+bretoonsch/en
+britsch/en
 Brunei
 Bulgarien bulgaarsch
 Burkina Faso
-Burma burmeesch/EN
+Burma burmeesch/en
 Burundi
 Caicosinseln
 Chamorro
@@ -59,34 +59,34 @@ Chichewa
 China chineesch
 Chile
 Costa Rica
-DÃ¤nmark dÃ¤Ã¤nsch/EN
-DÃ¼Ã¼tschland dÃ¼Ã¼tsch/EN
+Dänmark däänsch/en
+Düütschland düütsch/en
 Dominica
-Dominikaansche Republiek
+Dominikaansche Republik
 Dschibuti
 Dzongkha
 Ecuador
-ElfenbeenkÃ¼st
+Elfenbeenküst
 El Salvador
-England engelsch/EN
+England engelsch/en
 Eritrea
 Esperanto
-Estland estnsch/EN
-Europa europÃ¤Ã¤sch/EN
+Estland estnsch/en
+Europa europääsch/en
 Farsi
-FÃ¤rÃ¶er fÃ¤rÃ¶Ã¶sch/EN
+Färöer färöösch/en
 Fidschi
-Finnland finnsch/EN
-Frankriek franzÃ¶Ã¶sch/EN
-Freesland freesch/EN
+Finnland finnsch/en
+Frankriek franzöösch/en
+Freesland freesch/en
 Gabun
 Gallegan
-Galizien galizsch/EN
+Galizien galizsch/en
 Gambia
-Georgien georgsch/EN
+Georgien georgsch/en
 Ghana
 Grenada
-Grekenland greeksch/EN
+Grekenland greeksch/en
 Grootbritannien GB
 Guam
 Guarani
@@ -96,244 +96,238 @@ Guinea
 Guinea-Bissau
 Gurmukhi
 Guyana
-GÃ¤Ã¤lsch
+Gäälsch
 Haiti
 Haussa
-hebrÃ¤Ã¤sch/EN
+hebrääsch/en
 Herero
 Hindi
 Hiri
 Holsteen
 Honduras
 Ido
-Indien indisch/EN
-Indonesien indoneesch/EN
+Indien indisch/en
+Indonesien indoneesch/en
 Interlingua
 Interlingue
 Inuktitut
 Inupiak
 Irak
-Iran iraansch/EN
-Irland irsch/EN
-Island islannsch/EN
-Israel hebrÃ¤Ã¤sch hebrÃ¤sche hebrÃ¤schen
-Italien italieensch/EN
+Iran iraansch/en
+Irland irsch/en
+Island islannsch/en
+Israel hebrääsch hebräsche hebräschen
+Italien italieensch/en
 Jamaika
-Japan japaansch/EN
-Java javaneesch/EN
-Jemen jemenietsch/EN
-jiddsch/EN
+Japan japaansch/en
+Java javaneesch/en
+Jemen jemenietsch/en
+jiddsch/en
 Jordanien
-Jugoslawien jugoslaawsch/EN
+Jugoslawien jugoslaawsch/en
 Kalaallisut
 Kambodscha
 Kamerun
-Kanada kanaadsch/EN
+Kanada kanaadsch/en
 Kannada
 Kap Verde
-katalaansch/EN
-Kasachstan kasachsch/EN
-Kaschmir kaschmiirsch/EN
+katalaansch/en
+Kasachstan kasachsch/en
+Kaschmir kaschmiirsch/en
 Katar
 Kenia
 Khmer
 Kikuyu
 Kinyarwanda
-Kirgisien kirgiisch/EN
+Kirgisien kirgiisch/en
 Kiribati
 Kolumbien
 Komi
 Komoren
 Kongo
-Korea koreaansch/EN
-kornisch/EN
-Korsika korssch/EN
-Kroatien kroaatsch/EN
+Korea koreaansch/en
+kornisch/en
+Korsika korssch/en
+Kroatien kroaatsch/en
 Kuba
-Kurdistan kurdsch/EN
+Kurdistan kurdsch/en
 Kuwait
 Kwanjama
-Laos laootsch/EN
-Latienamerika latienamerikaansch/EN
-latiensch/EN
+Laos laootsch/en
+Latienamerika latienamerikaansch/en
+latiensch/en
 Lesotho
-Lettland lettsch/EN
+Lettland lettsch/en
 Libanon
 Liberia
 Libyen
 Liechtensteen
-limborgsch/EN
+limborgsch/en
 Lingala
-Litauen litausch/EN
-Luxemborg luxemborgsch/EN
+Litauen litausch/en
+Luxemborg luxemborgsch/en
 Madagaskar madagass'sch
 Makao
-Makedonien makedoonsch/EN
+Makedonien makedoonsch/en
 Malawi
 Malayalam
-Malaysia malaiisch/EN
+Malaysia malaiisch/en
 Malediven
 Mali
-Malta malteesch/EN
+Malta malteesch/en
 Manx
 Maori
 Marathi
 Marokko
-Marshallinseln marschalleesch/EN
+Marshallinseln marschalleesch/en
 Mauretanien
 Mauritius
 Mexiko
 Mikronesien
-Moldawien moldaawsch/EN
+Moldawien moldaawsch/en
 Monaco
-Mongolei mongoolsch/EN
+Mongolei mongoolsch/en
 Motu
 Mosambik
-Myanmar birmaanssch/EN
+Myanmar birmaanssch/en
 Namibia
 Nauru
 Navajo
 Ndebele
 Ndonga
-Nedderlannen nedderlannsch/EN
-Nepal nepaleesch/EN
+Nedderlannen nedderlannsch/en
+Nepal nepaleesch/en
 Nicaragua
 Niegseeland
-NiemÃ¼nster
+Niemünster
 Niger
 Nigeria
 Njandscha
 Noordkorea
-Norwegen norweegsch/EN
+Norwegen norweegsch/en
 Nynorsk
 Ogham
-okzitaansch/EN
+okzitaansch/en
 Oman
 Oosttimor
 Oriya
 Oromo
-Ossetien osseetsch/EN
+Ossetien osseetsch/en
 Ã–sterriek
 Ozeanien
 Pakistan
 Palau
 Pali
-PalÃ¤stina palÃ¤stinensch/EN
+Palästina palästinensch/en
 Panama
-Pandschab pandschaabsch/EN
+Pandschab pandschaabsch/en
 Papua-Niegguinea
 Paraguay
-paschtuunsch/EN
-persisch/EN
+paschtuunsch/en
+persisch/en
 Peru
 Philippinen
-Polen poolsch/EN
-Polynesien polyneesch/EN
-Portugal portugeesch/EN
-provenzaalsch/EN
+Polen poolsch/en
+Polynesien polyneesch/en
+Portugal portugeesch/en
+provenzaalsch/en
 Ketschua
-RumÃ¤nien rumÃ¤Ã¤nsch/EN
+Rumänien rumäänsch/en
 Ruanda
 Rundi
-Russland russ'sch/EN
-rÃ¤toromaansch/EN
-saamsch/EN
+Russland russ'sch/en
+rätoromaansch/en
+saamsch/en
 Salomonen
 Sambia
-Samoa samoaansch/EN
+Samoa samoaansch/en
 Sango
 Sanskrit
-Sardinien sardiensch/EN
+Sardinien sardiensch/en
 San Marino
 SÃ£o TomÃ© un PrÃ­ncipe
 Saudi-Arabien
-Schottland schottsch/EN
+Schottland schottsch/en
 Senegal
-Serbien Montenegro serbsch/EN serbokroaatsch/EN
+Serbien Montenegro serbsch/en serbokroaatsch/en
 Seychellen
 Shona
 Sierra Leone
 Simbabwe
 Sindhi
-singaleesch/EN
+singaleesch/en
 Singapur
-slaawsch/EN
+slaawsch/en
 Sleswig
-Slowakei slowaaksch/EN
-Slowenien sloweensch/EN
+Slowakei slowaaksch/en
+Slowenien sloweensch/en
 Somali
 Somalia
-sorbsch/EN
-Spanien spaansch/EN
+sorbsch/en
+Spanien spaansch/en
 Sotho
 Sri Lanka
 St Kitts Nevis Lucia Vincent Grenadinen
 Sudan
-sundaneesch/EN
+sundaneesch/en
 Surinam
 Swahili
 Swati
 Swasiland
-Sweden sweedsch/EN
-Swiez swiezerdÃ¼Ã¼tsch/EN Swiezer/L
-Syrien syrsch/EN
-SÃ¶Ã¶dafrika
-SÃ¶Ã¶dkorea
-Tadschikistan tadschiiksch/EN
-Tahiti tahiitsch/EN
+Sweden sweedsch/en
+Swiez swiezerdüütsch/en Swiezer/L
+Syrien syrsch/en
+Söödafrika
+Söödkorea
+Tadschikistan tadschiiksch/en
+Tahiti tahiitsch/en
 Taiwan
-tamielsch/EN
+tamielsch/en
 Tansania
-tartaarsch/EN
+tartaarsch/en
 Telugu
-Tibet tibeetsch/EN
+Tibet tibeetsch/en
 Tigrinya
-TÃ¶rkei tÃ¶rksch/EN
+Törkei törksch/en
 Thai
-Thailand thailannsch/EN
+Thailand thailannsch/en
 Togo
 Tonga
 Trinidad un Tobago
 Tschad
-Tschechien tschechsch/EN
-tschetscheensch/EN
-tschuwasch/EN
+Tschechien tschechsch/en
+tschetscheensch/en
+tschuwasch/en
 Tsonga
 Tswana
 Tunesien
-Turkmenistan turkmeensch/EN
+Turkmenistan turkmeensch/en
 Tuvalu
 Uganda
-uighuursch/EN
-Ukraine ukrainsch/EN
-Ungarn ungaarsch/EN
+uighuursch/en
+Ukraine ukrainsch/en
+Ungarn ungaarsch/en
 Urdu
 Uruguay
 US USA
-Usbekistan usbeeksch/EN
+Usbekistan usbeeksch/en
 Vanuatu
 Venda
 Venezuela
 Vereenigte Araabsche Emiraten
-Vietnam vietnameesch/EN
-VolapÃ¼k
-Wales waliessch/EN
-walloonsch/EN
+Vietnam vietnameesch/en
+Volapük
+Wales waliessch/en
+walloonsch/en
 Wittrussland
 Wolof
 Xhosa
 Yoruba
 Zaire
-Zentraalafrikaansche Republiek
+Zentraalafrikaansche Republik
 Zhuang
 Zulu
 Zypern
-
-# Personen
-SÃ¶nke Dibbern
-Heiko Evermann
-Volker Jockheck
-Manfred Wiese
 
 # Software, Dateiformaten, Protokollen usw.
 Adobe

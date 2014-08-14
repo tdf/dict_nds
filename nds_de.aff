@@ -10,7 +10,6 @@
 # with every distribution of this dictionary. Modified
 # versions using the GPL may only include the GPL
 
-#Zeichensatz festlegen: UTF8, sowohl in der Wortliste als auch in der aff-Spezifikation
 SET UTF-8
 TRY esijanrtolcdugmphbyfvkwqxzäüößáéêàâñESIJANRTOLCDUGMPHBYFVKWQXZÄÜÖÉ-.
 
@@ -79,8 +78,12 @@ COMPOUNDPERMITFLAG d
 #	weg		X
 #	üm		Ü
 #	-s		L
+
+
+# diese Suffixe sollen noch weg
 #	-e		C
 #	-en		Z
+
 # Unten kommen noch die Suffixe 
 # I=ik, Ennen för 1.Persoon
 # D=du
