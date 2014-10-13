@@ -1,6 +1,7 @@
 # Länner, Regionen un Spraken, dat is beter, de blangeneenanner to hebben, för't Dörchsehen
 # Suffixe sind kontrolliert
 Abchasien abchaassch/en
+Adria
 afaarsch/en
 Afghanistan
 Afrika afrikaansch/en
@@ -28,12 +29,13 @@ Aymara
 Australien austraalsch/en
 Bahamas
 Bahrain
+Balkan
 baltsch/en
 Bandar
 Bangladesch
 Barbados
 baschkiirsch/en
-basksch/en
+Basken basksch/en
 Belgien belgsch/en
 Belgrad
 Belize
@@ -79,6 +81,7 @@ Farsi
 Färöer färöösch/en
 Fidschi
 Finnland finnsch/en
+fläämsch/en
 Frankriek franzöösch/en
 Freesland freesch/en
 Gabun
@@ -185,6 +188,7 @@ Marshallinseln marschalleesch/en
 Mauretanien
 Mauritius
 Mexiko
+Middelmeer
 Mikronesien
 Moldawien moldaawsch/en
 Monaco
@@ -206,11 +210,13 @@ Niger
 Nigeria
 Njandscha
 Noordkorea
+Noordsee
 Norwegen norweegsch/en
 Nynorsk
 Ogham
 okzitaansch/en
 Oman
+Oostsee
 Oosttimor
 Oriya
 Oromo
@@ -225,6 +231,7 @@ Panama
 Pandschab pandschaabsch/en
 Papua-Niegguinea
 Paraguay
+Paris
 paschtuunsch/en
 persisch/en
 Peru
@@ -234,6 +241,7 @@ Polynesien polyneesch/en
 Portugal portugeesch/en
 provenzaalsch/en
 Ketschua
+romaansch/en
 Rumänien rumäänsch/en
 Ruanda
 Rundi
