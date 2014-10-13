@@ -1841,7 +1841,6 @@ hölpsch/en
 Holt Hölter
 hooch hoge/n höger/en hööchst/en
 Hööchd/en
-hoochdüütsch/en
 Hoochformat/n
 hoochkant
 Hoochkomma/S
@@ -2837,8 +2836,6 @@ Plastik
 Platin
 platt/en platter/en plattst/en
 Platt                         
-plattdüütsch/en               
-Plattdüütsch                  
 platzeer/s                    
 Platzholler/S
 Platz Plätz
