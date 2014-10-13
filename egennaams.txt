@@ -1,12 +1,13 @@
-# Länner, Regionen un Spraken, dat is beter, de blangeneenanner to hebben, för't Dörchsehen
+# LÃ¤nner, Regionen un Spraken, dat is beter, de blangeneenanner to hebben, fÃ¶r't DÃ¶rchsehen
 # Suffixe sind kontrolliert
 Abchasien abchaassch/en
 afaarsch/en
 Afghanistan
 Afrika afrikaansch/en
-Ägypten
+Ã„gypten
 Albanien albaansch/en
 Algerien
+Alpen
 Amerika amerikaansch/en
 amhaarsch/en
 Andorra
@@ -14,14 +15,14 @@ Angola
 Antarktis antarktsch/en
 Antigua un Barbuda
 Antillen
-Äquatoriaal-Guinea
+Ã„quatoriaal-Guinea
 Arabien araabsch/en
 Argentinien argentiensch/en
 Armenien armeensch/en
 Aserbaidschan aserbaidschaansch/en
 Asien
 assameesch/en
-Äthiopien äthioopsch
+Ã„thiopien Ã¤thioopsch
 Avesta
 Aymara
 Australien austraalsch/en
@@ -42,7 +43,7 @@ Bermudas
 Bihari
 Bislama
 Bhutan
-Bokmål
+BokmÃ¥l
 Bolivien
 Bosnien-Herzegowina bosnisch/en
 Botswana
@@ -60,25 +61,25 @@ Chichewa
 China chineesch
 Chile
 Costa Rica
-Dänmark däänsch/en
-Düütschland düütsch/en hoochdüütsch/en plattdüütsch/en Plattdüütsch                  
+DÃ¤Ã¤nmark dÃ¤Ã¤nsch/en
+DÃ¼Ã¼tschland dÃ¼Ã¼tsch/en hoochdÃ¼Ã¼tsch/en plattdÃ¼Ã¼tsch/en PlattdÃ¼Ã¼tsch
 Dominica
 Dominikaansche Republik
 Dschibuti
 Dzongkha
 Ecuador
-Elfenbeenküst
+ElfenbeenkÃ¼st
 El Salvador
 England engelsch/en
 Eritrea
 Esperanto
 Estland estnsch/en
-Europa europääsch/en
+Europa europÃ¤Ã¤sch/en
 Farsi
-Färöer färöösch/en
+FÃ¤rÃ¶er fÃ¤rÃ¶Ã¶sch/en
 Fidschi
 Finnland finnsch/en
-Frankriek franzöösch/en
+Frankriek franzÃ¶Ã¶sch/en
 Freesland freesch/en
 Gabun
 Gallegan
@@ -97,10 +98,10 @@ Guinea
 Guinea-Bissau
 Gurmukhi
 Guyana
-Gäälsch
+GÃ¤Ã¤lsch
 Haiti
 Haussa
-hebrääsch/en
+hebrÃ¤Ã¤sch/en
 Herero
 Hindi
 Hiri
@@ -117,7 +118,7 @@ Irak
 Iran iraansch/en
 Irland irsch/en
 Island islannsch/en
-Israel hebrääsch hebräsche hebräschen
+Israel hebrÃ¤Ã¤sch hebrÃ¤sche hebrÃ¤schen
 Italien italieensch/en
 Jamaika
 Japan japaansch/en
@@ -200,7 +201,7 @@ Nedderlannen nedderlannsch/en
 Nepal nepaleesch/en
 Nicaragua
 Niegseeland
-Niemünster
+NiemÃ¼nster
 Niger
 Nigeria
 Njandscha
@@ -214,12 +215,12 @@ Oosttimor
 Oriya
 Oromo
 Ossetien osseetsch/en
-Ã–sterriek
+Ã–Ã¶sterriek
 Ozeanien
 Pakistan
 Palau
 Pali
-Palästina palästinensch/en
+PalÃ¤stina palÃ¤stinensch/en
 Panama
 Pandschab pandschaabsch/en
 Papua-Niegguinea
@@ -233,11 +234,11 @@ Polynesien polyneesch/en
 Portugal portugeesch/en
 provenzaalsch/en
 Ketschua
-Rumänien rumäänsch/en
+RumÃ¤nien rumÃ¤Ã¤nsch/en
 Ruanda
 Rundi
 Russland russ'sch/en
-rätoromaansch/en
+rÃ¤toromaansch/en
 saamsch/en
 Salomonen
 Sambia
@@ -276,10 +277,10 @@ Swahili
 Swati
 Swasiland
 Sweden sweedsch/en
-Swiez swiezerdüütsch/en Swiezer/L
+Swiez swiezerdÃ¼Ã¼tsch/en Swiezer/L
 Syrien syrsch/en
-Söödafrika
-Söödkorea
+SÃ¶Ã¶dafrika
+SÃ¶Ã¶dkorea
 Tadschikistan tadschiiksch/en
 Tahiti tahiitsch/en
 Taiwan
@@ -289,7 +290,7 @@ tartaarsch/en
 Telugu
 Tibet tibeetsch/en
 Tigrinya
-Törkei törksch/en
+TÃ¶rkei tÃ¶rksch/en
 Thai
 Thailand thailannsch/en
 Togo
@@ -317,7 +318,7 @@ Venda
 Venezuela
 Vereenigte Araabsche Emiraten
 Vietnam vietnameesch/en
-Volapük
+VolapÃ¼k
 Wales waliessch/en
 walloonsch/en
 Wittrussland
@@ -329,7 +330,6 @@ Zentraalafrikaansche Republik
 Zhuang
 Zulu
 Zypern
-
 # Software, Dateiformaten, Protokollen usw.
 Adobe
 ASCII
