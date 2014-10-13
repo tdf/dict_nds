@@ -2538,6 +2538,8 @@ Moin moin
 Molekööl/n Molekül/n                            # prüfen wie nun
 molekulor/en
 Momang
+Monarch/n
+Monarchie Monarchien
 Monitor/n
 mööd/en 
 Mood/n
@@ -3015,6 +3017,8 @@ Reparatur/n
 Reprodukschoon/n
 reproduzeer/s
 Republik/n
+republikaansch/en
+Republikaner/S
 reserveer/s 
 resig/en			# wat is dat?
 Ressource/n
@@ -3022,6 +3026,7 @@ Rest/n
 Resultat/n
 retuur
 Revischoon/n
+Revolutschoon/n
 revolutschoneer/s
 RGB
 richt/en 
