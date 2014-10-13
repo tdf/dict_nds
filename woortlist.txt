@@ -245,6 +245,7 @@ Anklaag/n
 klick/s anklick/s
 Ankrüüzfeld Ankrüüzfeller         
 Anloop Anlööp
+annekteer/s
 anner/en
 annerlest
 änner/sQV	
@@ -704,6 +705,7 @@ Bund
 Bundsland Bundslänner
 Bundsliga Bundsligen
 Bundspräsident/n
+Bundsrepublik/n
 Bundsstaat Bundsstaten
 Bundsstraat Bundsstraten
 Büro/S
@@ -1823,7 +1825,7 @@ Himmel
 hinnern/IDWMOBV
 Histogramm/n
 histoorsch/en 
-Historie    
+Historie
 Historiker/S
 hitt/en hitter/en hittst/en
 Hitt                           
@@ -1871,6 +1873,7 @@ Hund Hunnen
 hüppen/IDWMORX
 Huus Hüüs
 Huut                            
+hüüt
 Hyperbel/n
 Hypnoos Hypnosen
 hypnootsch/en
@@ -2571,6 +2574,7 @@ Naam/S
 Naamruum Naamrüüm      
 Naamwoort Naamwöör     
 Naver/s
+Naverstaat/n
 Nacht/n
 Nachtschicht/n
 Nadel/ns			 # Plural auf -n und auf -s
@@ -2585,6 +2589,7 @@ Narichtenborn/S
 narms
 Naspann 				# prüfen Plural
 natschonaal/en
+Natschonaalstaat/n
 Natschonalität/n	
 natt/en                          
 Natur/n                           
@@ -3926,6 +3931,7 @@ Wekendag
 Wekendag Wekendaag
 welk/en
 Welt
+Weltkrieg/n
 Weltruum 
 Welt Welten
 weltwiet weltwiede weltwieden
