@@ -685,7 +685,7 @@ Brootschapp Brootschäpp
 Brüch/n
 bruken/PV bruuk/DWMOPV
 Bruker/S
-Brukerkonto Brukerkonten
+Brukerkonto/S
 Brukernaam/S
 brummeln/IDWMO
 bruukbor/en
@@ -1066,9 +1066,9 @@ dreekantig/en
 Dreemaster/S
 dreetimpig/en
 dreetollig/en
-dregenEUV/AQBJPTYFX dreeg/WAQBJPTYEUVFX driggst/AQBJPTYEUVFX driggt/AQBJPTYEUVFX droog/DAQBJPTYEUVFX drogen/AQBJPTYEUVFX dragen/AQBJPTYEUVFX
+dregen/EUVAQBJPTYFX dreeg/WAQBJPTYEUVFX driggst/AQBJPTYEUVFX driggt/AQBJPTYEUVFX droog/DAQBJPTYEUVFX drogen/AQBJPTYEUVFX dragen/AQBJPTYEUVFX
 Dreger/S
-Dregers => ä?                            # prüfen
+Dregers
 dreih/s                  
 Dreihbass
 Dreihbook Dreiböker
@@ -1546,7 +1546,7 @@ sett freesett/s freetosetten
 Freetiet Freetieden                           
 freetsch/en
 Frequenz/n
-Frequenzband => Pl?                            #prüfen
+Frequenzband Frequenzbänner
 freren/QARJTUV freer/DWQARJTUV froor/DQARJTUV froren/QARJTUV
 fresen früst # nur in Mi/Dat früst.   # wat is dat???
 freten/QARJPNGTUVX freet/DQARJPNGTUVX fritt/DQARJPNGTUVX
@@ -1595,7 +1595,7 @@ gasdicht/en
 Gaskonstante/n
 Gasnevel/S
 Gast Gäst
-Gastkonto => Pl?                            # prüfen /S oder /n
+Gastkonto/S
 gau/en gauer/en gauest/en gaust/en          # prüfen Superlativ
 Gauheit/n Gauigkeit/n 
 Gavel/n
@@ -2012,7 +2012,7 @@ Kapsel Kapseln
 kapseln/IDWMOQJV
 Kark/n
 Kark/n
-Karkhoff => Pl?                # prüfen Plural
+Karkhoff Karkhööv
 karklich/en           
 Karn/S
 Kassett/n
@@ -2145,7 +2145,7 @@ Kontakt/n
 kontakteer/s
 Kontext/n
 Kontinent/n
-Konto/S Konten			# Plural prüfen
+Konto/S
 Kontor/n
 Kontotyp/n
 Kontrast/n
@@ -2182,7 +2182,6 @@ korrigeer/s
 kort/en körter/en körtst/en
 kört/sQJVX
 Kortnaricht/n
-Kortwiel => ?? kortwielig?                 # prüfen
 kortwielig/en
 kösten/IDW
 Kraam
@@ -2378,7 +2377,7 @@ luern/BP luur/DWMOBP
 Luft                           
 Luftdruck
 Luftmass/n
-Lü Lüüd   
+Lüüd   
 Lung/n
 lunger/s
 Luup/n 		# hd. Lupe
@@ -2770,7 +2769,7 @@ packen/IDWMOAQBYEJPNKGTUVFXÜ
 Padd/n
 Paket/n
 Palett/n
-Paneel/n Paneels??                            # Plural prüfen
+Paneel/S
 Papeer/n
 Parabel/n
 parallel/en
