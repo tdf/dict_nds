@@ -1,16 +1,11 @@
-# this is the affix file of the de_DE Hunspell dictionary
-# derived from the igerman98 dictionary
+# this is the affix file of the nds_DE Hunspell dictionary
 #
-# Release date: 20080306
-#
-# Copyright (C) 1998-2007 Bjoern Jacke <bjoern@j3e.de>
+# Copyright (C) 2004-2014 by Heiko Evermann <heiko@evermann.de> and Sönke Dibbern <s_dibbern@web.de> 
 #
 # License: GPLv2 or OASIS distribution license agreement
 # There should be a copy of both of this licenses included
 # with every distribution of this dictionary. Modified
 # versions using the GPL may only include the GPL
-
-# adapted for Low Saxon spell checker
 
 SET UTF-8
 TRY esijanrtolcdugmphbyfvkwqxzäüößáéêàâñESIJANRTOLCDUGMPHBYFVKWQXZÄÜÖÉ-.
@@ -79,12 +74,8 @@ COMPOUNDPERMITFLAG d
 #	vör		F
 #	weg		X
 #	üm		Ü
-#	-s		L
+#	-s		S
 
-
-# diese Suffixe sollen noch weg
-#	-e		C
-#	-en		Z
 
 # Unten kommen noch die Suffixe 
 # I=ik, Ennen för 1.Persoon
@@ -174,9 +165,6 @@ SFX C 0 e [^e]
 SFX Z Y 2
 SFX Z 0 en/d [^e]
 SFX Z 0 n/d [e]
-
-SFX L Y 1
-SFX L 0 s .
 
 ###### Suffixen för Verben
 # I=ik, Ennen för 1.Persoon
