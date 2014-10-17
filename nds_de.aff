@@ -159,13 +159,6 @@ PFX Ü Y 2
 PFX Ü 0 üm .
 PFX Ü 0 ümto .
 
-SFX C Y 1
-SFX C 0 e [^e]
-
-SFX Z Y 2
-SFX Z 0 en/d [^e]
-SFX Z 0 n/d [e]
-
 ###### Suffixen för Verben
 # I=ik, Ennen för 1.Persoon
 # D=du
