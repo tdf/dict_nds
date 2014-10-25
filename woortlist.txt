@@ -78,6 +78,7 @@ Adress/N
 Adressaat Adressaten
 Adressbook Adressböker
 adresseer/s
+Adress/n
 Adresslist/N
 Adressopbacker/s 
 Adresstyp/N
@@ -225,12 +226,14 @@ Andeel/n
 Andenken
 andock/s
 andockbor/en
+Andrag Andrääg
 Anemoon/n
 Anfang Anfäng
 Anfänger/S
 Anfraag/n
 Angaav/n
 Angang Angäng
+Angel/n
 Angever/S
 Angreep/n
 angreepsch/en
@@ -246,8 +249,11 @@ klick/s anklick/s
 Ankrüüzfeld Ankrüüzfeller         
 Anloop Anlööp
 annekteer/s
-anner/en
+anner/en annern # die normale Ergänzung ist amüseer/amüseren. Aber "annern" ist auch häufig und sollte ok sein.
 annerlest
+annerseen # hd: jemand anders
+annerswo
+annerthalv
 änner/sQV	
 anners
 annersrüm
@@ -258,6 +264,7 @@ Anröögschirm                            # Plural?
 Anroop Anrööp
 Anroopduer
 Anschrift/n
+Ansegger/S
 Ansicht/n
 Anslag Anslääg
 ansleegsch/en
@@ -271,9 +278,11 @@ Anstoottiet Anstoottieden
 Antall/n                        
 Antenn/n
 Anter                            # Plural?
-antern/sBV
+anter/sBV
 Antertiet Antertieden  
 anti
+Antiquität/n
+Antog Antöög
 Antwoort Antwoorden
 anwennbor/en
 Anwiesen
@@ -283,7 +292,9 @@ Apparat/n
 Appel Appeln Appels # twee Formen för de Mehrtall
 Appelboom Appelbööm
 Appelkoken
+Appelsien/n
 Applikatschoon/n
+Aquarium Aquarien
 Äquater # nich Äquator!
 arbeid/sQBRJPTEUVFX
 Arbeiderpartei
@@ -307,6 +318,7 @@ Arithmetik # kein Plural
 Arm/S
 Armee Armeen
 Armot # nich Armoot
+Arrest
 Artefakt/n
 Artikel/S # nee, nich Artikeln
 Artist/n
@@ -346,6 +358,7 @@ Atommodell                             #  => Mehrtall?
 Atomtall/n
 Atoom/n
 atoomsch/en
+Attack/n
 Attribut/n
 Audio
 Aukschoon/n
@@ -373,7 +386,9 @@ Baadgast Baadgäst
 Baas/n
 Baby
 backen/IDWMOAQRJPUVF
+Bäcker/S
 backig/en
+Backsteen/n
 Bagaluten                            # Singular -ut oder -uut?
 Bagen/S
 Bagenlien/n
@@ -382,8 +397,10 @@ Bagenminuut/n
 Bagensekunn/n
 Bahn/n
 Bahnhoff Bahnhöff Bahnhööv           # Plural?
+Bahnstieg/n
 Bahntje/S
 Balangs/n
+bald
 Baldachin                     # Mehrtall?
 Balken/S
 Balkendiagramm/n
@@ -391,8 +408,11 @@ Balkengrafik/n
 Ballaad/n
 Ballast
 Ball Bäll
+baller/s
+Ballett
 Ballon/S
 Bammel
+Banaan Bananen
 Band Bänner Bänn 		# hd. Fäden u. Bücher
 Bandbreed/n
 Bandloopwark/n
@@ -2542,7 +2562,7 @@ Monarchie Monarchien
 Monitor/n
 mööd/en 
 Mood/n
-mööglich/en
+mööglich/en # nicht möglich, öö beachten
 Mööglichkeit/n
 Möög Mögen
 morgen
