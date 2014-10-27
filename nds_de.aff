@@ -412,6 +412,7 @@ SFX e üüw üwe   üüw
 # N anfügen, z.B. Adjektiv good => gode
 SFX n Y 96
 SFX n 0   en     [^aeiouöü][^aeiouöü]
+SFX e 0   en     [^aeiouöü][aeiouöü][^aeiouöü]
 SFX n 0   en     [^aeiouöü]er
 SFX n 0   n      e
 SFX n 0   en     [i][^aeiouöü]
