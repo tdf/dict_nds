@@ -1,4 +1,4 @@
-a verschoonnullpunkttwee # Debug zum Prüfen, ob LibreOffice wirklich die richtige Version geladen hat. Kann später weg. 
+a verschoonnullpunktdree # Debug zum Prüfen, ob LibreOffice wirklich die richtige Version geladen hat. Kann später weg. 
 Aaft
 Aaftboom Aaftbööm
 Aaftgoorn
@@ -11,7 +11,7 @@ Aantenbraden
 Aantenflott
 Aantenpool Aantenpööl
 Aap/n
-Aapkatt/N
+Aapkatt/n
 aapsch/
 Aas
 Aaskraam
@@ -39,8 +39,8 @@ Achtergedank/n # Lindow hett Achtergedanken as Eentall, man Sass meent een Gedan
 Achtergrund
 Achtergrundbild Achtergrundbiller
 Achtergrundklöör/n
-Achtergrundperzess/N
-Achtergrundprogramm/N
+Achtergrundperzess/n
+Achtergrundprogramm/n
 Achterhand Achterhänn Achterhannen # wi weet wedder nich wat wi wullt...
 Achterhöörn # hett keen Mehrtall, oder?
 Achterkant/n
@@ -70,25 +70,24 @@ Ackerpeerd Ackerpeer
 Addelkuhl/n
 Addelpool Addelpööl
 Ader Adern
-Adjektiv/N
+Adjektiv/n
 Adjüüs  
 Administrater/S # bitte nich op -tor...
 Administratschoon
-Adress/N
+Adress/n
+Adress/n
 Adressaat Adressaten
 Adressbook Adressböker
 adresseer/s
-Adress/n
-Adresslist/N
+Adresslist/n
 Adressopbacker/s 
-Adresstyp/N
+Adresstyp/n
 adrett/en
 af
 afbestell/s
 afbestellen/IDWMO
 Afbild Afbiller
 afbill/s
-breken afbreken 
 afdeck/s
 Afdeel/n
 afdeel/s
@@ -96,9 +95,8 @@ afdock/s
 afdreih/s
 afdüüster/s
 Affall Affäll
-fallen affallen
-Affalltünn/N
-Affraag/N
+Affalltünn/n
+Affraag/n
 Afgang Afgäng
 afgrenz/s 
 Afgrenzer/S
@@ -106,14 +104,13 @@ Afgunst # ik meen: hett keen Mehrtall
 afgünstig/en
 afhaal/s
 afhangig/en
-Afhangigkeit/N 
+Afhangigkeit/n 
 Afkaat/n
 Afkatenkneep
 Afklingtiet Afklingtieden
 afkört/s
 Aflaag/n
 aflandig/en
-leggen afleggen 
 aflehn/s
 aflenk/s
 aflever/s
@@ -121,7 +118,6 @@ Aflichter/S # HD: Kopierer
 Afloop Aflööp
 Afloopdatum
 Aflooptiet Aflooptieden
-löös/s aflöös/s # prüfen, ob das richtig autokonjugiert wird
 afmager/s         # prüfen => falsche Konjugation   
 afmell/s
 Afmeten
@@ -131,8 +127,6 @@ Afreed Afreden
 Afreken
 afrunn/s
 Afscheed/n
-schicken afschick/s 
-seggen afsegg/s
 Afsenner/S
 Afsicht/n
 Afsiet Afsieden
@@ -159,8 +153,8 @@ Aftog                            # Plural?
 Afwieser/S
 Afwind Afwinn Afwinnen # twee Varianten för de Mehrtall
 Agent/n
-Aggregattostand Aggregattostänn
 Aggregat
+Aggregattostand Aggregattostänn
 aggressiv/en
 Ahl/n
 ahn
@@ -182,8 +176,8 @@ Akzent/n
 al
 Alarm/S 				# Pl Alarms oder Alarmen?
 Album Alben
-Alfabet/n Alphabet/n  # mit f oder ph, geht beides
 alfabeetsch/en
+Alfabet/n Alphabet/n  # mit f oder ph, geht beides
 Algebra
 Algorithmus Algorithmen
 algoritmisch/en
@@ -245,19 +239,18 @@ animeer/s
 Anker/S
 Ankerklüüs                        # Mehrtall?
 Anklaag/n
-klick/s anklick/s
 Ankrüüzfeld Ankrüüzfeller         
 Anloop Anlööp
 annekteer/s
 anner/en annern # die normale Ergänzung ist amüseer/amüseren. Aber "annern" ist auch häufig und sollte ok sein.
-annerlest
-annerseen # hd: jemand anders
-annerswo
-annerthalv
 änner/sQV	
+annerlest
 anners
+annerseen # hd: jemand anders
 annersrüm
 annerswat
+annerswo
+annerthalv
 annerwarts
 anonym/en
 Anröögschirm                            # Plural?
@@ -277,8 +270,8 @@ Anstoot Anstööt
 Anstoottiet Anstoottieden             
 Antall/n                        
 Antenn/n
-Anter                            # Plural?
 anter/sBV
+Anter                            # Plural?
 Antertiet Antertieden  
 anti
 Antiquität/n
@@ -387,6 +380,7 @@ Baas/n
 Baby
 backen/IDWMOAQRJPUVF
 Bäcker/S
+back fastback/s                   
 backig/en
 Backsteen/n
 Bagaluten                            # Singular -ut oder -uut?
@@ -505,8 +499,8 @@ best/en
 Bestell/n
 bestell/s
 bestimm/s
-besünners
 besünner/en
+besünners
 bet
 betahlen/sQAJHTUF
 beteken 							# prüfen swv?
@@ -579,7 +573,7 @@ Bischop Bischöp Bischoppen
 bischuren bischurens			# wat is dat?
 Bisdom
 Bislaap
-Bispill/S oder Bispeel/N                            # prüfen
+Bispill/S oder Bispeel/n                            # prüfen
 Bispill Bispelen # Eentall nich Bispeel!            # prüfen
 Bispillwoort Bispillwöör
 Bistand Bistänn
@@ -593,8 +587,8 @@ bitte
 bitwies/en
 blaag/en
 Blaag/n
-blaas/s  						# prüfen auf Doppels 
 Blaas/n
+blaas/s  						# prüfen auf Doppels 
 blang blangen
 blangenan
 blangenanner
@@ -605,6 +599,7 @@ bleek/en
 bleken/ARHUVF bleek/DWMOARHUVF
 blenn/s                            # einarbeiten
 blennen/DAQJPUF blenn/AQJPUF blendt/AQJPUF
+blenn inblenn/s
 Bless/n
 Blick/n
 Blickfatt Blickfaten
@@ -679,12 +674,13 @@ Böversiet Böversieden
 Brandwien
 Brass
 breden/UV breed/DWMOUV
-breed/en breder/en breedst/en
 Breed 
+breed/en breder/en breedst/en
 Breef Breven
 Breefkasten                             # Plural ??
 Bregen/S
 breken/AQPTVÜ breek/WAQPTVÜ brickst/AQPTVÜ brickt/AQPTVÜ bröök/DAQPTVÜ bröken/AQPTVÜ brick braken/AQPTVÜ # wie nun?
+breken afbreken 
 breken ik breek du brickst he brickt wi breekt ik brook du brookst he brook wi broken brick brickt braken     # wie nun?
 Breker/S
 bremsen/IDWMOQJPU
@@ -695,7 +691,7 @@ Brennpunkt Brennpünkt
 Brett Breder      # wie nun?
 Brett Breed       # wie nun?
 Brettspill/S oder Brettspeel/n                            # wie nun?
-Brill/N
+Brill/n
 Brillenglas Brillenglöös
 bringen/IDWAQRJPYEUVFX brochen/IDWMOAQRJPYEUVFX
 Broder Bröder
@@ -711,7 +707,7 @@ brummeln/IDWMO
 bruukbor/en
 Bruukborkeit
 bruun/en
-Bucht/N
+Bucht/n
 buddeln/IDWMOQRJNGTUVÜ
 buen/MOAQBJPTEUVF buu/DWAQBJPTEUVF
 Buer Buern
@@ -750,8 +746,8 @@ Chemie
 Chemiker/S
 Chiasmus
 Chor
-Christdemokrat/n
 Christ/n
+Christdemokrat/n
 Christendom
 christlich/en
 Client/S
@@ -768,12 +764,12 @@ Daagbook Daagböker
 daaglich/en
 daags
 Daak						# HD: Nebel, kein Plural 
-dal 						# HD: runter. nicht daal, Sass Regel 9
 Daal/n						# HD: Tal
 daalwarts
 Daam Damen
 däämlich
 Daat/n					# HD: Tat
+daav/s				# HD toben
 Dack/n Däcker			# zwei Pluralformen
 Dackfenster/n Dackfinster/n
 Daganfang
@@ -784,6 +780,7 @@ Daglängde/n
 Daglohn
 Daglöhner/S
 Dagstiet Dagstieden
+dal 						# HD: runter. nicht daal, Sass Regel 9
 Dalben 				# Einzahl?
 Daler/S
 Dalf Dalven
@@ -792,7 +789,7 @@ dallohrig/en
 dalvern/IDWMO
 Damm Dämm
 Dammelee Dammeleen			# Achtung: das Doppel-e bleibt
-Dämoon/N
+Dämoon/n
 Dämoon Dämonen
 Damp Dämp						# HD:Dampf
 Damper/S
@@ -813,8 +810,8 @@ Dänzer/S
 Danzschool Danzscholen
 Danzstunn Danzstünn
 Dassel/S
-dat'n
 dat
+dat'n
 Datei/n
 Dateifilter/S
 Dateiformat/n
@@ -846,7 +843,6 @@ Datumsrebeet Datumsrebeden
 Datumsstempel/S
 Daudrüppen/S
 Daupunkt Daupünkt
-daav/s				# HD toben
 deaktiveer/s
 debuggen/IDWMO
 Debugger
@@ -926,7 +922,6 @@ dicht/en dichter/en dichtst/en
 dichtbi             
 Dichte
 Dichtkunst          
-maak/s dichtmaak/s
 dick/en dicker/en dickst/en
 Dick/n Dickd/en
 dickbramsig/en
@@ -952,6 +947,7 @@ Dint/n
 direkt/en
 direktemang
 Direkter/S
+dirigeer/s			
 Disch/n
 Discher/S
 dischern/IDWMO
@@ -1002,9 +998,10 @@ Döör/n
 Döörlock Döörlöcker
 Doorn Döörn
 Döörnklock/n
+Doos/n		# HD: Dose
+döös/s
 Döösbattel/S
 döösbattelig/en
-Doos/n		# HD: Dose
 Dööskopp Döösköpp
 doot dode doden
 Dööts
@@ -1028,17 +1025,14 @@ dörsichtig/en
 Dörsichtigkeit/n
 Dörsnitt Dörsneed
 dörsnittlich/en
-stellen dorstellen/IDWMO
 Dorstellentyp/n
 Dorsteller/S                
 dörstig/en
-streek dörstreek/s
 dörtig eenundörtig undörtig
 dorüm
 dörven/IDW dorven/ID
 dorvun
 Dösch
-döös/s
 dösig/en
 Dösigkeit/n
 Döst
@@ -1062,8 +1056,8 @@ Draken/S
 drall/en
 dramaatsch/en
 drammen/IDWMO			# HD: drängen
-drang/en
 Drang
+drang/en
 drängeln/IDWMO		
 drängen/IDWMO
 drangvull/en
@@ -1071,8 +1065,8 @@ Drank
 drapen/ABJT draap/WABJT dröppst/ABJT dröppt/ABJT droop/DABJT dropen/ABJT
 drauhen/IDWMOAB
 draven draav/DWMO
+Dre'eck/n Dreeck/n             
 Dre'eck/S
-Dre'eck/N Dreeck/N             
 dre'eckig/en dreeeckig/en      
 Dreck
 Dreeangel # Mehrtall?
@@ -1129,15 +1123,15 @@ drucken/IDWMOQBJPU
 drücken/IDWMOQBRJPTYEUVX
 Drucker/S
 Druckerdriever/S                  
-Druckvöransicht/N                 
+Druckvöransicht/n                 
 drüppeln/IDWMOQBREPNKGTUVX
 Drüppen/S
 drütt drüdde drüdden
 Druus
 Dschungel/S
-Dubbel/S
 dubbel                            
-Dubbelklick/N                     
+Dubbel/S
+Dubbelklick/n                     
 dubbelklicken/IDWMO
 Dubbelpunkt Dubbelpünkt           
 dubbelt/en
@@ -1148,6 +1142,7 @@ Dudelmusik
 dudeln/IDWMO
 düden/ABEU düüd/DWMOABEU
 du di dien diene
+duelleer/s
 Duer
 duer/s                            # prüfen
 Duer => Düer?                            # prüfen
@@ -1180,7 +1175,6 @@ dummerhaftig/en
 Dummtüüch Dummtüüg # -ch na Sass, -g na Cyriacks
 dump/IDWMO
 dümpeln/IDWMO
-dynaamsch/en
 Dunas
 dunen/IDWMO
 dünen/IDWMO
@@ -1190,8 +1184,8 @@ Dunner/S
 dunnern/IDWMO
 Dunnersdag
 duplex
-dusend
 Dusend
+dusend
 dusend
 dusselig/en
 Dust
@@ -1219,13 +1213,14 @@ Dwargplanet/n
 dwars
 Dwarsbetog Dwarsbetöög                           
 Dwarsdriever/S
-Dwarsformat/N
+Dwarsformat/n
 Dwarslöper/S
-Dwarsstreek/N
+Dwarsstreek/n
 dwatsch/en
 Dweel # Mehrtall?
 dweer # Beugung?
 dwingen/IDWMOBPV dwungen/IDBPV
+dynaamsch/en
 dynaamsch/en
 Ebb/n
 Echo/S
@@ -1276,7 +1271,6 @@ egaal
 egen/en
 Egenbruuk 
 Egendom
-maak egenmaakt/en
 Egennaam/S
 Egenschop Egenschoppen
 egenstännig/en
@@ -1326,16 +1320,16 @@ enkel enkelte enkelten
 Enkelheit/n
 enkelt/en  
 enkeltwies
-Enn/N      
+Enn/n      
 Ennbruker/S
 ennen/IDBV endt/BV endte/BV endten/BV
 Ennpunkt Ennpünkt
-Ennspill/S oder Ennspeel/N           
-Ennweert/N
+Ennspill/S oder Ennspeel/n           
+Ennweert/n
 Enter
-Entität/N
+Entität/n
 Entropie Entropien
-Eruptschoon/N 
+Eruptschoon/n 
 estemeren estemeer/DWMO
 Etaasch/n
 eten/APTUFX itt/DAPTUFX eet/DAPTUFX
@@ -1347,25 +1341,25 @@ evalueren evalueer/DWMO
 even/en
 Evene Evenen
 Eventüür Eventüren
-Evolutschoon/N
+Evolutschoon/n
 Examen/S # Mehrtall op -s?
 expanderen expandeer/DWMO
 explodeer/s   
-Exploschoon/N                            
+Exploschoon/n                            
 explosiv/en                            
-Exponent/N                           
-Export/N 
-Exportdatei/N            
+Exponent/n                           
+Export/n 
+Exportdatei/n            
 exporteer/s              
-Exportformat/N
-Exportlist/N 
+Exportformat/n
+Exportlist/n 
 extern/en
 extra
 Extra/S
 Exzentrizität
 faak faaker faakst faken fakener fakenst
 faat/s    
-Fabrik/N  
+Fabrik/n  
 Fach/n
 Fachfru
 Fachmann Fachlüüd                     
@@ -1375,11 +1369,12 @@ faken
 Fakter/S                       
 fakteriseer/s                  
 Faktor/n
-Fakultät/N                     
+Fakultät/n                     
 fallen/IDWAQBRJPNGTEUVX fullen/IDAQBRJPNGTEUVX
+fallen affallen
 Fall Fäll
 falsch/en
-Familie/N            
+Familie/n            
 Familiennaam                    
 Familienstand            # plural?
 Fang                           # Plural
@@ -1387,22 +1382,17 @@ Fangarm/S
 fangen/IDWAQJPV fungen/IDAQJPV
 FAQ
 fardig/en
-maak fardigmaak/s    
-Farv/N 
+Farv/n 
 farven/IDWMOQRJUVÜ
-Faser/N
+Faser/n
 fast/en
-back fastback/s                   
-legg fastlegg/s                
-maak fastmaak/s
-nagel fastnagel/s                
-Fastplaat/N 
+Fastplaat/n 
 Faststelltast/n
 Faststoff/n
 faten/ABRJPNTVÜ faat/DABRJPNTVÜ
 Fatt Fäät
-fax/s
 Fax/n
+fax/s
 Faxdokment/n
 Faxnummer/n
 Faxsystem/n
@@ -1450,8 +1440,8 @@ filtern/IDWMORU
 filtern/sRU
 Filterregel/S
 final/en     
-Finanzen
 finanzeer/s
+Finanzen
 Finger/S
 Fingerafdruck Fingerafdrück
 finnen/IDQJPGX findt/QJPGX funnen/IDQJPGX
@@ -1515,8 +1505,8 @@ Fohrt/en
 Fokus
 fokusseer/s
 Folg/n
-folg/sQBV
 Folg/n
+folg/sQBV
 Folie/n
 Folkloor
 Folkmusik 
@@ -1536,9 +1526,9 @@ för'n
 för't
 Form/n
 Format/n
-Formatteken/S
 formateer/s                          
 Formateerprogramm/n
+Formatteken/S
 Formel Formeln
 formen/IDWMOUVFÜ
 Form Formen
@@ -1550,7 +1540,8 @@ Foto/S
 fotografeer/s
 Fotografie   
 Fraag/n
-Fraagspeel/N                            # prüfen
+fraag nafraag/s
+Fraagspeel/n                            # prüfen
 fragen/AQBHUFH fraag/DWMOAQBHUF
 Fraktal/n
 Fraktaltall/n
@@ -1560,9 +1551,7 @@ Freedag
 free fre'e fre'en
 Freegaav/n
 freehannig/en
-maak freemaak/s freetomaken                            
 Freeruum Freerüüm                           
-sett freesett/s freetosetten          
 Freetiet Freetieden                           
 freetsch/en
 Frequenz/n
@@ -1599,6 +1588,7 @@ Funker/S
 Funkfrequenz/n
 Funknettwark/n
 funkscheneer/s
+funkschoneer/s
 Funkschoon Funkschonen
 füünsch/en
 fuurts			# prüfen foorts?
@@ -1762,6 +1752,7 @@ güntsiets
 güstern
 Gymnasium Gymnasien
 haal/s
+haap/s
 Hacker/S
 Hagel  
 Hahn/s
@@ -1793,7 +1784,6 @@ hanneln/IDWMOQBJUV
 Hannelspartner/S
 hanteer/s 
 Hanterer
-haap/s
 Hardware
 Hardwarefehler/S
 harmoonsch/en   
@@ -1828,8 +1818,8 @@ Herr/n Herrn # Herrn för de Anreed
 Herrschaft/n
 he sien em ehr
 heten heet/DMO
-heven/ARPNKGUVX heev/DWMOARPNKGUVX
 Heven
+heven/ARPNKGUVX heev/DWMOARPNKGUVX
 Hex/n
 hexadezimaal/en
 Hexadezimaalteken/S
@@ -1847,8 +1837,8 @@ Histogramm/n
 histoorsch/en 
 Historie
 Historiker/S
-hitt/en hitter/en hittst/en
 Hitt                           
+hitt/en hitter/en hittst/en
 höden/BJV hööd/WBJV hödden/IDWBJV
 Hoff Hööv
 högen höög/DW
@@ -1861,16 +1851,15 @@ hölpen/IDWQBPU hulpen/IDQBPU
 Hölper/S
 hölpsch/en
 Holt Hölter
-hooch hoge/n höger/en hööchst/en
 Hööchd/en
 Hoochformat/n
+hooch hoge/n höger/en hööchst/en
 hoochkant
 Hoochkomma/S
 hoochlaad/s hoochtoladen        
 Hoochpass                       
 Hoochschool/n
 Hoochschoolwesen
-stell hoochstell/s hoochtostellen         
 hööft
 Hööft                     
 Hööftdeel/n
@@ -1912,8 +1901,8 @@ ignoreer/s
 ik du he se dat wi si se mien/en dien/en sien/en ehr uns joon seehr seehrn mi di em se uns jo jüm jem man                          
 illegal/en
 Imm/n
-implizeer/n
 Implikatschoon/n
+implizeer/n
 implizit/en
 Import/n
 importeer/s
@@ -1924,7 +1913,6 @@ in't
 inaktiv/en
 inbett/s
 inbettbor/en
-blenn inblenn/s
 Index/n
 Indexfehler/S
 Indianer/S
@@ -1935,8 +1923,8 @@ Indrag Indrääg
 Industrie Industrien
 industriell/en            
 Infanterie                            
-Info/S
 Info                          
+Info/S
 Infofeld Infofeller   
 Infofinster/n
 inföög/s
@@ -1948,7 +1936,6 @@ ingrenz/s
 Inholt Inholden
 initialiseer/s 
 Inkamen
-kapsel/s inkapsel/s
 Inkoop Inkööp 
 Inleser/S 
 Insaag Insagen
@@ -1970,15 +1957,16 @@ Intensität/n
 intensiv/en  
 Interakschoon/n
 interaktiv/en
+interesseer/s
 Interferenz/n
 intern/en
 internatschonaal/en
 Internet
 Interpreter/S
 Interrupt/S
+Intress/n
 intressant/en intressanter/en intressantest/en
 intresseer/s
-Intress/n
 invers/en
 investeer/s
 Inwahner/S
@@ -2026,8 +2014,9 @@ kamen/ABRHPNKGYEUVFX kaam/WABRHPNKGYEUVFX keem/DABRHPNKGYEUVFX kemen/ABRHPNKGYEU
 Kamera/S
 Kanal/S			# Plural prüfen
 Kant/n
-Kantüffel/N Kantüffel/S		# prüfen Plural
+Kantüffel/n Kantüffel/S		# prüfen Plural
 Kapitel/S
+kapsel/s inkapsel/s
 Kapsel Kapseln
 kapseln/IDWMOQJV
 Kark/n
@@ -2048,8 +2037,8 @@ Kavel/S				# wat is dat?
 Käver  # prüfen Plural
 kB
 Keed/n
-keeneen
 keen/en
+keeneen
 Keerl/S
 kehren/IDWMOQBJUV
 Keller 					# prüfen Plural                          
@@ -2068,7 +2057,7 @@ Kimm
 Kind Kinner Kinners                          
 kippen/IDWMOQARHNKGTUVXÜ
 Kist/n
-Klaag/N			
+Klaag/n			
 klaag/sABRJGVX
 klammern/IDWMOAJTU
 Klamp/n
@@ -2086,6 +2075,7 @@ Kleed                             # prüfen Plural
 kleen/en
 Klemm/n
 Klick/S
+klick/s anklick/s
 klick/sARJX
 Klock/n
 Klöner/S
@@ -2095,7 +2085,6 @@ Kloon Klonen
 Klöönsnack/S
 kloor/en 
 Klöör/n
-maken kloormaken/s kloortomaken                        
 Kloortext
 Kloot Klöten
 kloren/QPVF kloor/DWMOQPVF
@@ -2112,12 +2101,13 @@ Knoop Knööp
 Knööv                           # prüfen -f?
 knüppen/IDWMOAQJTVÜ
 Knütt/n
+kodeer/s
 Kodek/S
 Kode Koden
-kodeer/s
 Koderer/S
 Koeffizient/n
 Koffein
+Kofferruum Kofferrüüm Kufferruum Kufferrüüm
 Koffie
 Koh Köh 
 Kohl    
@@ -2131,12 +2121,12 @@ Komma/S
 kommenteren/RJGUX kommenteer/DWMORJGUX
 Kommentor/n
 kommodig/en
-Kommood/n
 kommood/en
+Kommood/n
 Kommunikatschoon/n
 kommunizeer/s
-kompakt/en kompakter/en kompaktst/en
 Kompakt/en
+kompakt/en kompakter/en kompaktst/en
 Kompass/n
 kompatibel kompatible kompatibeln
 Kompatibilität/n
@@ -2181,7 +2171,7 @@ Koorn
 Koornbloom Koornblomen
 Koornbrandwien
 Koort/en                
-Koortenspill/S oder Koortenspeel/N                            #prüfen 
+Koortenspill/S oder Koortenspeel/n                            #prüfen 
 kopeer/s
 köpen/AQJPTVFX kööp/WAQJPTVFX köff/DWAQJPTVFX köffen/AQJPTVFX
 Kopie/n
@@ -2205,11 +2195,17 @@ Kortnaricht/n
 kortwielig/en
 kösten/IDW
 Kraam
+kraam/s
 Kraftfeld Kraftfeller           
 Kraft Kräft
 Kraftstoff/n
 kraftvull/en
-kraam/s
+krank/en
+Krankenbett/n
+Krankenhuus Krankenhüüs
+Krankenstatschoon/n
+Krankenswester/n Krankensüster/n
+Krankheit/n
 Krater/S 
 Kreeft               # Plural?
 Kreem          
@@ -2223,13 +2219,14 @@ Kristall/n
 kritisch/en			# prüfen: kritsch? 
 Krokodil/n
 Kroon/n
-krüüz/s
 Krüüz/n
+krüüz/s
 krüzen/AQRJP krüüz/WMOAQRJP
 kryptograafsch/en
 Kryptografie
 kubsch/en                           
 Kuddelmuddel                        
+Kuffer/S Koffer/S # Sass: Koffer als Standard. Cyriacks: Kuffer
 Kugel/n
 Küll
 Kult                           
@@ -2239,7 +2236,6 @@ kumplett/en
 kumpletteer/s
 Künn
 künnig/en
-maken künnigmaak/s künnigtomaken    
 Kunst Künst
 Künstler/S
 Künstlernaam/S
@@ -2259,10 +2255,11 @@ Laag/n
 laat/en later/en laatst/en                   
 Laatschicht/n
 Labor/S      
+Labyrinth/n
 lachen/IDWMOABHUVX
 Lachs        
-Laden/S
 laden/QBJPTUVF laad/DWMOQBJPTUVF
+Laden/S
 Lader/S				# wat is dat?
 lager/sAQBJUVÜ 
 Lamp/n
@@ -2270,8 +2267,8 @@ Landkoort/n
 Land Länner Lannen
 Landschop Landschoppen
 lang/en länger/en längst/en
-lang/sABRYETV
 Läng/n Längd/en
+lang/sABRYETV
 Längd Längde/n
 Langform                 # prüfen Mehrzahl
 langs
@@ -2284,8 +2281,8 @@ Laserstrahler/S
 Last/n
 lasten/IDWMOAQBPU
 laten/AQBRJHTUVX laat/AQBRJHTUVX lettst/AQBRJHTUVX lett/AQBRJHTUVX leet/DAQBRJHTUVX leten/AQBRJHTUVX
-latiensch/en
 Latiensch      
+latiensch/en
 Latienschöler/S
 Latienschool/n
 Latücht/n						# prüfen La-n-tücht?
@@ -2295,29 +2292,30 @@ Leck/S
 ledden/IDWMOAQRYJTUVÜ
 Ledder/n
 leddig/en
-maak leddigmaak/s
 leeg/en leger/en legerst/en
 Leerteken/S
 leesbor/en
 Leesborkeit
 Leesteken/S
 leev/s 
+leev/sBRPUVF
 Leevdag                            
 legal/en
 Legenn/n
 leggen/IDWMOAQBJPTYEUVFX leed/DAQBJPTYEUVFX leden/AQBJPTYEUVFX
+leggen afleggen 
+legg fastlegg/s                
 lehnen/IDWMOAQYEFX
-lehr/sABV
 Lehr                          
+lehr/sABV
 Lehrer/S
 leider
-leisten/IQ leiste/Q
 Leisten          
+leisten/IQ leiste/Q
 Lenk/n	                 # HD: Link (Internet)
 lesen/JQHPUVF lees/WMOJQHPUVF
 Leser/S
 lest/en
-leev/sBRPUVF
 Levensoort                       
 Levenstiet Levenstieden          
 levern/IDWMOAQBJU
@@ -2335,7 +2333,6 @@ Lief Liever
 liek/en
 liekers
 Liekheit
-maak liekmaak/S liektomaken                  
 lieksterwelt
 liektiedig/en 
 liekto 
@@ -2384,11 +2381,13 @@ Loop Lööp
 Loopwark/n
 loos
 löös/s    
+löös/s aflöös/s # prüfen, ob das richtig autokonjugiert wird
 löösbor/en
 Löösmiddel/S
-stüer loosstüer/s 
+Loots/n
 lopen/AQBRJPTYEUVFX loop/WAQBRJPTYEUVFX löppst/AQBRJPTYEUVFX löppt/AQBRJPTYEUVFX leep/DAQBRJPTYEUVFX lepen/AQBRJPTYEUVFX
 Löper/S 
+Lord/S
 löschen/IDWMOUVX
 lösen/QJPU löös/WMOQJPU
 Löser/S                            
@@ -2397,23 +2396,35 @@ luern/BP luur/DWMOBP
 Luft                           
 Luftdruck
 Luftmass/n
-Lüüd   
 Lung/n
 lunger/s
-Luup/n 		# hd. Lupe
 lüstern/IDWMOBE
+lustig/en lustiger/en lustigst/en
 lütt/en lütter/en lüttst/en
 Lüttbild Lüttbiller                            
 Lüttbookstaav/n
-maak lüttermaak/s lüttertomaken           
 Lüttprogramm/n
 Lüüd
+Lüüd   
+Luup/n 		# hd. Lupe
 luustern/IDWBRHN
+luuthals
 luut lude luden luder/en luutst/en
 Luutspreker/S
 luutstark/en                           
 Luutstärk/n
+Maad/n  # HD: Made
+maak/s dichtmaak/s
 maak/s maken/AQJHPTUVFX maak/DWMOAQJHPTUVFX #prüfen 
+maak egenmaakt/en
+maak fardigmaak/s    
+maak fastmaak/s
+maak freemaak/s freetomaken                            
+maak leddigmaak/s
+maak liekmaak/S liektomaken                  
+maak lüttermaak/s lüttertomaken           
+maak mitmaak/s mittomaken               
+maak reenmaak/s reentomaken  
 maal
 maal/s                          
 Maand/n
@@ -2422,34 +2433,55 @@ Maat/n
 Mac
 mächtig/en mächtiger/en mächtigst/en
 Macker/S
+Madam
 Magenta
+Magie
+magisch/en magischer/en magischst/en
 magneetsch/en                           
+Magnet/n
+magnetisch/en magnetischer/en magnetischst/en
 Magnituud/n
+Mahagoni
+Mahltiet Mahltieden
 mahnen/IDWMOQAV
+maken kloormaken/s kloortomaken                        
+maken künnigmaak/s künnigtomaken    
 Maker/S
 Makro/S
 mal                           
 malen/QABHPNKUVFXÜ maal/DWMOQABHPNKUVFXÜ
+Malesch/n
 mall/en
+Mallbüdel/S
 Malöör/S
 malören malöör/WMO
 man
 Manager/S
 mang
+mank
 Mann Mannslüüd
+Mannschopp/n
 Manpage/S
+Manschett/n
+Mantel/S
+Marathon
+Marathonloop Marathonlööp 
 Marine
 Mark/n
-mark/sABPVF
 Mark/n
+mark/sABPVF
 markeer/s
 markeer/s
 Markmaal/n
 Markt/n
 Marmel/S
-Maschien Maschinen
+Marmelaad/n
+Marmor
+marscheer/s
+Maschien Maschinen  # Sg: nicht Maschin
 Mask/n
 maskeer/sHV
+Maskeraad/n
 Maskottje Maskottjens
 maskuliensch/en 
 Mass/n
@@ -2471,6 +2503,7 @@ Medizin
 Mediziner/S 
 medizinsch/en
 meen/s
+meen menen/V meen/MOV meenst/V meent/V
 Meer Meren
 mehr                           
 mehrfach/en
@@ -2479,9 +2512,8 @@ mehrst/en
 mehrstendeels
 Mehrtall/n
 meist
-Melkstraat/N 
+Melkstraat/n 
 mellen/IAQJV meldst/AQJV meldt/AQJV meldte/AQJV meldten/AQJV
-meen menen/V meen/MOV meenst/V meent/V
 Mengde/n
 mengeleer/s
 mennig/en
@@ -2517,12 +2549,13 @@ Millimeter/S
 Millisekunn/n
 Mineralogie                            
 Minibild Minibiller
-minimal/en
 Minimaalweert/n
+minimal/en
 minimalistisch/en
 minimeer/s
 Minimum Maxima
 Minister/S    
+Ministerium Ministerien
 minn/en minner/en minnst/en
 minner/sQHV 
 Minsch/n
@@ -2534,10 +2567,10 @@ Mischtall/n
 mit
 mit'n
 Mitarbeider/S
+miteens
 mitenanner
-maak mitmaak/s mittomaken               
 mitsamts
-speel mitspelen mitspeel/DWMO
+Mitschöler/S
 mm
 mobil/en
 Mobiltelefon/n
@@ -2560,16 +2593,23 @@ Momang
 Monarch/n
 Monarchie Monarchien
 Monitor/n
+Mönk  # Plural davon?
+Monster/S
 mööd/en 
 Mood/n
 mööglich/en # nicht möglich, öö beachten
 Mööglichkeit/n
 Möög Mögen
+Moot
 morgen
 Mosaik/n
 Moss
 möten mutt/D mööt muss/WMO müssen
+Motor
+Motorrad Motorrööd
 mucksch/en
+muffelig/en
+muffig/en
 multimedia			# adj
 Multimedia			# Subst
 Multimeter/S
@@ -2578,7 +2618,10 @@ Multiplikatschoon/n
 Mumie/n
 Mund Munnen
 Munster/n				# nach Lindow, nicht /S 
+munter/en
+Museum Museen
 Musik/n
+Mütz/n
 muulsch/en                          
 Muusklick/S                         
 Muusknoop Muusknööp                 
@@ -2594,17 +2637,15 @@ na't
 Naam/S
 Naamruum Naamrüüm      
 Naamwoort Naamwöör     
-Naver/s
-Naverstaat/n
 Nacht/n
 Nachtschicht/n
 Nadel/ns			 # Plural auf -n und auf -s
-fraag nafraag/s
 Nafraag/n
+nagel fastnagel/s                
 nageln/IDWMOARJPTVF
 Nakieksel/S
-namiddags
 Namiddag Namiddaag
+namiddags
 Naricht/n
 Narichtenborn/S
 narms
@@ -2618,8 +2659,10 @@ natürlich/en
 nau/en
 Nauigkeit/n
 Naver/S
+Naver/s
 Naverland Naverlänner                           
 Naverschop Naverschoppen
+Naverstaat/n
 Navigator/n
 Navigatschoon/n
 Navigatschoonspaneel/n
@@ -2628,8 +2671,8 @@ nedder/en
 Neddergang 				# prüfen Plural
 neddersass'sch/en
 nee                            
-Neegde                          
 neeg/en neger/en neegst/en
+Neegde                          
 neem
 neeschierig/en
 Nees Nesen
@@ -2648,7 +2691,7 @@ Nettkieker/S
 Nettpost           
 Nettsiet Nettsieden
 Nettwark/n
-Nettweg/N
+Nettweg/n
 Nettweger/n
 neurootsch/en
 neutral/en neutraler/en neutraalst/en
@@ -2656,15 +2699,16 @@ nich
 nie
 nieg/en nieger/en niegst/en
 nienich
+Nimbus # Plural davon?
 nipp
 nix
 noch
 nochmaal                            # prüfen maal/mal
 nödig/en
-nööm/sÜ 
 nominal/en
 Nominativ
 noog
+nööm/sÜ 
 noord/n
 noot
 Norm/n
@@ -2675,8 +2719,8 @@ noteer/s
 Notiz/n
 Nr
 nu
-Null null				# prüfen groß oder klein oder beides?
 Nullmeridian/n
+Null null				# prüfen groß oder klein oder beides?
 Nullpunkt
 Nullsteed				# prüfen Plural
 numeersch/en
@@ -2691,19 +2735,20 @@ oder
 of
 offiziell/en
 Ohr/n
-OK ok
 ok'n
 Ökelnaam/S
+OK ok
 ökoloogsch/en
 ökonoomsch/en
-oktal/en
+ok ook  # Sass: ok, aber ook ist auch häufig zu finden
 Oktaaltall/n
 Oktaalweert/n
+oktal/en
 Oktett/n
 Okular/S
-Öllern
 öller/en öllst/en
 Öllermann
+Öllern
 online
 Oogbro/n
 Oog Ogen
@@ -2731,9 +2776,11 @@ Opgaav/n
 Opgang Opgäng
 Opgavenlist/n
 opgradeer/s
+opletzt
 Oplöser/S                          
 Opnahm/n
 Opnehmer/S
+Oppasser/S
 opportuunsch/en
 Oppositschoon/n
 oprecht/en
@@ -2756,29 +2803,30 @@ orange/n
 Orange/n
 Orbital/n
 Orchester/S 				# Plural prüfen
-Organisatschoon/N
+Order/S
+Organisatschoon/n
 organiseer/s     
 orginal/en
-Orginaltext/n
 Orginalspraak/n
+Orginaltext/n
 Original/n
 ornen/IDWMOAQJTX
 Orner Ornern
 ortograafsch
 Ortografie/n
-Oval Ovalen
 oval/en
+Oval Ovalen
 öven/JUV ööv/DWMOJUV
 över
 överall
 överbreed/en
 övereen
+Överfall Överfäll
 Övergaav/n
 Övergang Övergäng
 överkopp
 överlappen/IDWMO
 överscherig/en
-schrieven överschreven överschrieven överschrievt överschrifft               
 Översetten                           
 Översetter/S
 Översicht/n
@@ -2787,16 +2835,21 @@ Ozean/n
 Ozeankunn
 packen/IDWMOAQBYEJPNKGTUVFXÜ
 Padd/n
+Pageluun/S # HD: Pfau
 Paket/n
 Palett/n
 Paneel/S
+Pann/n
 Papeer/n
 Parabel/n
+Paragraph/n
 parallel/en
 Parameter/S
 Parität/n
 Park/S
 parken/IDWMOQEJNKGTUXÜ
+Parkett
+Parkhuus Parkhüüs
 Parlament/n
 parlamentaarsch/en 
 Part/n			# Plural prüfen
@@ -2806,20 +2859,25 @@ Partikel/S
 Partitschoon/n
 Partizip                            # Plural?
 Partner/S
+Party/S
 passeer/s                           
 passen/IDWMOAQRJPTV
-passiv/en
 Passiv                            
+passiv/en
 Passwoort Passwöör                
 Patroon/n
 Paus/n
 PC
 Peerd Peer 
 pellen/IDWMOQU
+Peper
+Pepermint
 per # hd. pro
-perfekt/en                           
 Perfekt                       
+perfekt/en                           
 Perfesser/S
+Pergament/n
+Pergamentrull/n
 Periodensystem/n
 Periood/n
 perioodsch/en
@@ -2827,9 +2885,12 @@ Person/n
 persönlich/en
 Perzent/n
 Perzess/n
+Perzess/n
 Perzesser/S                            # Plural prüfen /S oder /n
+Phantom/n
 Philosophie
 phoneetsch/en
+Phönix
 Phosphor
 Physik
 physikaalsch/en
@@ -2841,13 +2902,14 @@ pielrecht/en
 PIN
 Pingel/S
 pingeln/IDWMOARYGF
+Pingstroos/n
 Pinsel/S
 Pixel/S
-Plan/S
 plaan/s 
 Plaat/n
 Placken/S
 Plakaat Plakaten
+Plan/S
 planen/BEJTVFÜ plaan/BEJTVFÜ plaanst/BEJTVFÜ plaant/BEJTVFÜ plaante/BEJTVFÜ plaanten/BEJTVFÜ
 Planer/S
 Planet/n
@@ -2860,13 +2922,13 @@ Plaster/S
 plaster/s                       
 Plastik                            
 Platin
-platt/en platter/en plattst/en
 Platt                         
+platt/en platter/en plattst/en
 platzeer/s                    
 Platzholler/S
 Platz Plätz
-pleeg/sJV
 Pleeg                           
+pleeg/sJV
 Pleger/S
 plietsch/en
 plietscherwies
@@ -2875,13 +2937,14 @@ Plotter/S
 Plugin/S
 plus
 pluustern/IDWMOP
+Poggenstohl Poggenstöhl  # HD: Pilz
 polaarsch/en 
 Polarkrink/n
 Politik
 Politiker/S
-Pool Pööl Polen # HD Pfuhl, Pfütze
-Pool Polen # HD der Pole (Land)
 Pool/en # HD Pol geografisch
+Pool Polen # HD der Pole (Land)
+Pool Pööl Polen # HD Pfuhl, Pfütze
 poor
 Poor Poren
 Popularität
@@ -2900,10 +2963,13 @@ praat/s
 Praatschop Praatschoppen
 praatstell/s praattostellen
 Präfix/n
+Präfix/n
+Praktikant/n
+praktisch/en praktischer/en praktischst/en
 prallen/IDWMOQAPX
 Präpositschoon/n
-Präfix/n
 Präsentatschoon/n
+Predigt/n
 Press            
 Prick/en
 Primfaktor/n
@@ -2936,21 +3002,24 @@ Prompt/n
 Proov/n		# HD Probe, das Verb dazu heißt pröven
 prööv/sB
 Pröövsumm/n				# prüfen: öö oder oo?
+Propeller/S
+Prophet/n
 proportschonaal/en
 Proportschoon Proportschonen
 proppen/IDWMOABRHNGTVF
+Proppentrecker/S
 propper/en
 proprietär/en
 Protokoll/n
 Provinz/n
 Proxy Proxies
 Prozedur/n
-Perzess/n
 psychedeelsch/en
 Psychologie
 publik/en
 Puffer/S
 puffer/s   
+Pullover/S
 pulseren pulseer/DW
 Pund
 Punktatschoon/n
@@ -2958,8 +3027,8 @@ punkteren/HU punkteer/DWMOHU
 Punkt Punkten Pünkt
 Püüster/S
 Pyramied Pyramiden
-Quadrat/n
 quadraatsch/en
+Quadrat/n
 quälen/QRYENKG quääl/DWMOQRYENKG
 quengel/s 
 Quitt/n			# HD die Quitte, prüfen
@@ -2978,21 +3047,20 @@ ramponeren ramponeer/DWMO
 Rand Ränner
 Rang Räng
 rank/en
-treck rantrecken/IDW rantrocken/ID
-Raster/S
 raster/s
+Raster/S
 Rate/n
 ratschonaal/en
-real/en
 reageer/s
 Reagenzglas Reagenzglöös Reagenzglääs Reagenzgläser
 Reakschoon/n
+real/en
 realiseer/s  
 Realität/n
 Rebeet Rebeden
 recht/en
 Recht/n
-Rechteck/S Rechteck/N                 # Plural prüfen
+Rechteck/S Rechteck/n                 # Plural prüfen
 rechteckig/en           
 rechterhand
 Rechtpoot Rechtpoten
@@ -3004,10 +3072,10 @@ Reegenn Reegennen
 Reeg Regen
 Reegümbrook Reegümbröök 
 Reekner/S
-maak reenmaak/s reentomaken  
 reen/en
 Reet Reten
 Referenz/n
+regeer/s
 regeer/s  
 Regel/n
 regelmatig/en
@@ -3015,10 +3083,9 @@ Regelmatigkeit
 Regen
 regen reeg/DWMOAJP
 Regeren     
-regeer/s
+Region/n
 Region/n
 regional/en
-Region/n
 Register/S		# Plural prüfen
 registreer/s
 regulär/en 
@@ -3026,6 +3093,7 @@ reguleer/s  # (hd. regulieren)
 Reis/n
 reisen/IDWMOAQBRYEJTUVFX
 reken/AQBEJPTUVFXÜ reek/DWMOAQBEJPTUVFXÜ
+Rekord/n
 Rekurschoon/n
 rekursiv/en
 relativ/enRelativität       
@@ -3033,6 +3101,7 @@ Relativität/n
 relevant/en
 renoveer/s   
 Reparatur/n
+Reporter/S
 Reprodukschoon/n
 reproduzeer/s
 Republik/n
@@ -3045,8 +3114,9 @@ Rest/n
 Resultat/n
 retuur
 Revischoon/n
-Revolutschoon/n
 revolutschoneer/s
+Revolutschoon/n
+Rezept/n
 RGB
 richt/en 
 Richt/n
@@ -3059,6 +3129,7 @@ riek/en
 Riek/n
 Riepde			# ?? wat is dat?
 riepen/IDWMORHU
+Ries/n
 rieten/IAQBRJPUVX rittst/AQBRJPUVX ritt/AQBRJPUVX reet/DAQBRJPUVX reten/AQBRJPUVX
 rieven/WQRJPVX riffst/QRJPVX rifft/QRJPVX reev/DQRJPVX reven/QRJPVX
 Riffel/S
@@ -3069,8 +3140,8 @@ Ringbook Ringböker
 riskant/en
 Riskanz Riskanzen
 Roboter/S
-Rock Röck
 Rockmusik                   
+Rock Röck
 rögen/ABTVX röög/DWMOABTVX
 Roh
 roh/en
@@ -3084,7 +3155,7 @@ röömsch/en
 Roop Rööp
 roor/en
 Roos/en                            
-root rode/N 
+root rode/n 
 rop                            
 ropen/AQBRPTU roop/WAQBRPTU röppst/AQBRPTU röppt/AQBRPTU reep/DAQBRPTU repen/AQBRPTU
 ror/en
@@ -3147,13 +3218,14 @@ scheef scheve/n
 scheep/en
 Scheer/n			# HD Schere
 Scheer Scheren
+scheer scheren/ARJU scheer/DWMOARJU
+scheet scheten/QBRJP scheet/QBRJP schüttst/QBRJP schütt/QBRJP schoot/DQBRJP schoten/QBRJP schaten/QBRJP
 schelen scheel/DWMO #(hd. "schielen" un as "dat scheel(t) wat"="das macht(e) einen Unterschied, nützt(e) etwas)
 Schell/n
 Schema/S
-scheer scheren/ARJU scheer/DWMOARJU
-scheet scheten/QBRJP scheet/QBRJP schüttst/QBRJP schütt/QBRJP schoot/DQBRJP schoten/QBRJP schaten/QBRJP
 schick/en
 schick/sABQRJTYEVFX 
+schicken afschick/s 
 Schicksal                          
 schienen/IDWABRPGV
 schier/en
@@ -3168,8 +3240,8 @@ Schipp Scheep
 Schirm/n
 Schokolaad/n
 schölen schall/D schöölt schullen/IDWMO
-Schoolmeester/S
 School/n
+Schoolmeester/S
 schöön/en   
 Schöönheit/n
 Schööt Schöten
@@ -3188,6 +3260,7 @@ Schriefsysteem Schriefsystemen
 Schriefverlööf Schriefverlöven
 Schriefwies/n
 schrieven/IWAQBRJPNTEUVFÜ schriffst/AQBRJPNTEUVFÜ schrifft/AQBRJPNTEUVFÜ schreev/DAQBRJPNTEUVFÜ schreven/AQBRJPNTEUVFÜ
+schrieven överschreven överschrieven överschrievt överschrifft               
 Schriever/S
 Schrift/n
 Schriftgrött # Plural?
@@ -3201,20 +3274,21 @@ Schritt Schreed
 Schruuv/n
 schüchtern/en
 schüddeln/IDWMOQRGU
-schuul/s
 schummel/s
 schummern/IDW
 schutern/IDWMOYEJHTUXÜ
+schuul/s
 Schuul                         # HD Schutz
 schuulsam/en
 schuven/AQRJPNKGTYEVFX schuuv/WAQRJPNKGTYEVFX schuffst/AQRJPNKGTYEVFX schufft/AQRJPNKGTYEVFX schoov/DAQRJPNKGTYEVFX schoven/AQRJPNKGTYEVFX schaven/AQRJPNKGTYEVFX
 Schuver/S
 SCSI
 se
-See Seen # das geht wohl nicht mit /n
 Seemiel/n
+See Seen # das geht wohl nicht mit /n
 Seesteern			# Plural?
 seggen/IDWMOAQRPTUVF see/DAQRPTUVF seen/AQRPTUVF
+seggen afsegg/s
 Segment/n
 sehn/AQBRJPTYEUVFX seh/AQBRJPTYEUVFX sühst/AQBRJPTYEUVFX süht/AQBRJPTYEUVFX seht/AQBRJPTYEUVFX seeg/AQBRJPTYEUVFX seegst/AQBRJPTYEUVFX segen/AQBRJPTYEUVFX
 Sek # Afkörten för Sekunn		# wo dat? De Afkören is "s"
@@ -3240,10 +3314,11 @@ Seriennummer/n
 Serie Serien
 Server/S
 setten/IDWMOAQBRJPNKGTEYUVFXÜ
+sett freesett/s freetosetten          
+Sicht/n
 sichtbor/en
 Sichtborkeit/n
 Sichtfeld Sichtfeller                            
-Sicht/n
 Sichtwiet		# Plural?
 sien    
 siet/en  sieter/en sietst/en # hd. "flach, niedrig, seicht"
@@ -3287,8 +3362,8 @@ smieten/IAQBJGTYEX smittst/AQBJGTYEX smitt/AQBJGTYEX smeet/DAQBJGTYEX smeten/AQB
 smölten/IDWMOQRJPNGUVXÜ smolten/QRJPNGUVXÜ
 Smöltpunkt Smöltpünkt Smöltpunkten
 smöök/s
-smuck/en smucker/en smuckst/en
 Smuck                          
+smuck/en smucker/en smuckst/en
 Smuckheit
 snaaksch/en
 Snaak Snaken
@@ -3338,16 +3413,18 @@ Spaak			# HD Schimmel
 Spaaß
 sparr/s
 Sparrtiet Sparrtieden
+spazeer/s
 speel/s             
 Speelbaas/n
 Speelbrett Speelbreed
 Speelfeld Speelfeller
+speel mitspelen mitspeel/DWMO
 Speel Spelen
 Speelstärk/n
 Speelstoop/n
 Speeltog Speeltöög
-spegel/s
 Spegel/S
+spegel/s
 Spektraltyp/n
 Spektrum/S
 spelen/AQJPTUVF speel/DWMOAQJPTUVF
@@ -3360,7 +3437,7 @@ Spieker/S
 Spiekerkoort/n
 Spiekermedium Spiekermedien
 spiekern/IDWMOQJ
-Spill/S oder Speel/N       
+Spill/S oder Speel/n       
 spillen/IDWMOGX
 spioneer/sU
 Spioon/n
@@ -3369,14 +3446,14 @@ spiraalsch/en
 spitz/en
 spitz/s 
 Spitzer/S
-spöök/s
 Spöker/S
 spölen/QARYEHGUFX spööl/DWMOQARYEHGUFX
 Spood 
+spöök/s
 Spool/n
 spoor/s              
-Spoor Spöör Sporen
 spoor/sAQJP 
+Spoor Spöör Sporen
 spören/RHPNUF spöör/DWMORHPNUF
 Sport
 Spraak/n
@@ -3415,6 +3492,8 @@ Steert/n
 steken/AQBRJPTEUVX steek/DWAQBRJPTEUVX stickst/AQBRJPTEUVX stickt/AQBRJPTEUVX stick/AQBRJPTEUVX
 Steker/S
 stell/sAQBRYJPTEUVFXÜ 
+stellen dorstellen/IDWMO
+stell hoochstell/s hoochtostellen         
 Stempel/S
 Steven/S
 stevig/en steviger/en stevigst/en
@@ -3425,15 +3504,16 @@ Stil/n
 still/en
 Stimm/n
 stimmen/IDWMOAQBJTV
-Stoff	# HD Staub
 Stoff/n # HD Stoff
+Stoff	# HD Staub
+Stoffstorm 
 Stoop/n
 stöör/s
+stöör/sP
 Stoot Stööt
 stopen/QAKÜ stoop/DWMOQAKÜ
 Stopp  
 stopp/sQP
-stöör/sP
 störmsch/en
 Storm Störm
 störten/IDWMOQJ
@@ -3444,6 +3524,7 @@ Strahl/n
 strahlen/IDWMOQABRYEJNGTUV
 Strategie Strategien
 Streek/n
+streek dörstreek/s
 Stremel/S
 streng/en strenger/en strengst/en
 Streu 
@@ -3454,12 +3535,13 @@ Striet Strieden
 Stroom Strööm
 Struktur/n
 Stück/n
+studeer/s
 Student/n
 stüer/sARYEUVX 
-Stoffstorm 
+stüer loosstüer/s 
 stumm/en
 Stump/n
-Stunn/N Stünn  
+Stunn/n Stünn  
 Stünnenwieser/S
 Stünn Stünnen
 stütten/IDWMOAP
@@ -3504,20 +3586,20 @@ swiemelig/en
 Swien		# Pl = Sg
 swiestern/IDWMOBJT
 swinnen/IDWEV swunnen/IDWEV
+swoor/en sworer/en swoorst/en
 Swoorkraft                          
 Swoormetall/n
-swoor/en sworer/en swoorst/en
 Symbol/n
 symboolsch/en
 Symfonie Symphonien
 symfoonsch/en    
 Symlink/S
-symmetrisch/en
 Symmetrie/n
+symmetrisch/en
+synchron/en
+synchroniseer/s     
 synergeetsch/en
 Synergie Synergien
-synchroniseer/s     
-synchron/en
 Synonüm/n
 syntaktsch/en
 Syntax
@@ -3537,7 +3619,7 @@ Taler/S
 Tall/n
 tangeer/s
 Tangens  
-Tangent/N
+Tangent/n
 Tapeet Tapeten
 tarren/IDWMORYEVFX		# HD zerren
 Taschenreekner
@@ -3550,7 +3632,7 @@ Technik/n
 technisch/en
 Tee/S 
 Teekaker/S
-Teel/N
+Teel/n
 Teelorner/S 
 teemlich/en
 Tegel/S
@@ -3561,6 +3643,7 @@ Tekenkeed/n
 Tekenlosigkeit/n
 Tekensett/n
 Telefon/n
+telefoneer/s
 Telefonnummer/n
 Telegrafie                           
 teleporteer/s
@@ -3604,12 +3687,12 @@ to
 to'n                          
 to't
 toeerst
-Tofall Tofäll
 tofällig/en
-Tog Töög
+Tofall Tofäll
 Togaav/n
 Togang Togäng
 Togriep/n
+Tog Töög
 tohööchst
 tohoop
 tohuus
@@ -3658,6 +3741,7 @@ Trechter/S
 Treckball Treckbäll
 treckbor/en
 trecken/IDWQABRYEJHPNKGTUVFXÜ trocken/IDQABRYEJHPNKGTUVFXÜ
+treck rantrecken/IDW rantrocken/ID
 trenn/sQRP
 Trennbalken/S
 Trenner/S
@@ -3756,10 +3840,10 @@ Vagelkunn
 Variabel Variabeln
 variabel variable variabeln
 Varianz/n
+veel/en
 Veeleck/n
 veeleckig/en
 veelfach/en
-veel/en
 veer                        
 Veereck            
 Veerkant/n
@@ -3865,10 +3949,10 @@ vörut
 vörverarbeiden/IDWMO
 vörwarts
 vörweg
-Vulkan/n
 vulkaanasch/en
-vull/en
+Vulkan/n
 vull
+vull/en
 Vullmaand                          
 Vullmacht/n
 vullstännig/en
@@ -3877,8 +3961,8 @@ vun
 vun'n
 vun't
 vundaag
-vunnacht
 vunmorgen
+vunnacht
 vunwegen
 Waag/n		# HD Waage und Wagen
 waagrecht/en
@@ -3941,8 +4025,8 @@ Wedderspill
 Wedderutsichten
 wedderwendsch/en
 Weder
-Weekenn/n
 week/en weker/en weekst/en
+Weekenn/n
 Week Weken
 Weert/n
 weerten/IDWMOQBPUV
@@ -4011,8 +4095,8 @@ Winkel/S
 winnen/IDVÜ wunnen/IDWVÜ winnt windt/VÜ # gewinnen u. winden
 Winner                           
 Winnst/n		# HD Gewinn, Nutzen
-Winter/S
 Winter
+Winter/S
 Wisch/n
 wischen/IDWMOQRHPGUVFX
 wiss/en
