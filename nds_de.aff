@@ -55,26 +55,28 @@ COMPOUNDPERMITFLAG d
 ###### Fre'e Prefixen: ÄÖ, C und Z sind wieder frei.
 #
 # Kanditaten: ran, rüm, mit
+# Großbuchstaben: normale Verbformen. 
+# Kleinbuchstaben: mit -to- für den Infinitiv
 #
-#	af		Q
-#	an		A
-#	be		B
-#	dör+dörch	R
-#	her		S => jetzt auf Y geändert
-#	hen		E
-#	in		J
-#	na		H
-#	op		P
-#	rin		N
-#	rop		K
-#	rut		G
-#	to		T
-#	ut		U
-#	ver		V
-#	vör		F
-#	weg		X
-#	üm		Ü
-#	-s		S
+#	af		Q q
+#	an		A a
+#	be		B 
+#	dör+dörch	R r
+#	her		S => jetzt auf Y geändert y
+#	hen		E  => C c
+#	in		J j
+#	na		H h
+#	op		P p
+#	rin		N => Z z
+#	rop		K k
+#	rut		G g
+#	to		T t
+#	ut		U u
+#	ver		V 
+#	vör		F f
+#	weg		X x
+#	üm		Ü ü
+#	-s		S 
 
 
 # Unten kommen noch die Suffixe 
@@ -87,77 +89,109 @@ COMPOUNDPERMITFLAG d
 # Suffix e und n für Adjektive
 # Suffix s für schwache Verben
 
-PFX A Y 2
+PFX A Y 1
 PFX A 0 an .
-PFX A 0 anto .
 
-PFX Q Y 2
+PFX a N 1
+PFX a 0 anto .
+
+PFX Q Y 1
 PFX Q 0 af .
-PFX Q 0 afto .
+
+PFX q N 1
+PFX q 0 afto .
 
 PFX B Y 1
 PFX B 0 be .
 
-PFX R Y 4
+PFX R Y 2
 PFX R 0 dör .
 PFX R 0 dörch .
-PFX R 0 dörto .
-PFX R 0 dörchto .
 
-PFX Y Y 2
+PFX r N 2
+PFX r 0 dörto .
+PFX r 0 dörchto .
+
+PFX Y Y 1
 PFX Y 0 her .
-PFX Y 0 herto .
 
-PFX E Y 2
-PFX E 0 hen .
-PFX E 0 hento .
+PFX y Y 1
+PFX y 0 herto .
 
-PFX J Y 2
+PFX C Y 1
+PFX C 0 hen .
+
+PFX c N 1
+PFX c 0 hento .
+
+PFX J Y 1
 PFX J 0 in .
-PFX J 0 into .
 
-PFX H Y 2
+PFX j N 1
+PFX j 0 into .
+
+PFX H Y 1
 PFX H 0 na .
-PFX H 0 nato .
 
-PFX P Y 2
+PFX h N 1
+PFX h 0 nato .
+
+PFX P Y 1
 PFX P 0 op .
-PFX P 0 opto .
 
-PFX N Y 2
-PFX N 0 rin .
-PFX N 0 rinto .
+PFX p N 1
+PFX p 0 opto .
 
-PFX K Y 2
+PFX Z Y 1
+PFX Z 0 rin .
+
+PFX z N 1
+PFX z 0 rinto .
+
+PFX K Y 1
 PFX K 0 rop .
-PFX K 0 ropto .
 
-PFX G Y 2
+PFX k N 1
+PFX k 0 ropto .
+
+PFX G Y 1
 PFX G 0 rut .
-PFX G 0 rutto .
 
-PFX T Y 2
+PFX g N 1
+PFX g 0 rutto .
+
+PFX T Y 1
 PFX T 0 to .
-PFX T 0 toto .
 
-PFX U Y 2
+PFX t N 1
+PFX t 0 toto .
+
+PFX U Y 1
 PFX U 0 ut .
-PFX U 0 utto .
+
+PFX u N 1
+PFX u 0 utto .
 
 PFX V Y 1
 PFX V 0 ver .
 
-PFX F Y 2
+PFX F Y 1
 PFX F 0 vör .
-PFX F 0 vörto .
 
-PFX X Y 2
+PFX f N 1
+PFX f 0 vörto .
+
+PFX X Y 1
 PFX X 0 weg .
-PFX X 0 wegto .
 
-PFX Ü Y 2
+PFX x N 1
+PFX x 0 wegto .
+
+PFX Ü Y 1
 PFX Ü 0 üm .
-PFX Ü 0 ümto .
+
+PFX ü N 1
+PFX ü 0 ümto .
 
 ###### Suffixen för Verben
 # I=ik, Ennen för 1.Persoon
