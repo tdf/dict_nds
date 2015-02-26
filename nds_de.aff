@@ -312,7 +312,7 @@ SFX s üüw üwen   üüw
 
 
 # E anfügen, z.B. Adjektiv good => gode
-SFX e Y 95
+SFX e Y 96
 SFX e 0   e     [^aeiouöü][^aeiouöü]
 SFX e 0   e     [^aeiouöü][aeiouöü][^aeiouöü]
 SFX e 0   e     [^aeiouöü]er
@@ -343,6 +343,7 @@ SFX e ees ese   ees
 SFX e eet ete   eet
 SFX e eev eve   eev
 SFX e eew ewe   eew
+SFX e ien iene  ien
 SFX e oob obe   oob
 SFX e ood ode   ood
 SFX e oog oge   oog
@@ -410,9 +411,9 @@ SFX e üüv üve   üüv
 SFX e üüw üwe   üüw
 
 # N anfügen, z.B. Adjektiv good => gode
-SFX n Y 96
+SFX n Y 98
 SFX n 0   en     [^aeiouöü][^aeiouöü]
-SFX e 0   en     [^aeiouöü][aeiouöü][^aeiouöü]
+SFX n 0   en     [^aeiouöü][aeiouöü][^aeiouöü]
 SFX n 0   en     [^aeiouöü]er
 SFX n 0   n      e
 SFX n 0   en     [i][^aeiouöü]
@@ -443,6 +444,7 @@ SFX n ees esen   ees
 SFX n eet eten   eet
 SFX n eev even   eev
 SFX n eew ewen   eew
+SFX n ien ienen  ien
 SFX n oob oben   oob
 SFX n ood oden   ood
 SFX n oog ogen   oog
