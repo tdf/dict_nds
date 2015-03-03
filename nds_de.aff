@@ -549,3 +549,16 @@ SFX n üüw üwen   üüw
 # Führt nie zu Doppelvokalvereinzelung
 SFX S Y 1
 SFX S 0 s
+
+# Hamborg => Person männlich: Hamborger und Plural Hamborgers
+# Hamborg => Person weiblich: Hamborgersch/e und Plural wie Singular
+# Hamburg => Adjektiv Hamburgsch mit Deklination /en
+SFX v Y 8
+SFX v 0 er [^el]
+SFX v 0 ers [^el]
+SFX v 0 ersch [^el]
+SFX v 0 ersche [^el]
+SFX v 0 erschen [^el]
+SFX v 0 sch [^el]
+SFX v 0 sche [^el]
+SFX v 0 schen [^el]
