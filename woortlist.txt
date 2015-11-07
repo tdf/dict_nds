@@ -1,4 +1,5 @@
-aaa verschoonnullpunktfief # Debug zum Prüfen, ob LibreOffice wirklich die richtige Version geladen hat. Kann später weg. 
+aaa verschoonnullpunktacht # Debug zum Prüfen, ob LibreOffice wirklich die richtige Version geladen hat. Kann später weg. 
+Aadboor/S             
 Aadler/S
 Aaft
 Aaftboom Aaftbööm
@@ -39,7 +40,7 @@ Achterbeen Achterbenen
 Achterdeel Achterdelen
 Achterdöör Achterdören
 Achterenn
-Achterfinster/S 
+Achterfenster/S 
 Achtergatt Achtergaten Achtergatten  # för Gatt hett de Sass twee Mehrtallformen
 Achtergedank/n # Lindow hett Achtergedanken as Eentall, man Sass meent een Gedank, twee Gedanken
 Achtergrund
@@ -106,6 +107,7 @@ afdreih/s
 afdüker/s
 afdüüster/s
 Affall Affäll
+Affallammer/S
 Affalltünn/n
 Affraag/n
 Afgang Afgäng
@@ -130,8 +132,10 @@ Afmarsch # Plural
 Afnahm/n  
 Afreed Afreden
 Afreken
+Afsacker               
 Afsatz Afsätz 
 Afscheed/n
+Afscheedsbreef   Afscheedsbreven 
 Afsenner/S
 Afsicht/n
 Afsiet Afsieden
@@ -142,6 +146,7 @@ afsluuts
 Afsluutweert/n
 Afsnitt/n Afsneed
 afsoluut/en
+afspecken   afspeckte                # Nieg-ins
 Afspeellist/n
 Afspeler/s
 Afsprung Afsprüng
@@ -168,6 +173,7 @@ Aha
 ähem
 Ahl/n
 ahn
+ahnen/IDWOMs               
 akadeemsch/en
 Akademie/n
 Akkusativ
@@ -198,6 +204,7 @@ Algorithmus Algorithmen
 algoritmisch/en
 Alias Aliases
 Alkalimetall/n
+Alkohol               
 Alkoven/S
 all alle allens
 Alldag
@@ -211,6 +218,7 @@ allerhööchst/en
 allerlängst/en
 allerleegst/en
 allerletzt/en
+allerwegens                
 allgemeen/en
 allmächtig/en
 alltiet
@@ -230,9 +238,11 @@ Ammer/S # Eimer
 ammerwies/en
 Amööb/n
 Amplituud/n
+Amsel/n              
 Amt Ämter
 Amtsspraak/n
 Amtstiet Amtstieden 
+amüseer/s
 an
 an'n
 an't
@@ -243,6 +253,7 @@ Ananas
 Anatomie
 Anbarg/n			# was ist das?
 Anbeder/S
+Anbott/n 
 Andacht/n
 Andeel/n
 Andenken
@@ -270,6 +281,8 @@ Anker/S
 Ankerklüüs  # Mehrtall? und was ist das?
 Anklaag/n
 Ankrüüzfeld Ankrüüzfeller         
+Anlegger/S
+Anliggen                # Nieg-ins
 Anloop Anlööp
 annekteer/s
 anner/en annern # die normale Ergänzung ist amüseer/amüseren. Aber "annern" ist auch häufig und sollte ok sein.
@@ -285,6 +298,7 @@ annerwarts
 annerwegens 
 Annongs/n
 anonym/en
+Anorak/S             
 Anröögschirm                            # Plural?
 Anroop Anrööp
 Anroopduer
@@ -320,13 +334,17 @@ Apparat/n
 Appel Appeln Appels # twee Formen för de Mehrtall
 Appelboom Appelbööm
 appeldwatsch/en
+Appelgrütt               
 Appelkoken
-Appelsien/n
+Appelsaft               
+Appelsien/n Appelsina
 Applaus
 Applikatschoon/n
+Aptiet              
 Aquarium Aquarien
 Äquater # nich Äquator!
 arbeid/sQBRJPTZUVFX arbeid/qbrjptzuvfx
+Arbeider/S   Arbeidersche/n         
 Arbeiderpartei
 Arbeit Arbeiden
 Arbeitdag                     # wieso ohne s?
@@ -402,12 +420,14 @@ atoomsch/en
 atschüüs Atschüüs 
 Attack/n
 Attribut/n
+aua              
 Audio
 Aukschoon/n
 Auto/S
 Autobahn/n
 Autodack Autodacken Autodäcker # twee Formen för de Mehrtall
 Autodöör/n
+Autofohrer/S   Autofohrersch/n     
 Autogramm/n
 automaatsch/en autom # Afkörten
 Automalöör/S
@@ -434,13 +454,18 @@ Baadfro Baadfroons
 Baadgast Baadgäst
 Baadmantel/S 
 Baadstuuv/n
+Baadwann/n 
 Baas/n
+Babutz/n   
 Baby
+Babypopp/n 
 Backbeest # Pl?
+Backbook   Backböker  
 backen/IDWMOAQRJPUVF backen/aqrjpuvf 
 Bäcker/S
 back fastback/s                   
 backig/en
+Backs/e            
 backsige/en
 Backsteen/n
 baff/en
@@ -451,6 +476,7 @@ Bagenlien/n
 Bagenmaat
 Bagenminuut/n
 Bagensekunn/n
+Bagger/S             
 Bahn/n
 bahn/s # Verb: bahnen
 Bahnhoff Bahnhöff Bahnhööv           # Plural?
@@ -490,6 +516,7 @@ Bann 				# HD Bann
 Banner/S
 bannig
 Baptist/n
+barfoot         
 Barg/n
 barg/s                        
 bargdaal 
@@ -512,6 +539,7 @@ Basisorner                      # => Plural?
 Basketball Basketbäll 
 bass  # as in bass erstaunt
 bassen/IDWMOPGT bassen/pgt # HD: bersten
+basteln/ZQIDWszq                # Nieg-ins
 Batterie/n
 batz # plötzlich
 baven
@@ -520,6 +548,7 @@ Bavenhand Bavenhänn
 bavenhen
 bavenop 
 bavento 
+Beamte/M                # Nieg-ins
 bedächtig/en
 bedden/IDWMOJPZUÜ bedden/jpzuü  
 Bedelbroder Bedelbröder
@@ -540,6 +569,7 @@ bedüüd/s
 beed/s                           
 beed bede beden # beid?
 beedsiets
+Beek/n 
 been/en                            # wat is dat?
 Been Benen Beens # wi weet wedder nich, woans dat deklineert warrt...
 Beer Beren
@@ -552,13 +582,19 @@ beestig/en
 Beet Beten
 beetsch/en
 Befehl/n
-Befehlsfinster/n
+Befehlsfenster/n
 Befehlsreeg/n
 begäng
 Begeefnis Begeefnissen
+begen                # Nieg-ins
+begööschen   begöösch   begööschst   begööscht/OM                # Nieg-ins
 Begreep/n
+begriepen/TIDWt                # Nieg-ins
 Behinnert/n
+behogt                # Nieg-ins
+behollen/IDW                # Nieg-ins
 Behöörd
+beid/en
 beindruck/s                           
 bekakel/s
 bekannt/en
@@ -568,18 +604,23 @@ Beleefnis Beleefnissen
 beleev/s 
 belicht/s                           
 bell/s
+bellen/ATUXIDWatux                # Nieg-ins oder bell/s
 beluer/s 
 bemannt/en
 bemeier/s
+bemöten/IDWO                # Nieg-ins
 benaricht/s
 benaut/en
 Bericht/n
 Berühmtheit/n
 Bescheed/n
 beschrift/s
+besinnen                # Nieg-ins
 Besitter/S
 Beslag Beslääg
 beslünig/s
+besöken/KQXIDkqx                # Nieg-ins
+Besöök/n
 Bessen Bessens
 Bessenbinner/S
 Bessenkamer/n # prüfen Pl -S?
@@ -612,7 +653,7 @@ betten/IDWMOJPÜ betten/jpü
 Betttiet Betttieden
 Betttüüg 
 bever/s
-beweeg/s
+beweeg/s bewegen/CYZTGFKXIWcyztgfkx                # Nieg-ins
 beweeglich/en
 beweert/s
 Beweerten                            # Subst.
@@ -621,6 +662,7 @@ Bewerker/S
 Bewies/n
 Bewieslast/n
 Bewiesstück/n
+bewohren                # Nieg-ins
 Bezirk/n
 bi
 bi'n
@@ -634,6 +676,7 @@ bidregen bidreeg/W bidriggst bidriggt bidroog/D bidrogen bidragen # HD: betrüge
 Bidreger/S
 Biel/n
 bienanner
+bieten/ZTQXztqx                # Nieg-ins
 bifög/s
 bijektiv/en
 Bilaag/n
@@ -652,6 +695,7 @@ Bildscherm/S
 Bildtyp/n
 bileggen/IDWMO bileed/D bileden     # prüfen
 billen/IDQJHUÜ bildt/QJHUÜ billen/qjhuü
+billig/en
 bilüttens
 bimmel/s
 bimsen/IDWMO						# /s prüfen?
@@ -684,7 +728,9 @@ Bit/S
 bito
 bitodregen
 Bitrate/n
+bitt/ZTQXztqx   bittst/ZTQXztqx   beet/ZTQXztqx   beetst/ZTQXztqx   beten/ZTQXztqx                # Nieg-ins
 bitte
+bitter/en 
 bitwies/en
 blaag/en
 Blaag/n
@@ -695,8 +741,12 @@ blangenan
 blangenanner
 blangenbi
 blank/en
+blarr/s
 Blatt Blääd Bläder
+blau/en
+Blee 		# HD: Blei
 bleek/en
+Bleesticken/S    
 bleken/ARHUF bleken/arhuf bleek/DWMOARHUVF
 blenn/s                            # einarbeiten
 blennen/DAQJPUF blennen/daqjpuf blenn/AQJPUF blendt/AQJPUF
@@ -710,6 +760,7 @@ blieven/IWAQHPTUVX blieven/aqhptuvx bliffst/AQHPTUVX blifft/AQHPTUVX bleev/DAQHP
 blind blinne blinnen
 Blindkopie/n
 blink/sA blinken/a
+blinken/ATPIDWsatp                # Nieg-ins
 Blinker/S
 Blitz
 blitzblank/en
@@ -717,23 +768,33 @@ Blitzsteen/S
 Blix/n
 Block Blöck
 blockeer/s 
+blöden/UVIDWu                # Nieg-ins
 Blog/S
 Blogger/S
+blöhen/UPVup                # Nieg-ins
 Blomensaat
+blond/en
 blööd/en
 Blöödsinn
 Bloom Blomen Blööm
 Blöös Blösen
 Bloot
 bloots
+blots/e                # Nieg-ins
 blubbern/IDWMO
 blucken/IDWMOP
 Blues
+boben                # Nieg-ins
+Bo   Boen                # Nieg-ins
 Bock Böck
 Bodden
+boen/JAZUÜPHBFKQIDWejazuüphfkq                # Nieg-ins
+bögeln/PIDWp                # Nieg-ins
 bögen/QRYCJHPZKGTVFXÜ bögen/qrycjhpzkgtvfxü böög/DWMOQRYCJHPZKGTVFXÜ boog/DQRYCJHPZKGTVFXÜ bogen/QRYCJHPZKGTVFXÜ bagen/QRYCJHPZKGTVFXÜ
+Bohn/S                # Nieg-ins
 bohren/IDWMO
 Bohrmaschien/n
+Böken                # Nieg-ins
 bölken/IDWMO
 Bölkhoosten
 Bomb/n
@@ -748,9 +809,14 @@ Boomansicht/n
 Boom Bööm
 Boomsaag/n
 Boomstamm Boomstämm
+Boor/n            # HD: Bär
 Boord Böör
+Boordwand Boordwänn
 Boort Boorten
 böös/en
+Boot   Bööd             
+bören/YAZTGPVKXIDWOMyaztgpkx                # Nieg-ins
+Borg/n 
 Börger/S
 Börgerkrieg/n
 Börgermeester/S
@@ -761,9 +827,15 @@ Bornkode
 Borntext/n
 Borntyp/n
 Bost Böst
+bösten/YZRUGPQIDWyzrugpq                # Nieg-ins
+böten/JARBIDWjar                # Nieg-ins
 Botter
 Botterbroot Botterbrööd
 Botterfatt Botterfaten
+Botterkääs        
+Botterkoken       
+Bottervagel/S     
+Boünnernehmen/s   
 böver/en böverst/en
 Bövergrenz/n
 Böverkant/n
@@ -771,18 +843,23 @@ Böverkoppel/S
 Böverlaag/n
 Böverorner/s
 Böversiet Böversieden
+box/s
+braden/ARQIDWarq                # Nieg-ins
 Brandwien
 Brass
 breden/UV breed/DWMOUV
+Bree     
 Breed 
-breed/en breder/en breedst/en
+breet brede/n breder/en breedst/en
 Breef Breven
 Breefkasten                             # Plural ??
+Breefmark/n            
 Bregen/S
 breken/AQPTVÜ breken/aqptvü breek/WAQPTVÜ brickst/AQPTVÜ brickt/AQPTVÜ bröök/DAQPTVÜ bröken/AQPTVÜ brick braken/AQPTVÜ # wie nun?
 breken afbreken 
 breken ik breek du brickst he brickt wi breekt ik brook du brookst he brook wi broken brick brickt braken     # wie nun?
 Breker/S
+Brems/n  
 bremsen/IDWMOQJPU bremsen/qjpu
 brennbor/en
 brennen/IDWMOAQJUV
@@ -794,6 +871,7 @@ Brettspill/S oder Brettspeel/n                            # wie nun?
 Brill/n
 Brillenglas Brillenglöös
 bringen/IDWAQRJPYCUVFX bringen/aqrjpycuvfx brochen/IDWMOAQRJPYCUVFX
+bröcht                # Nieg-ins
 Broder Bröder
 Brook  Bröök
 Broot
@@ -804,13 +882,19 @@ Bruker/S
 Brukerkonto/S
 Brukernaam/S
 brummeln/IDWMO
+brummen/AZTIDWOMazt                # Nieg-ins
 bruukbor/en
 Bruukborkeit
 bruun/en
+Bruus Brusen 
 Bucht/n
+Buck   Bück     
+Buddel/S         # HD: Flasche
 buddeln/IDWMOQRJZGTUVÜ buddeln/qrjzgtuvü
 buen/MOAQBJPTCUVF buen/moaqbjptcuvf buu/DWAQBJPTCUVF
 Buer Buern
+Bueree          
+Buernhoff Buernhööv
 Bug/S
 Bülg/n 
 Bülgenlängde/n
@@ -824,8 +908,12 @@ Bundspräsident/n
 Bundsrepublik/n
 Bundsstaat Bundsstaten
 Bundsstraat Bundsstraten
+bunt/en
 Büro/S
 Bus Bussen
+Büsch/e                # Nieg-ins
+Busch                # Nieg-ins
+Buss   Büss                # Nieg-ins
 buten
 butendem
 butenlannsch/en                             # => ännsch?
@@ -834,6 +922,8 @@ buttjern/IDW
 Buuk Büük
 Buukpien
 Buukstremel
+Buul/n    # HD: Beule
+Büx/n       
 Büxenbeen Büxenbenen
 Byte/S
 byzantiensch/en
@@ -841,6 +931,7 @@ ca
 CD-Brenner
 CD CDs
 Celsius
+Cent/S      
 cheemsch/en
 Chemie
 Chemiker/S
@@ -852,6 +943,7 @@ Christendom
 christlich/en
 Client/S
 Clientprogramm/n
+Clown/S     
 cm
 Code/S
 codeer/s
@@ -860,11 +952,21 @@ Copyright
 CPU
 da
 dä # Nebenform to dee
+Daagblatt   Daagbläder       
 Daagbook Daagböker
 daaglich/en
 daags
 Daak						# HD: Nebel, kein Plural 
 Daal/n						# HD: Tal
+daalfallen/IDW   daalfullen/ID                # Nieg-ins
+daalfohren/IDWOM                # Nieg-ins
+daalföhren/IDWOM                # Nieg-ins
+daalgahn/IDWOM                # Nieg-ins
+daalkamen/IDW                # Nieg-ins
+daalleggen/IDW                # Nieg-ins
+daalrutschen/IDWOM                # Nieg-ins
+daalsetten/IDWOM                # Nieg-ins
+daalstellen/IDWOM                # Nieg-ins
 daalwarts
 Daam Damen
 däämlich
@@ -872,7 +974,7 @@ Daat/n					# HD: Tat
 daav/s				# HD toben
 Dack/n Däcker			# zwei Pluralformen
 dackel/s
-Dackfenster/n Dackfinster/n
+Dackfenster/n
 daddeldu
 Daganfang
 Dagansicht/n
@@ -1018,6 +1120,7 @@ dennig # Sass meent: dannig
 Desel/s Dessel/S			# HD Deichsel
 Destillatschoon/n
 destilleer/s
+desülvige/n     
 Detail/S            
 detailleert/en
 Detektiv/n
@@ -1065,6 +1168,7 @@ Dings
 Dingsbums 
 Dingsdag
 dingsdags
+dinken/W                # Nieg-ins
 Dint/n
 Dintenfatt # Plural?
 Dintenfisch 
@@ -1111,6 +1215,7 @@ dokmenteer/s
 Dokmenttyp/n
 Dokter/S
 doktern/IDWMO
+doll/en
 Dollar/S  
 Domään/n  
 Domäännaam/S
@@ -1147,14 +1252,23 @@ döpen dööp döffst döfft dööpt döff döffst döff döffen döfft/en
 dor
 dör'n
 dör't
+doran           
 dorbi
+dordör          
 dör dörch
 dorför
 Dörgang Dörgäng
+dorgegen        
 dorhen
+dorhin          
+dorin           
 Dörloop Dörlööp
 Dörmeter/S
 dormit
+dorna           
+dorop           
+doropsetten                # Nieg-ins
+doröver         
 Dörp Dörper
 Dörsatz Dörsätz
 dörsichtig/en
@@ -1165,10 +1279,14 @@ Dorstellentyp/n
 Dorsteller/S                
 dörstig/en
 dörtig eenundörtig undörtig
+dorto             
 dorüm
+dorünner          
 dörven/IDW dorven/ID
+dorvör            
 dorvun
 Dösch
+döschen/IDW                # Nieg-ins
 dösig/en
 Dösigkeit/n
 Döst
@@ -1213,7 +1331,9 @@ Dreefoot Dreefööt
 dreegbor/en
 dreeglich/en
 dreekantig/en
+dreemal           
 Dreemaster/S
+Dreerad   Dreerööd        
 dreetimpig/en
 dreetollig/en
 dregen/CUVAQBJPTYFX dregen/cuvaqbjptyfx dreeg/WAQBJPTYCUVFX driggst/AQBJPTYCUVFX driggt/AQBJPTYCUVFX droog/DAQBJPTYCUVFX drogen/AQBJPTYCUVFX dragen/AQBJPTYCUVFX
@@ -1229,6 +1349,7 @@ Dreihmomang
 drellen/IDWMO
 dremmeln/IDWMO
 Drempel/S
+drepen/JAja                # Nieg-ins
 Dreper/S
 drewelig/en
 Dribbel
@@ -1242,6 +1363,9 @@ Drievhuusgas/n
 Drift Driften
 drinken/IDWABTUFX drinken/atufx drunken/IDABTUFX
 Drinkwater
+dröff/IDWOM                # Nieg-ins
+droffen/W                # Nieg-ins
+drögen/JARUPQjarupq                # Nieg-ins
 Dröhn
 Dröhnbüdel/S
 dröhnen/IDWMO
@@ -1251,6 +1375,7 @@ dröög/en dröger/en dröögst/en
 Dröögde
 Droom Drööm
 droppen/IDWMOQRZGX droppen/qrzgx
+dröven/IDWOM                # Nieg-ins
 druck/s
 drück/s
 druckbor/en
@@ -1263,6 +1388,7 @@ Druckvöransicht/n
 drüppeln/IDWMOQBRCPZKGTUVX drüppeln/qbrcpzkgtuvx
 Drüppen/S
 drütt drüdde drüdden
+drütte/n                # Nieg-ins
 Druus
 Dschungel/S
 dubbel                            
@@ -1271,6 +1397,7 @@ Dubbelklick/n
 dubbelklicken/IDWMO
 Dubbelpunkt Dubbelpünkt           
 dubbelt/en
+dücht                # Nieg-ins
 düchtig/en
 Dudeldopp
 Dudelkasten/S
@@ -1320,9 +1447,9 @@ Dunner/S
 dunnern/IDWMO
 Dunnersdag
 duplex
+dusend
+dusend
 Dusend
-dusend
-dusend
 dusselig/en
 Dust
 Dusterkamer
@@ -1335,6 +1462,8 @@ Duun/n
 Düün/n
 Düüs/n
 düüster/en düüsterer/en düüsterst/en
+düüsterblau/en             
+düüsterbruun/en            
 Düüsternis Düüsternissen
 düütlich/en
 Duuv Duven
@@ -1388,7 +1517,8 @@ eendoont
 eenfach/en eenfacher/en eenfachst/en
 Eenheit/n
 Eenhoorn/S
-eenmaal
+eenmal              
+eensam/en
 eensdaags
 eensoortet/en
 Eentall
@@ -1407,12 +1537,13 @@ Eer Eerd
 eernst/en eernster/en
 eernsthaftig/en
 eerst/en
-eerstmaal
+eerster         
+eerstmal
 Effekt/n
 effektiv/en effektiver/en effektivst/en
 Effektklöör/n
-egaal
-egaalweg 11 
+egalweg 
+egal 
 egen/en
 Egenbruuk 
 Egendom
@@ -1420,6 +1551,8 @@ Egennaam/S
 Egenschop Egenschoppen
 egenstännig/en
 egentlich/en
+Eh/n           
+Ehpoor/n     
 ehr't
 ehrdat 
 ehrdem
@@ -1428,6 +1561,8 @@ ehr ehrn ehre
 ehren
 Ehrendag Ehrendaag
 ehrenhaft
+Ehrgiez
+ehrgiezig/en
 ehrgüstern
 ehrlich/en
 ehrmaals
@@ -1462,13 +1597,14 @@ Ellbagen/S
 Ellips/n
 Ellipsoid                           
 elliptsch/en
+Elv            # HD: Elbe (Fluss)
 em       
 Emiraat/n
 emsig/en
 Emulator/n
 Emulatschoon/n
 emuleer/s
-en
+en ene enen
 enanner/ARJHPTUFÜ
 endlich
 endlos/en # endloos?
@@ -1478,8 +1614,10 @@ Energiebruuk
 Energie Energien
 enerwegens
 Engel
+enig/en
 enigermaten
 Enkel/S
+Enkeldochter   Enkeldöchter  
 enkel enkelte enkelten
 Enkelheit/n
 enkelt/en  
@@ -1494,6 +1632,7 @@ Enter
 Entität/n
 Entropie Entropien
 Eruptschoon/n 
+Esel/S       
 estemeren estemeer/DWMO
 Etaasch/n
 eten/APTUFX eten/aptufx itt/DAPTUFX eet/DAPTUFX
@@ -1540,6 +1679,7 @@ Fachmann Fachlüüd
 Fackel/n
 fackel/s
 Faden/S
+Fähr/n
 Fahrenheit                            
 faken                          
 Fakter/S                       
@@ -1553,6 +1693,7 @@ falsch/en
 Familie/n            
 Familiennaam                    
 Familienstand            # plural?
+famos/en
 Fang                           # Plural
 Fangarm/S                       
 fangen/IDWAQJPV fangen/aqjp fungen/IDAQJPV
@@ -1582,7 +1723,8 @@ feern/en
 Feernbedenen                           
 Feernglas Feernglöös                  
 Feernsehn
-Feernsehreeg Feernsehregen
+Feernsehreeg Feernsehregen  
+fegen/CYZRUGQXIDWcyzrugqx                # Nieg-ins
 fehl/sBV
 Fehler/S
 Fehleradress/n
@@ -1598,16 +1740,21 @@ fein/en
 Feld Feller
 Feldgrött/n
 Feldnaam/S
+Fell/n          
 feminin/en
+Fenster/n                # Nieg-ins
 Ferien
+Fernseh/n                # Nieg-ins
 Fest/n
 Festival/S
 fett/en
 Fett/n
 fickerig/en fickeriger/en fickerigst/en
+Fieg/n         # HD: Feige
 fien/en
 Fiend/n
 Fierdag Fierdaag
+fiern/ZGIDWzg                # Nieg-ins
 Figur Figuren
 Film/n
 Filmmusik/n
@@ -1621,17 +1768,18 @@ Finanzen
 Finger/S
 Fingerafdruck Fingerafdrück
 finnen/IDQJPGX finnen/qjpgx findt/QJPGX funnen/IDQJPGX
-Finster/S
-Finsterbank Finsterbänk
-Finsterbild Finsterbiller                            
-Finsterdekoratschoon/n
-Finstergrött/n
-Finsterinholt
-Finstertyp/n
+Fenster/S
+Fensterbank Fensterbänk
+Fensterbild Fensterbiller                            
+Fensterdekoratschoon/n
+Fenstergrött/n
+Fensterinholt
+Fenstertyp/n
 Firma Firmen Firmas			# Mehrzahl prüfen
 Fisch
 Fischer/S
 Fischkunn
+Fisematenten                
 fix/en
 Fixansicht/en
 Fixhülp
@@ -1662,22 +1810,32 @@ Flegel/S
 flegen/AQRYCJPTUVFXÜ flegen/aqrycjptuvfxü fleeg/WAQRYCJPTUVFXÜ flüggst/AQRYCJPTUVFXÜ flüggt/AQRYCJPTUVFXÜ flöög/DAQRYCJPTUVFXÜ flögen/AQRYCJPTUVFXÜ flagen/AQRYCJPTUVFXÜ
 Fleger/S
 Flegerhaven/S
+Fleit/n                
 fleten/QRJUX fleten/qrjux fleet/QRJUX flüttst/QRJUX flütt/QRJUX floot/DQRJUX floten/QRJUX flaten/QRJUX
 flicken/IDWMOAJPZKTU flicken/ajpzktu
+flietig/e               
 Floog Flöög                            
 Flöök Flöken
 Floppy                           
 Flott                            
+Flünk/n              
 flusig/en
 Fodder                           
 föddern/IDWMOAQJP föddern/aqjp
+Foder
+fodern/ATQIDWatq                # Nieg-ins
 föfftig eenunföfftig unföfftig
 fögen/AJTV fögen/ajt föög/DWMOAJTV
 föhl/sABRCJF föhlen/arcjf                   
+föhlen/AZTFIDWaztf                # Nieg-ins
 fohren/IDWMOAQBRJHPZKGYCUVFX fohren/aqrjhpzkgycufx
 föhren/IDWMOAQRJPYCUVFX föhren/aqrjpycufx
 Föhrer/S
+Fohrer/S   Fohrersch/n                # Nieg-ins
+Föhrerschien/s                # Nieg-ins
+Fohrrad   Fohrrööd               
 Fohrt/en  
+foken                # Nieg-ins
 Fokus
 fokusseer/s
 Folg/n
@@ -1693,8 +1851,10 @@ foolden/IDWMOJTU foolden/jtu
 foorts 
 Football Footbäll
 Footballspeler/S
+Footbodden/S                # Nieg-ins
 Foot Fööt
 Footpadd/n
+Footpleeg                # Nieg-ins
 Footreeg/n
 Foottruppen
 för
@@ -1710,8 +1870,10 @@ formen/IDWMOUVFÜ formen/ufü
 Form Formen
 Formulor/n
 forsch/s
+Förster/S        
 förwiss/en
 Förwoort Förwöör
+foten                # Nieg-ins
 Foto/S
 fotografeer/s
 Fotografie   
@@ -1730,20 +1892,32 @@ freehannig/en
 Freeruum Freerüüm                           
 Freetiet Freetieden                           
 freetsch/en
+Freid          
+freien/IDW                # Nieg-ins
 Frequenz/n
 Frequenzband Frequenzbänner
 freren/QARJTUV freren/qarjtu freer/DWQARJTUV froor/DQARJTUV froren/QARJTUV
 fresen früst # nur in Mi/Dat früst.   # wat is dat???
 freten/QARJPZGTUVX freten/qarjpzgtux freet/DQARJPZGTUVX fritt/DQARJPZGTUVX
+Freud/M                # Nieg-ins
 freuen/IDW
 frisch/en
 frischen/IDWMOAP frischen/ap
 Frischluft                          
+Frisör/n 
 Frist/n
 Fro Froons Froonslüüd
+frogen/W                # Nieg-ins
 fröh/en fröher/en fröhst/en
+froh/O                # Nieg-ins
+fröhen                # Nieg-ins
+Fröhjohr
+Fröhstück/n  
+fröhstück/s
 frömd/en frömme frömmen
 Frömdslötel/S
+Froog                # Nieg-ins
+Froonsminsch/n
 Frost
 Fruchtborkeit/n
 Frucht Frücht
@@ -1757,7 +1931,10 @@ Fuchtigkeit/en
 Füer
 füer/s        
 Füerwark/n
+Füerwehr/n
 füll/sABJPTÜRU füllen/ajptüru
+full                # Nieg-ins
+füllen/JZUÜPHBQIDWOMjzuüphq                # Nieg-ins
 Füllgraad/n
 Funk/n
 Funker/S
@@ -1766,8 +1943,10 @@ Funknettwark/n
 funkscheneer/s
 funkschoneer/s
 Funkschoon Funkschonen
+fuul/en
 füünsch/en
 fuurts			# prüfen foorts?
+Fuust  
 gaatlich/en					# HD: passend, bequem
 Gaav/n
 Gadder/n   	# Plural na Sass. Woso nich /S ???
@@ -1788,16 +1967,25 @@ Gavel/n
 Geboortsdag Geboortsdaag
 Geboortsjohr/n
 Geboortsoort Geboortsöörd
+Gebuurt/n                # Nieg-ins
+Gebuurtsdag                # Nieg-ins
 Gedächtnis
 Gedank/n
 Gedicht/n
 gediegen/en
 geel/en
 geern
+geet/JZUBXIDWOMjzux   geten/JZUBXjzux                # Nieg-ins
+gefährlich/e                # Nieg-ins
+gefallen/CZRTUÜPQXczrtuüpqx                # Nieg-ins
 Geföhl/n
+Gefohr/n                # Nieg-ins
 Gefohrrebeet Gefohrrebeden          
 gegen
+gegenan             
+Gegend                # Nieg-ins
 gegenlöpig/en   
+gegenöver           
 Gegenricht/n
 Gegensmann Gegenslüüd                         
 Gegenvörslag Gegenvörslääg                          
@@ -1819,6 +2007,7 @@ general/en
 General/n
 generaliseern/s
 Generatschoon/n
+geneten   geneet   genüttst   genütt   genoten                # Nieg-ins
 Genitiv/n
 geograafsch/en
 Geografie
@@ -1839,10 +2028,13 @@ Gesett/n
 Gesicht Gesichter
 Geslecht Geslechter
 Geswister/S
+geten   geet   güttst   gütt   gaten                # Nieg-ins
 geven/ABQRJPGTYZUVFX geven/aqrjpgtyzufx  geev/ABQRJPGTYZUVFX giffst/ABQRJPGTYZUVFX gifft/ABRJPGTYZUVFX geevt/ABQRJPGTYZUVFX geevst/ABRJPGTYZUVFX giff
 Gever/S
+Gewidder/S                
 Gift
 giftig/en
+Giraff/n                
 Glas Glöös
 glatt gladde gladden				# Konsonantenwechsel!
 Gleem						# HD Glanz, Glimmer, Lichtstreifen
@@ -1854,21 +2046,30 @@ glieks
 glimmer/s  
 glinster/s 
 glinstern/IDW
+glitschig/en
 global/en
 Globus                            # prüfen Mehrzahl
 glöhen/IDWMOARPGUVX glöhen/arpguvx
 glöhnig/en
+Gloov/n 
 glööv/sB
 Glück
 glücken/IDWMOB 
+gluupsch/en
 Gnaad Gnaden
+gnatterig/en
+gnatzig/en
+gniggern/W                # Nieg-ins
 Gold
+Goldfisch
 Goldklümpen                           
 Goldsöker/S
 Golf     
 Golfplatz Golfplätz
 gollen/en
 Gööd Göden
+goor                # Nieg-ins
+Goorn/S                # Nieg-ins
 Goosfööt
 Goos Göös
 goot gode goden 		
@@ -1881,6 +2082,9 @@ Graaf Grafen
 graafsch/en
 Graav Gravens
 gradeer/sP
+Graff/n                # Nieg-ins
+Graff   Gräver                # Nieg-ins
+Gräffnis/M                # Nieg-ins
 Grafik/n
 Grafikformat/n
 Grafikkoort/n
@@ -1891,8 +2095,10 @@ grammatsch/en
 grantig/en   
 Graph/n
 Graphentheorie  
+Gras          
 gräsig/en       
 gratis
+grau graue/n # da klemmt das grau/en
 graven/QRJPZGUVFÜ graven/qrjpzgufü graav/DWQRJPZGUVFÜ groov/DQRJPZGUVFÜ groven/QRJPZGUVFÜ
 Gravitatschoon          
 Gravitatschoonskraft  
@@ -1902,17 +2108,24 @@ Grenzfrequenz/n
 Grenzweert/n
 Grenzwinkel         # Sg = Pl
 gresig/en
+grien/W                # Nieg-ins
+grienen/ATIDWOMat                # Nieg-ins
 griepen/IWAQBRJPTYUVFX griepen/aqrjptyufx grippst/AQBRJPTYUVFX grippt/AQBRJPTYUVFX greep/DAQBRJPTYUVFX grepen/AQBRJPTYUVFX
 Grieper/S
 griepsch/en
 gries/en
 groff grove/n groffer/en groffst/en
+grönen/W                # Nieg-ins
+grood/e                # Nieg-ins
 gröön/en
+Grööntüüch/S                # Nieg-ins
 groot/en grötter/en gröttst/en
 grööt/s
 Grootbookstaav/n
 Grootvader/s Grootvadder/S 
+gröten/TIDWt                # Nieg-ins
 Grött/n
+Gröttde/n                # Nieg-ins
 grummel/S
 Grundform/n
 Grund Grünn        
@@ -1929,6 +2142,8 @@ güstern
 Gymnasium Gymnasien
 haal/s
 haap/s
+Haas/n           
+Hack/n           
 Hacker/S
 Hagel  
 Hahn/s
@@ -1943,14 +2158,20 @@ Halfkugel/n
 Halfmaand
 Halfmaat
 Halfmetall/n
+Hälft/e                # Nieg-ins
 Halftoon 
 Halfweerttiet Halfweerttieden                            
 Hall/n
+hallo         
 Halogen/n
 Hals/n Häls  # twee Plualfomen
+Haltesteed                # Nieg-ins
 halvig/en
 halvigfett/en
+Hamer/S           
+Hamster/S         
 Handbook Handböker
+Handdook   Handdöker 
 Hand Hannen
 Hand Hannen Hänn
 Handsch/n Hannsch/n 		# HD: Handschuh
@@ -1971,11 +2192,15 @@ hartlich/en
 Harvst   
 hau/s    
 Haubitz/n
+hauen/IDWs                # Nieg-ins
+Hauptsaak/n                # Nieg-ins
+Haven/S                # Nieg-ins
 he       
 hebben/AF hebben/af heff/AF hest/AF hett/AF hebbt/AF harr/AF harrst/AF harrn/AF hatt/AF
 heel/en
 Heelschirm 
 Heeltall/n
+Heen/nS                # Nieg-ins
 Heerd/n			# HD: Herd
 heet/s  
 Heimat
@@ -1986,6 +2211,8 @@ Held/n
 hell/en heller/en hellst/en
 hellen/IDWMOP hellen/p
 Helligkeit/n
+helpen/IDW                # Nieg-ins
+Hemd/n                # Nieg-ins
 hen
 Henwies/n
 Henwieser/S
@@ -1994,6 +2221,7 @@ Herr/n Herrn # Herrn för de Anreed
 Herrschaft/n
 he sien em ehr
 heten heet/DMO
+Hevel/S                # Nieg-ins
 Heven
 heven/ARPZKGUVX heven/arpzkguvx  heev/DWMOARPZKGUVX
 Hex/n
@@ -2007,6 +2235,7 @@ hierarch'sch/en
 Hierarchie/n
 hierarchisch/en
 hierhen
+hild                # Nieg-ins
 Himmel
 hinnern/IDWMOBV
 Histogramm/n
@@ -2015,21 +2244,27 @@ Historie
 Historiker/S
 Hitt                           
 hitt/en hitter/en hittst/en
+Hitten/e                # Nieg-ins
 höden/BJV höden/bjv hööd/WBJV hödden/IDWBJV
 Hoff Hööv
 högen höög/DW
+Höhl                # Nieg-ins
 Höker/S
 holl
 hollen/AQBRJPTYCUVF hollen/aqrjptycuf hool/WAQBRJPTYCUVF höllst/AQBRJPTYCUVF höllt/AQBRJPTYCUVF heel/DAQBRJPTYCUVF helen/AQBRJPTYCUVF hollt
 Holler/S
+hölltan                # Nieg-ins
 Hölp                           
 hölpen/IDWQBPU hölpen/qpu hulpen/IDQBPU
 Hölper/S
 hölpsch/en
 Holt Hölter
+Honnig                # Nieg-ins
 Hööchd/en
 Hoochformat/n
+hoochgahn/IDW                # Nieg-ins
 hooch hoge/n höger/en hööchst/en
+hoochkamen/IDW                # Nieg-ins
 hoochkant
 Hoochkomma/S
 hoochlaad/s hoochtoladen        
@@ -2039,7 +2274,7 @@ Hoochschoolwesen
 hööft
 Hööft                     
 Hööftdeel/n
-Hööftfinster/n		# Pl -n! nicht -s
+Hööftfenster/n		# Pl -n! nicht -s
 Hööftstadt Hööftstäder 
 höög/s
 hoop/s
@@ -2047,16 +2282,30 @@ höör/s
 höörbor/en
 Hoor Horen
 Höörn Hörnen
+hoosten/IDWOMs                # Nieg-ins
 Hoot Hööt
+höpen/IDW                # Nieg-ins
 Hopen/S
+Höpen/S                # Nieg-ins
 hören/AFJPTYCVX hören/afjptycvx höör/DWMOAFJPTYCVX
+Horn/S                # Nieg-ins
+hulen/IDW                # Nieg-ins
 Hülp
 Hülper/S
 Hülpprogramm/n
 Hummel/n
 Hund Hunnen
+Hunger                # Nieg-ins
+hungrig                # Nieg-ins
+hunnert/e                # Nieg-ins
+Hupen/S                # Nieg-ins
 hüppen/IDWMORX hüppen/rx
+Hütt/n                # Nieg-ins
+Huusdöör/n                # Nieg-ins
+Huusfro/n                # Nieg-ins
+Huushollt/n                # Nieg-ins
 Huus Hüüs
+Huusopgaav/n                # Nieg-ins
 Huut                            
 hüüt
 Hyperbel/n
@@ -2102,7 +2351,7 @@ Infanterie
 Info                          
 Info/S
 Infofeld Infofeller   
-Infofinster/n
+Infofenster/n
 inföög/s
 Informataschoon/n
 Infrastruktur                          
@@ -2159,7 +2408,12 @@ Isobar/n
 isoleert/en
 Isotop/n                          
 ja                           
+Jack/n                # Nieg-ins
+jagen/CYZTGVKXIDWcyztgkx                # Nieg-ins
+Jäger/S                # Nieg-ins
 Januor Februor März April Mai Juni Juli August September Oktober November Dezember
+je                # Nieg-ins
+jeedeen                # Nieg-ins
 ji
 jibbeln/IDWBVX jibbeln/x
 jichtens
@@ -2167,48 +2421,72 @@ jichtenseen
 jichtenswann                            
 jichtenswat
 jichtenswo
+Jieper/S                # Nieg-ins
 jo
 Johr/n
 Johrdag
+Johrhunnert/e                # Nieg-ins
+Johrteihnt/s                # Nieg-ins
+jöken                # Nieg-ins
 jongleer/s 
+Jöögd                # Nieg-ins
 Journalist/n
 Joystick/S
 jüm
 jümehr
 jümmer/S ümmer
+jümmers                # Nieg-ins
 jumpen/sAQRYCJPZKGTVFX jumpen/aqrycjpzkgtvfx
+Jung/nS                # Nieg-ins
 jüst
+jüstso                # Nieg-ins
 Juud Juden
 juudsch/en           # prüfen ü?
 kaak/s
+Kaaklepel/S                # Nieg-ins
 Kachel/n
 kachel/sJU       
+Kaffee                # Nieg-ins
+Kakao                # Nieg-ins
+kaken/JARTUPHBFVQIDWOMjartuphfq                # Nieg-ins
 kakendig				# wat is dat?
 Kalenner/S Klenner/S
 kalibreer/s
 kamen/ABRHPZKGYCUVFX kamen/arhpzkgycufx kaam/WABRHPZKGYCUVFX keem/DABRHPZKGYCUVFX kemen/ABRHPZKGYCUVFX kumm/DWABRHPZKGYCUVFX
+Kamer/n                # Nieg-ins
 Kamera/S
+kämmen/RUGHIDWMrugh                # Nieg-ins
+Kamm   Kämm                # Nieg-ins
 Kanal/S			# Plural prüfen
+Kanink/n                # Nieg-ins
 Kant/n
 Kantüffel/n Kantüffel/S		# prüfen Plural
 Kapitel/S
 kapsel/s inkapsel/s
 Kapsel Kapseln
 kapseln/IDWMOQJV kapseln/qj
+Kaptein/S                # Nieg-ins
+Kapuuz/n                # Nieg-ins
 Kark/n
 Kark/n
 Karkhoff Karkhööv
 karklich/en           
 Karn/S
+Kasbeer/n                # Nieg-ins
+Kasper                # Nieg-ins
+Kassen                # Nieg-ins
 Kassett/n
 Kasten/S
 Katalog/n
 Katastroof Katastrofen # prüfen mit ph?
 Kategorie/n
+Kater/S                # Nieg-ins
 kathoolsch/en
 Katt/n
+Katteker/S                # Nieg-ins
 Kaubontje/S
 kauen/IDWMOQARGTUF kauen/oqargtuf
+Kaugummi/S                # Nieg-ins
 Kavel/S				# wat is dat?
 Käver  # prüfen Plural
 kB
@@ -2216,44 +2494,62 @@ Keed/n
 keen/en
 keeneen
 Keerl/S
+Kees                # Nieg-ins
 kehren/IDWMOQBJUV kehren/QJU
+Keks                # Nieg-ins
 Keller 					# prüfen Plural                          
 keltsch/en
 kenn/sBUV 
+kennen/UVIDWu                # Nieg-ins
 Keramik/n
 Kernel/S			# ut de Computeree 
 kettelig/en
+ketteln/RIDWOMr                # Nieg-ins
 kHz
 kieken/IDWAQBRJHTYCUVX kieken/aqrjhtycux keek/DAQBRJHTYCUVX keken/AQBRJHTYCUVX
 Kieker/S
 Kiekricht/n
 Kiekwinkel                            # prüfen Plural
 Kiel/n
+kievig/en                # Nieg-ins
+Kilo/S                # Nieg-ins
+Kilometer/S                # Nieg-ins
 Kimm
 Kind Kinner Kinners                          
+Kinn                # Nieg-ins
+Kinnergoorn/S                # Nieg-ins
+Kino/S                # Nieg-ins
 kippen/IDWMOQARHZKGTUVXÜ kippen/qarhzkgtuxü
 Kist/n
 Klaag/n			
 klaag/sABRJGVX klagen/arjgx
+klagen/JABVIDWOMja                # Nieg-ins
 klammern/IDWMOAJTU klammern/ajtu
 Klamp/n
 Klang Kläng
 Klapp/n
 klappen/IDWMOQJPTUX klappen/qjptux
+klappern/QIDWq                # Nieg-ins
 Klappreekner/S 
 Klass/n
 klass'sch/en
 Klassik              
 klattern/IDWMOBRHZKGTFX klattern/rhzkgtfx
+klauen/IDWOM                # Nieg-ins
 Kledaasch            
+kleden/JAUÜBVIDWOMjauü                # Nieg-ins
 kleed/sABJUVÜ kleden/ajuvü
 Kleed                             # prüfen Plural
 kleen/en
 Klemm/n
+Klever/S                # Nieg-ins
+Kleverblatt                # Nieg-ins
 Klick/S
 klick/s anklick/s
 klick/sARJX klicken/arjx
+klingeln/AIDWa                # Nieg-ins
 Klink/n
+Klo/S                # Nieg-ins
 Klock/n
 Klöner/S
 klook/en
@@ -2264,11 +2560,16 @@ kloor/en
 Klöör/n
 Kloortext
 Kloot Klöten
+kloppen/AUGPVKQXIDWOMaugpkqx                # Nieg-ins
 kloren/QPVF kloren/qpf kloor/DWMOQPVF
 Klumpen
 Klump Klümp          
 Kluut Klüten
+Knaken                # Nieg-ins
+knallen/CZRTFKQXIDWczrtfkqx                # Nieg-ins
 knapp/en
+Knecht/n                # Nieg-ins
+Knee/n                # Nieg-ins
 Knief Knieven
 kniepen/IWQBRT kniepen/qrt knippst/QBRT knippt/QBRT kneep/DQBRT knepen/QBRT
 Knipp/n
@@ -2284,10 +2585,14 @@ Kode Koden
 Koderer/S
 Koeffizient/n
 Koffein
+Koffer/S                # Nieg-ins
 Kofferruum Kofferrüüm Kufferruum Kufferrüüm
 Koffie
 Koh Köh 
 Kohl    
+köhl/e                # Nieg-ins
+köhlig/e                # Nieg-ins
+Köhlschapp/n                # Nieg-ins
 Koken
 Kollineor/en
 Kollischoon/n
@@ -2339,6 +2644,8 @@ Kontrast/n
 konverteer/s
 konvex/en
 konzentersch/en
+Konzert/e                # Nieg-ins
+Köök/n                # Nieg-ins
 Kookje/S
 koolt kole/n köller/en köölst/en
 Koop Kööp
@@ -2356,6 +2663,7 @@ Koppel/S
 koppel/sAQJTUVÜ koppeln/aqjtuü
 Kopphörer/S
 Kopp Köpp
+Koppküssen                # Nieg-ins
 Koppreeg/n
 Körbs Körbsen
 kören => irr?                            # konjugieren?
@@ -2373,20 +2681,29 @@ kortwielig/en
 kösten/IDW
 Kraam
 kraam/s
+krabbeln/CYZRGKXIDWOMcyzrgkx                # Nieg-ins
 Kraftfeld Kraftfeller           
 Kraft Kräft
 Kraftstoff/n
 kraftvull/en
+Kragen/S                # Nieg-ins
+Krall/n                # Nieg-ins
 krank/en
+krank/en                # Nieg-ins
 Krankenbett/n
 Krankenhuus Krankenhüüs
+Krankenhuus   Krankenhüüs   Krankenhüser                # Nieg-ins
 Krankenstatschoon/n
 Krankenswester/n Krankensüster/n
+Krankenwagen/S                # Nieg-ins
 Krankheit/n
+Krankheit                # Nieg-ins
 Krater/S 
 Kreeft               # Plural?
 Kreem          
 Kreemsupp/n      
+Kreis/n                # Nieg-ins
+Kried                # Nieg-ins
 Krieg                           # Plural?
 kriegen/IWQJPZKGCX kriegen/qjpzkgcx kriggst/QJPZKGCX kriggt/QJPZKGCX kreeg/DQJZKPGCX kregen/QJPZKGCX
 Krink/n
@@ -2394,8 +2711,13 @@ Krinkbagen/S
 krinkoortet/en
 Kristall/n
 kritisch/en			# prüfen: kritsch? 
+Kröger/S                # Nieg-ins
+Krögersch/n                # Nieg-ins
 Krokodil/n
 Kroon/n
+Krööt   Kröten                # Nieg-ins
+krumm/en                # Nieg-ins
+Krümm/n                # Nieg-ins
 Krüüz/n
 krüüz/s
 krüzen/AQRJP krüzen/aqrjp krüüz/WMOAQRJP
@@ -2405,10 +2727,14 @@ kubsch/en
 Kuddelmuddel                        
 Kuffer/S Koffer/S # Sass: Koffer als Standard. Cyriacks: Kuffer
 Kugel/n
+Kukuuk/S                # Nieg-ins
 Küll
+Kuller/S                # Nieg-ins
 Kult                           
 Kultur/n
 Kulturform      # prüfen Mehrzahl
+Kummer                # Nieg-ins
+kümmt                # Nieg-ins
 kumplett/en
 kumpletteer/s
 Künn
@@ -2425,6 +2751,7 @@ Küsel/S
 küselig/en
 Kusenbreker/S
 Küssen/S
+kuum                # Nieg-ins
 Kuus/n
 kyrillsch/en
 laadbor/en
@@ -2441,6 +2768,7 @@ Lader/S				# wat is dat?
 Lager/S
 lager/sAQBJUVÜ lagern/aqjuü
 Lagers 
+lahm/e                # Nieg-ins
 Lamp/n
 Landkoort/n
 Land Länner Lannen
@@ -2449,16 +2777,22 @@ lang/en länger/en längst/en
 Läng/n Längd/en
 lang/sABRYCTV langen/aryet
 Längd Längde/n
+langen/CYAZRTKIDWcyazrtk                # Nieg-ins
 Langform                 # prüfen Mehrzahl
 langs
+langsaam/en                # Nieg-ins
 langsam/en langsamer/en langsamst/en
+langtöögsch/en                # Nieg-ins
 langwiel/s langtowielen
 lannen/IDWMO
+Lappen/S                # Nieg-ins
+Larm                # Nieg-ins
 Laser/S
 Laserstrahl/n
 Laserstrahler/S
 Last/n
 lasten/IDWMOAQBPU lasten/aqpu
+Lastwagen/S                # Nieg-ins
 laten/AQBRJHTUVX laten/aqrjhtux laat/AQBRJHTUVX lettst/AQBRJHTUVX lett/AQBRJHTUVX leet/DAQBRJHTUVX leten/AQBRJHTUVX
 Latiensch      
 latiensch/en
@@ -2471,14 +2805,18 @@ Leck/S
 ledden/IDWMOAQRYJTUVÜ ledden/aqryjtuü
 Ledder/n
 leddig/en
+leef/DWOM                # Nieg-ins
 leeg/en leger/en legerst/en
+leeg   lüggst   lüggt   leegt   lagen                # Nieg-ins
 Leerteken/S
+Leesbook   Leesböker                # Nieg-ins
 leesbor/en
 Leesborkeit
 Leesteken/S
 leev/s 
 leev/sBRPUVF
 Leevdag                            
+Leevde                # Nieg-ins
 legal/en
 Legenn/n
 leggen/IDWMOAQBJPTYCUVFX leggen/aqjptycufx leed/DAQBJPTYCUVFX leden/AQBJPTYCUVFX
@@ -2488,15 +2826,19 @@ lehn  aflehn/s
 lehnen/IDWMOAQYCFX lehnen/aqycfx
 Lehr                          
 lehr/sABV lehren/a
+lehren/AZUÜIDWazuü                # Nieg-ins
 Lehrer/S
 leider
 Leisten          
 leisten/IQ leiste/Q
 Lenk/n	                 # HD: Link (Internet)
 lenk aflenk/s
+Lepel/S                # Nieg-ins
 lesen/JQHPUVF lesen/jqhpuf lees/WMOJQHPUVF
 Leser/S
 lest/en
+letzt   letztens                # Nieg-ins
+Leven                # Nieg-ins
 Levensoort                       
 Levenstiet Levenstieden          
 levern/IDWMOAQBJU levern/aqju
@@ -2504,12 +2846,15 @@ levern aflever/s
 Lex/n
 licht/en lichter/en lichtst/en
 Lichtbagen/S                 
+lichtblau/e                # Nieg-ins
 Lichtborn/S
+lichtbruun/e                # Nieg-ins
 lichten/IDWMOQABPZKGX lichten/qapzkgx
 Lichtjohr/n
 Licht Lichters				# Plural prüfen
 Lichtstrahler/S
 Liddmaat/n				
+lieden   liddts   liddt   liedt                # Nieg-ins
 liedsam/en
 Lief Liever 
 liek/en
@@ -2527,11 +2872,13 @@ Lienholt Lienhölter
 Lienwand Lienwänn Lienwännen
 lierlütt/en
 lies/en lieser/en liest/en
+liesen                # Nieg-ins
 Liest/n
 liggen/IDWRP liggen/rp leeg/DRP legen/RP
 lila
 Limoon/n
 Lineaal/n
+Lineal/n                # Nieg-ins
 lineor/en
 Linguist/n
 Link/S
@@ -2543,6 +2890,7 @@ Linksklick
 links linke linken
 Linkteel/n
 Lins/n
+Lipp/n                # Nieg-ins
 List/n
 listen/IDWMOP listen/p
 Literatur
@@ -2556,6 +2904,9 @@ Logbook Logböker
 Logik
 logisch/en
 Logo/S
+Lohn                # Nieg-ins
+Löhn                # Nieg-ins
+Löhnels                # Nieg-ins
 lokal/en 
 Lokativ  
 Loof
@@ -2565,22 +2916,32 @@ loos
 löös/s    
 löös/sQJPU lösen/qjpu # prüfen, ob das richtig autokonjugiert wird => nein, wird es nicht. aflöösst ist falsch
 löösbor/en
+loosfohren   loosföhrst   loosföhrt   loosfohr                # Nieg-ins
+loosgahn   loosgeiht   loosgeihst   loosgaht   loosgah                # Nieg-ins
 Löösmiddel/S
 Loots/n
+Lööv   Löven                # Nieg-ins
 lopen/AQBRJPTYCUVFX lopen/aqrjptycufx loop/WAQBRJPTYCUVFX löppst/AQBRJPTYCUVFX löppt/AQBRJPTYCUVFX leep/DAQBRJPTYCUVFX lepen/AQBRJPTYCUVFX
 Löper/S 
 Lord/S
 löschen/IDWMOUVX löschen/ux
 Löser/S                            
+Lücht/n                # Nieg-ins
 Lück/n
 luern/BP luern/bp luur/DWMOBP
 Luft                           
+Luftballon/S                # Nieg-ins
 Luftdruck
 Luftmass/n
 Lung/n
 lunger/s
+Lünk/n                # Nieg-ins
+Lust                # Nieg-ins
+Lüsten                # Nieg-ins
 lüstern/IDWMOC lüstern/bc
 lustig/en lustiger/en lustigst/en
+lustig                # Nieg-ins
+luter                # Nieg-ins
 lütt/en lütter/en lüttst/en
 Lüttbild Lüttbiller                            
 Lüttbookstaav/n
@@ -2610,6 +2971,7 @@ maal
 maal/s                          
 Maand/n
 Maandag
+Määrken/S                # Nieg-ins
 Maat/n
 Mac
 mächtig/en mächtiger/en mächtigst/en
@@ -2632,32 +2994,41 @@ Maker/S
 Makro/S
 mal                           
 malen/QABHPZKUVFXÜ malen/qahpzkufxü maal/DWMOQABHPZKUVFXÜ
+Maler/S                # Nieg-ins
 Malesch/n
 mall/en
 Mallbüdel/S
 Malöör/S
 malören malöör/WMO
+Mama/S                # Nieg-ins
 man
 Manager/S
 mang
 mank
+männich                # Nieg-ins
+männichmal                # Nieg-ins
 Mann Mannslüüd
+männnicheen                # Nieg-ins
 Mannschopp/n
 Manpage/S
 Manschett/n
 Mantel/S
+Mantel/S                # Nieg-ins
 Marathon
 Marathonloop Marathonlööp 
+Margarine                # Nieg-ins
 Marine
 Mark/n
 Mark/n
 mark/sABPVF marken/apf
 markeer/s
 markeer/s
+marken/IDWOM                # Nieg-ins
 Markmaal/n
 Markt/n
 Marmel/S
 Marmelaad/n
+Marmelaad/n                # Nieg-ins
 Marmor
 marscheer/s
 Maschien Maschinen  # Sg: nicht Maschin
@@ -2687,23 +3058,29 @@ medizinsch/en
 meen/s
 meen menen/V meen/MOV meenst/V meent/V
 Meer Meren
+Meester                # Nieg-ins
+Mehl                # Nieg-ins
 mehr                           
 mehrfach/en
 mehrmalig/en
 mehrst/en 
 mehrstendeels
 Mehrtall/n
+meihen/IDWOM                # Nieg-ins
 meist
+Melk                # Nieg-ins
 Melkstraat/n 
 mell afmell/s
 mellen/IAQJV mellen/iaqj meldst/AQJV meldt/AQJV meldte/AQJV meldten/AQJV
 Mengde/n
 mengeleer/s
+mengeleren                # Nieg-ins
 mennig/en
 mennigmal                           
 Menü/S
 Menüindrag Menüindrääg                           
 Menüliest/n
+Menung                # Nieg-ins
 merrn                           
 Meta
 Metadaten                           
@@ -2715,21 +3092,28 @@ Meteorologie
 Meter/S
 Methood/n
 Metrik/n
+Metz/n                # Nieg-ins
 MHz
+middaags                # Nieg-ins
 Middag                           
+Middageten                # Nieg-ins
 Middag Middaag
+Middel/S                # Nieg-ins
 middelgroot/en                            
 middeln/IDWMOUV middeln/u
 Middelpunkt/n Middelpünkt # zwei Pluralformen
 middelswoor/en 
 midden
 Middeweken
+Miegeemk/n                # Nieg-ins
 Miegeem Miegemen
 Miel/n					# HD Meile
 Mikrofon/S
 Mikrometer/S
 Mikrosekunn/n
+Milliard/n                # Nieg-ins
 Millimeter/S
+Million/n                # Nieg-ins
 Millisekunn/n
 Mineralogie                            
 Minibild Minibiller
@@ -2748,13 +3132,20 @@ Minuut/n
 misch/s                           
 Mischer/S
 Mischtall/n
+Mist/n                # Nieg-ins
 mit
 mit'n
 Mitarbeider/S
+mitbringen/IDW                # Nieg-ins
 miteens
 mitenanner
+mitgahn/I                # Nieg-ins
+mitgeiht                # Nieg-ins
+mitgoht                # Nieg-ins
+mitnehmen                # Nieg-ins
 mitsamts
 Mitschöler/S
+Mittweken/S                # Nieg-ins
 mm
 mobil/en
 Mobiltelefon/n
@@ -2763,6 +3154,7 @@ Modell/n
 Modem/S
 modereer/s                 
 Moder Möder
+modern                # Nieg-ins
 Moderspraak/n
 Modifikator/n
 Modifikatschoon/n
@@ -2785,13 +3177,19 @@ mööglich/en # nicht möglich, öö beachten
 Mööglichkeit/n
 Möög Mögen
 Moot
+Moot/Tt                # Nieg-ins
 morgen
 Mosaik/n
 Moss
 möten mutt/D mööt muss/WMO müssen
 Motor
+Motor                # Nieg-ins
 Motorrad Motorrööd
+Motorrad   Motorrööd                # Nieg-ins
+Mück/n                # Nieg-ins
 mucksch/en
+Mudder/S                # Nieg-ins
+Muer   Muern                # Nieg-ins
 muffelig/en
 muffig/en
 multimedia			# adj
@@ -2806,6 +3204,7 @@ munter/en
 Museum Museen
 Musik/n
 Mütz/n
+Mütz/n                # Nieg-ins
 muulsch/en                          
 Muusklick/S                         
 Muusknoop Muusknööp                 
@@ -2824,10 +3223,13 @@ Naamwoort Naamwöör
 Nacht/n
 Nachtschicht/n
 Nadel/ns			 # Plural auf -n und auf -s
+nadenken/IDW                # Nieg-ins
 Nafraag/n
 nagel fastnagel/s                
 nageln/IDWMOARJPTVF
+naher                # Nieg-ins
 Nakieksel/S
+nakig                # Nieg-ins
 Namiddag Namiddaag
 namiddags
 Naricht/n
@@ -2840,6 +3242,7 @@ Natschonalität/n
 natt/en                          
 Natur/n                           
 natürlich/en
+natüürlich                # Nieg-ins
 nau/en
 Nauigkeit/n
 Naver/S
@@ -2865,8 +3268,10 @@ Negativteken/S
 negentig eenunnegentig unnegentig
 nehmen/IWAQJPTYCUVFX nehmen/aqjptycufx nöhmen/IDAQJPTYCUVFX nimm/DWAQJPTYCUVFX nahmen/AQJPTYCUVFX
 neihen/IDWMOQAHKTUXÜ neihen/qahktuxü
+Nelk/n                # Nieg-ins
 nerrn
 nervös/en
+Nest/n                # Nieg-ins
 nett/en
 Nett/n
 nettbaseert/en
@@ -2884,18 +3289,22 @@ nie
 nieg/en nieger/en niegst/en
 nienich
 Nimbus # Plural davon?
+nimmt                # Nieg-ins
 nipp
 nix
 noch
 nochmaal                            # prüfen maal/mal
 nödig/en
+nömen                # Nieg-ins
 nominal/en
 Nominativ
 noog
 nööm/sÜ 
 noord/n
+Noorden                # Nieg-ins
 noot
 Norm/n
+normaal                # Nieg-ins
 normal/en
 normalerwies
 normaliseer/s           
@@ -2913,11 +3322,14 @@ Nummer/n
 Nummer Nummern
 nüms
 nütten/IDWMOQU nütten/qu
+Nutt   Nööt                # Nieg-ins
+nüüdlich/e                # Nieg-ins
 objektiv/en                           
 Objekt Objekten
 oder
 of
 offiziell/en
+Ogenblick/n                # Nieg-ins
 Ohr/n
 ok'n
 Ökelnaam/S
@@ -2933,6 +3345,8 @@ Okular/S
 öller/en öllst/en
 Öllermann
 Öllern
+Oma/S                # Nieg-ins
+Onkel/S                # Nieg-ins
 online
 Oogbro/n
 Oog Ogen
@@ -2941,14 +3355,18 @@ ool ole olen oolt
 ooltbacksch/en
 oolt ole olen öller/en öllst/en
 Oorinwahner/S
+oornen                # Nieg-ins
+Oornt/n                # Nieg-ins
 Oorsaak Oorsaken
 oorten/WMOU oorten/u
 oortig/en
 Oort Oorden Öörd
 Oost/n
+oosten                # Nieg-ins
 op
 op'n
 op't
+Opa/S                # Nieg-ins
 Opbacker/S
 Opdrag Opdrääg
 Opduker/S
@@ -2983,8 +3401,8 @@ optschonal/en
 Optschoon/n
 opwaak/s                           
 opwarts
-Orange/n
 orange/n
+Orange/n
 Orbital/n
 Orchester/S 				# Plural prüfen
 Order/S
@@ -2998,6 +3416,7 @@ ornen/IDWMOAQJTX ornen/aqjtx
 Orner Ornern
 ortograafsch
 Ortografie/n
+Ostern                # Nieg-ins
 oval/en
 Oval Ovalen
 öven/JUV öven/ju ööv/DWMOJUV
@@ -3006,14 +3425,21 @@ Oval Ovalen
 överbreed/en
 övereen
 Överfall Överfäll
+överfohren                # Nieg-ins
+Överfohrt/n                # Nieg-ins
 Övergaav/n
 Övergang Övergäng
+överhaupt                # Nieg-ins
 överkopp
 överlappen/IDWMO
+övermorgen                # Nieg-ins
+Övernahm/n                # Nieg-ins
+övernehmen                # Nieg-ins
 överscherig/en
 Översetten                           
 Översetter/S
 Översicht/n
+överslaan                # Nieg-ins
 övrig/en
 Ozean/n
 Ozeankunn
@@ -3024,6 +3450,8 @@ Paket/n
 Palett/n
 Paneel/S
 Pann/n
+Pann/n                # Nieg-ins
+Papa/S                # Nieg-ins
 Papeer/n
 Parabel/n
 Paragraph/n
@@ -3045,13 +3473,18 @@ Partizip                            # Plural?
 Partner/S
 Party/S
 passeer/s => klemmt                           
+passeert   passeren                # Nieg-ins
 passen/IDWMOAQRJPTV passen/aqrjpt
 Passiv                            
 passiv/en
 Passwoort Passwöör                
+Paster/S   Pastersche/n                # Nieg-ins
+Pastoor/n   Pastoorsche/e                # Nieg-ins
+Pastuur/n   Pastuursche/e                # Nieg-ins
 Patroon/n
 Paus/n
 PC
+pedden/ZÜKszük                # Nieg-ins
 Peerd Peer 
 pellen/IDWMOQU pellen/oqu
 Peper
@@ -3067,10 +3500,13 @@ Periood/n
 perioodsch/en
 Person/n
 persönlich/en
+Persoon/n                # Nieg-ins
+persöönlich                # Nieg-ins
 Perzent/n
 Perzess/n
 Perzess/n
 Perzesser/S                            # Plural prüfen /S oder /n
+pett                # Nieg-ins
 Phantom/n
 Philosophie
 phoneetsch/en
@@ -3083,13 +3519,16 @@ Piel/n
 pielliek/en
 piellieks
 pielrecht/en
+piepen/s                # Nieg-ins
 PIN
 Pingel/S
 pingeln/IDWMOARYGF
 Pingstroos/n
 Pinsel/S
+Pistool/n                # Nieg-ins
 Pixel/S
 plaan/s 
+Plaaster/S                # Nieg-ins
 Plaat/n
 Placken/S
 Plakaat Plakaten
@@ -3100,6 +3539,7 @@ Planet/n
 Planetarium                # prüfen Plural
 Plant/n
 plant/s
+planten/JAUÜBVsjauü                # Nieg-ins
 Pläseer/n
 Plasma                          
 Plaster/S
@@ -3113,24 +3553,35 @@ Platzholler/S
 Platz Plätz
 Pleeg                           
 pleeg/sJV plegen/j
+plegen   pleegst   pleegt   pleegden                # Nieg-ins
 Pleger/S
 plietsch/en
 plietscherwies
 Plock Plöck
+plögen/Üsü                # Nieg-ins
+Ploog                # Nieg-ins
 Plotter/S
+plücken/Qsq                # Nieg-ins
 Plugin/S
 plus
 pluustern/IDWMOP pluustern/p
+Pogg/n                # Nieg-ins
 Poggenstohl Poggenstöhl  # HD: Pilz
 polaarsch/en 
 Polarkrink/n
 Politik
 Politiker/S
+Polizei   # kein Plural                # Nieg-ins
+Polizist/n   Polizistin   Polizistinnen                # Nieg-ins
+Pony/DS                # Nieg-ins
 Pool/en # HD Pol geografisch
 Pool Polen # HD der Pole (Land)
 Pool Pööl Polen # HD Pfuhl, Pfütze
 poor
 Poor Poren
+Popo/S                # Nieg-ins
+Popp/n                # Nieg-ins
+Poppenwagen/S                # Nieg-ins
 Popularität
 Port/n
 porteer/s
@@ -3142,6 +3593,7 @@ Positschoon/en
 Post
 Postadress/n
 Poster/S
+Pott   Pött                # Nieg-ins
 praat/en 
 praat/s  
 Praatschop Praatschoppen
@@ -3150,6 +3602,7 @@ Präfix/n
 Präfix/n
 Praktikant/n
 praktisch/en praktischer/en praktischst/en
+praktisch                # Nieg-ins
 prall afprall/s
 prallen/IDWMOQAPX prallen/qapx
 Präpositschoon/n
@@ -3157,8 +3610,11 @@ Präsentatschoon/n
 Predigt/n
 Press            
 Prick/en
+Pries/n                # Nieg-ins
 Primfaktor/n
 Primtall/n
+Prinz/n                # Nieg-ins
+Prinzessin/n                # Nieg-ins
 prioriseer/s
 Priorität/n
 privat/en
@@ -3166,6 +3622,7 @@ Privatsphäär/n
 Privileg/n
 pro
 probeer/sAU
+proberen/ARUaru   probeerst/ARUaru   probeert/ARUaru   probeerden/ARUaru                # Nieg-ins
 Problem/n
 problemaatsch/en
 Produkschoon/n
@@ -3202,22 +3659,31 @@ Prozedur/n
 psychedeelsch/en
 Psychologie
 publik/en
+Pudding/S                # Nieg-ins
 Puffer/S
 puffer/s   
+Pulli/S                # Nieg-ins
 Pullover/S
+Pullover/S                # Nieg-ins
 pulseren pulseer/DW
 Pund
 Punktatschoon/n
 punkteren/HU punkteren/hu punkteer/DWMOHU
 Punkt Punkten Pünkt
+Putzbüdel/S                # Nieg-ins
+püük                # Nieg-ins
+puusten/ZUÜXzuüx   puust/ZUÜXzuüx   puustden/ZUÜXzuüx                # Nieg-ins
 Püüster/S
 Pyramied Pyramiden
 quadraatsch/en
 Quadrat/n
 quälen/QRYCZKG quälen/qryczkg quääl/DWMOQRYCZKG
+Quark   # kein Plural                # Nieg-ins
 quengel/s 
 Quitt/n			# HD die Quitte, prüfen
+Raasch   # kein Plural                # Nieg-ins
 Raat Raden
+Raav                # Nieg-ins
 Radel/S
 raden/ABQV raden/aq raad/DWMOABQV
 raderen/GUX raderen/gux radeer/DWMOGUX
@@ -3229,13 +3695,18 @@ Rahmen/S
 Rahmenwark/n			# engl: framework (computer)
 RAM
 ramponeer/s
+ran                # Nieg-ins
 Rand Ränner
 Rang Räng
 rank/en
+Rasen/S                # Nieg-ins
+raseren/QXqx   raseer/QXqx   raseerst/QXqx   raseert/QXqx   raseerden/QXqx                # Nieg-ins
 raster/s
 Raster/S
 Rate/n
+Ratsch/D                # Nieg-ins
 ratschonaal/en
+Raven                # Nieg-ins
 reageer/s
 Reagenzglas Reagenzglöös Reagenzglääs Reagenzgläser
 Reakschoon/n
@@ -3257,6 +3728,7 @@ Reegenn Reegennen
 Reeg Regen
 Reegümbrook Reegümbröök 
 Reekner/S
+Reem/S                # Nieg-ins
 reen/en
 Reet Reten
 Referenz/n
@@ -3275,6 +3747,9 @@ Register/S		# Plural prüfen
 registreer/s
 regulär/en 
 reguleer/s  # (hd. regulieren)
+Reh/n                # Nieg-ins
+rein                # Nieg-ins
+reinmaken   reinmaakst   reinmaakt   reinmaakden                # Nieg-ins
 Reis/n
 reisen/IDWMOAQBRYCJTUVFX reisen/aqbrycjtuvfx
 reken/AQBCJPTUVFXÜ reken/aqcjptufxü reek/DWMOAQBCJPTUVFXÜ
@@ -3284,6 +3759,8 @@ rekursiv/en
 relativ/en Relativität       
 Relativität/n
 relevant/en
+Remen/S                # Nieg-ins
+rennen/CYZÜGXscyzügx                # Nieg-ins
 renoveer/s   
 Reparatur/n
 Reporter/S
@@ -3297,6 +3774,7 @@ resig/en			# wat is dat?
 Ressource/n
 Rest/n
 Resultat/n
+retten/s                # Nieg-ins
 retuur
 Revischoon/n
 revolutschoneer/s
@@ -3306,6 +3784,7 @@ RGB
 richt/en 
 Richt/n
 richten/IDWMOAFBJPTYCUV richten/afbjptycuv
+Richter/S                # Nieg-ins
 richtig/en
 Richtigkeit                          
 Ridder Ridderslüüd
@@ -3315,7 +3794,9 @@ Riek/n
 Riepde			# ?? wat is dat?
 riepen/IDWMORHU riepen/rhu
 Ries/n
+Ries/n                # Nieg-ins
 rieten/IAQBRJPUVX rieten/aqrjpux  rittst/AQBRJPUVX ritt/AQBRJPUVX reet/DAQBRJPUVX reten/AQBRJPUVX
+Rietversluss   Rietverslüss                # Nieg-ins
 rieven/WQRJPVX rieven/wqrjpx riffst/QRJPVX rifft/QRJPVX reev/DQRJPVX reven/QRJPVX
 Riffel/S
 riffelig/en
@@ -3331,11 +3812,14 @@ rögen/ABTVX rögen/atx röög/DWMOABTVX
 Roh
 roh/en
 roh/en # => prüfen ruug?                
+rohen/Usu                # Nieg-ins
 Rohr/n
 röhren/IDWMOABTVX röhren/atx
 ROM
 romantsch/en
 Rook                            # HD Rauch
+Röök                # Nieg-ins
+rookst   roken                # Nieg-ins
 röömsch/en
 Roop Rööp
 roor/en
@@ -3348,31 +3832,52 @@ rosa
 Rosett/n
 Rotor/n
 Routine/n
+röver                # Nieg-ins
 Rubrik/n
+Rüch/n                # Nieg-ins
 rücken/IDWQYCJPUVFXÜ rücken/qycjpuvfxü
+Rucksack   Rucksäck                # Nieg-ins
+rüken   rüük   rüükst   rüükt                 # Nieg-ins
 Rull/n
 rull/sQJPCUX rullen/qjpcux
+rullen/CYJAZUPFQXscyjazupfqx                # Nieg-ins
+Ruller/S                # Nieg-ins
+Rullschoh   Rullschöh                # Nieg-ins
 rüm # prüfen Komposita rümgahn etc
 rümasen rümaas/DWMO
 rümbuttjern
+rümdreihen/DWOM                # Nieg-ins
 rümen/QJPUX rümen/qjpux rüüm/DWMOQJPUX
+rümfohren/DWOM                # Nieg-ins
+rümlopen/DWOM                # Nieg-ins
 Rund/n
 rund runne/n
+Rundstück/n                # Nieg-ins
+Runn/n                # Nieg-ins
 runn afrunn/s
 runnen/IDQPÜ runnen/qpü rundt/QPÜ
 rusen/AQBUV rusen/aqu ruus/DWMOAQBUV
 rut
 Rutgever/S
+Rutschbahn/n                # Nieg-ins
+rutschen/CYZRUGVQXscyzrugqx                # Nieg-ins
 ruuch/en			# prüfen HD rauchen = smöken ?
 Ruum Rüüm
+Ruup/n                # Nieg-ins
 Ruut/n			# HD Raute
 Saag/n
 Saak/n
 sachen sachens                           
 sachts sachtens
 Sack Säck
+Saft/n                # Nieg-ins
+Salat/n                # Nieg-ins
+Salot/n                # Nieg-ins
 sammel/sQAJHPZKGUVFX sammeln/qajhpzkguvfx   
+sammeln/s                # Nieg-ins
 Sand 
+Sandkist/n                # Nieg-ins
+sapen/D                # Nieg-ins
 Satellit/n
 Satellitenbild Satellitenbiller  
 satt/en
@@ -3388,19 +3893,26 @@ Schachbrett Schachbreed
 Schachspill/S oder Schachspeel/n                            # prüfen wie nun?
 Schadden/S      # HD Schatten
 Schaden/s		# HD Schaden
+schaffen/CYAZGPBQXscyazgpqx                # Nieg-ins
+Schallplatt/n                # Nieg-ins
 schalten/IDWMOAQJPTUVFXÜ schalten/aqjptufxü
 Schalter/S
 Schaltjohr/n
 Schaltkrink/n
 Schangs/n
 schapen/ABYCZKGX schapen/ayczkgx schaap/DWMOABYCZKGX
+Schäperhund   Schäperhunnen                # Nieg-ins
+Schapp  Schäpp                # Nieg-ins
 scharp/en scharper/en scharpst/en
 Scharpde
 scharpen/IDWMO
 Schatt/n
 Schau/n
+Schaukel/n                # Nieg-ins
+schaukeln/D                # Nieg-ins
 scheden/QCUV scheden/qcu scheed/DWMOQCUV
 scheef scheve/n
+Scheen   Schenen                # Nieg-ins
 scheep/en
 Scheer/n			# HD Schere
 Scheer Scheren
@@ -3409,10 +3921,12 @@ scheet scheten/QBRJP scheten/qrjp scheet/QBRJP schüttst/QBRJP schütt/QBRJP sch
 schelen scheel/DWMO #(hd. "schielen" un as "dat scheel(t) wat"="das macht(e) einen Unterschied, nützt(e) etwas)
 Schell/n
 Schema/S
+schenken/JUBVXjux   schenkst/JUBVXjux   schenkt/JUBVXjux   schunken/JUBVXjux   schenkden/JUBVXjux                # Nieg-ins
 schick/en
 schick/sABQRJTYCVFX schicken/aqrjtycfx
 schicken afschick/s 
 Schicksal                          
+Schief/D                # Nieg-ins
 schienen/IDWABRPGV schienen/arpg
 schier/en
 Schiet
@@ -3421,21 +3935,34 @@ Schiethuus
 schietig/en
 Schiev/n
 Schild 			# Plural prüfen
+Schildkrööt   Schildkröten                # Nieg-ins
 Schildpadde                      # prüfen. HD Schildkröte?
+schimpen/UBsu                # Nieg-ins
 Schipp Scheep
 Schirm/n
+Schoh   Schöh                # Nieg-ins
 Schokolaad/n
 schölen schall/D schöölt schullen/IDWMO
 Schöler/S
+Schöler/S                # Nieg-ins
 School/n
+Schoolarbeiten                # Nieg-ins
+Schoolhoff   Schoolhööv                # Nieg-ins
+Schooljohr/n                # Nieg-ins
 Schoolmeester/S
+Schooltasch/n                # Nieg-ins
+Schoolweg   Schoolweeg                # Nieg-ins
 schöön/en   
 Schöönheit/n
+Schöör   Schören                # Nieg-ins
 Schööt Schöten
 Schosteen 			# Plural prüfen 
 Schotter
 Schotterstraat/n
+Schreck/D                # Nieg-ins
 schreeg/en
+schreen/AGag   schree/AGag   schreest/AGag   schreet/AGag                # Nieg-ins
+Schrick/n                # Nieg-ins
 Schriefarbeit Schriefarbeiden  # Prüfen: alle Komposita von schrieven auf -v- statt auf -f-?
 schriefbor/en
 Schriefdisch/n
@@ -3459,25 +3986,39 @@ Schriftstil/n
 schrimpen/IDWMOJ schrimpen/j
 Schritt Schreed
 Schruuv/n
+schubsen/AZÜGKXsazügkx                # Nieg-ins
 schüchtern/en
+Schuckel/n                # Nieg-ins
+schuckeln/s                # Nieg-ins
 schüddeln/IDWMOQRGU schüddeln/qrgu
+Schüffel/n                # Nieg-ins
+Schuller/n                # Nieg-ins
 schummel/s
 schummern/IDW
+Schuss/Dn                # Nieg-ins
 schutern/IDWMOYCJHTUXÜ schutern/ycjhtuxü
+Schutz                # Nieg-ins
+schuukeln/s                # Nieg-ins
 schuul/s
 Schuul                         # HD Schutz
 schuulsam/en
+Schuum                # Nieg-ins
 schuven/AQRJPZKGTYCVFX schuven/aqrjpzkgtycfx schuuv/WAQRJPZKGTYCVFX schuffst/AQRJPZKGTYCVFX schufft/AQRJPZKGTYCVFX schoov/DAQRJPZKGTYCVFX schoven/AQRJPZKGTYCVFX schaven/AQRJPZKGTYCVFX
 Schuver/S
 SCSI
 se
+Sebber/S                # Nieg-ins
 Seemiel/n
+Seep                # Nieg-ins
 See Seen # das geht wohl nicht mit /n
 Seesteern			# Plural?
 seggen/IDWMOAQRPTUVF seggen/aqrptuf see/DAQRPTUVF seen/AQRPTUVF
 seggen afsegg/s
 Segment/n
+sehen/D                # Nieg-ins
 sehn/AQBRJPTYCUVFX sehn/aqrjptycufx seh/AQBRJPTYCUVFX sühst/AQBRJPTYCUVFX süht/AQBRJPTYCUVFX seht/AQBRJPTYCUVFX seeg/AQBRJPTYCUVFX seegst/AQBRJPTYCUVFX segen/AQBRJPTYCUVFX
+seien/JAUsjau                # Nieg-ins
+seihen/D                # Nieg-ins
 Sek # Afkörten för Sekunn		# wo dat? De Afkören is "s"
 seker/en sekrer/en sekerst/en
 seker/s
@@ -3500,8 +4041,10 @@ seriell/en
 Seriennummer/n
 Serie Serien
 Server/S
+Sessel/D                # Nieg-ins
 setten/IDWMOAQBRJPZKGTCYUVFXÜ setten/aqrjpzkgtcyufxü
 sett freesett/s freetosetten          
+Sever/S                # Nieg-ins
 Sicht/n
 sichtbor/en
 Sichtborkeit/n
@@ -3515,36 +4058,55 @@ Signatur/n
 sik
 Simulatschoon/n
 simuleer/s 
+singen/PFpf   singst/PFpf   singt/PFpf   sungen/PFpf                # Nieg-ins
 Sinn
 sinnig/en
 sinnvull/en
+Sitt/S                # Nieg-ins
 sitten/IDQJUF sitten/qjuf seet/DQJUF seten/QJUF
+Sittich/n                # Nieg-ins
 Situatschoon/n
 Skala/S	# Plural prüfen: Skalen?
 skaleer/s
 skaleerbor/en
 skandinaavsch/en
+Ski                # Nieg-ins
+Skier                # Nieg-ins
 Skript/n
 slaan/AQBRCJHPTUFX slaan/aqbrcjhptufx sla/AQBRCJHPTUFX sleist/AQBRCJHPTUFX sleit/AQBRCJHPTUFX slaat/AQBRCJHPTUFX sloog/DAQBRCJHPTUFX slogen/AQBRCJHPTUFX
 Slaap
 Slacht/n
+slachten/UQsuq                # Nieg-ins
+Slachter/S   Slachtersch/n                # Nieg-ins
 Slag Slääg
 Slang/n
 slank/en slanker/en slankst/en
 slapen/BRJTUVFX slapen/rjtufx slaap/WBRJTUVFX slöppst/BRJTUVFX slöppt/BRJTUVFX sleep/DBRJTUVFX slepen/BRJTUVFX
+slau                # Nieg-ins
+Slauch   Släuch                # Nieg-ins
+slecht                # Nieg-ins
+Sleden/S                # Nieg-ins
+sleudern/CYZRUVXscyzrux                # Nieg-ins
+slieken/CYJAZRGXcyjazrgx   sliek/CYJAZRGXcyjazrgx   slickst/CYJAZRGXcyjazrgx   slickt/CYJAZRGXcyjazrgx   sleken/CYJAZRGXcyjazrgx                # Nieg-ins
 Slieppapeer 		# prüfen
+slimm                # Nieg-ins
 Slööp Slöpen			# wat is dat?
 Slötel/S
 Slöteltyp/n
 Slötelwoort Slötelwöör                            
 Slott Slööt Slötter
+sluken/VXx   sluuk/VXx   sluckst/VXx   sluckt/VXx   sloken/VXx                # Nieg-ins
+Sluss                # Nieg-ins
 sluten/AQBJPTUV sluten/aqjptu sluut/AQBJPTUV sluttst/AQBJPTUV slutt/AQBJPTUV sloot/DAQBJPTUV sloten/AQBJPTUV slaten/AQBJPTUV
+Smack                # Nieg-ins
 small/en
 Smaragd/n
 Smartkoort/n
+smecken/Qq   smeck/Qq   smeckst/Qq   smeckt/Qq   smeckden/Qq                # Nieg-ins
 Smeed Smeden
 smeren/ABJHPZKTUVFX smeren/abjhpzktuvfx smeer/DWMOQABJHPZKTUVFX
 smieten/IAQBJGTYCX smieten/aqbjgtycx smittst/AQBJGTYCX smitt/AQBJGTYCX smeet/DAQBJGTYCX smeten/AQBJGTYCX
+smöken/AUPVaup   smöökst/AUPVaup   smöökt/AUPVaup   smöökden/AUPVaup                # Nieg-ins
 smölten/IDWMOQRJPZGUVXÜ smölten/qrjpzguvxü smolten/QRJPZGUVXÜ
 Smöltpunkt Smöltpünkt Smöltpunkten
 smöök/s
@@ -3555,14 +4117,18 @@ snaaksch/en
 Snaak Snaken
 Snack/S
 snack/sAQBPUVF
+snacken/ARPBFQsarpfq                # Nieg-ins
 Snacker/S
 Snackeree Snackereen
 snackhaftig/en
 snappen/IDWMOJHPTX snappen/jhptx
+Snavel/S                # Nieg-ins
 Snee
 Sneeflaag/n				# prüfen
 Sneekristall/n
+Sneemann/S                # Nieg-ins
 Sneeregen Sneestorm                            
+Snick/n                # Nieg-ins
 snieden/IWAQBRJPTUVX snieden/aqrjptux snittst/AQBRJPTUVX snitt/AQBRJPTUVX sneed/DAQBRJPTUVX sneden/AQBRJPTUVX
 Snippel/S 
 Snittpunkt Snittpunkten Snittpünkt
@@ -3572,14 +4138,21 @@ snörkelig/en
 Snuut/n
 so
 so'n
+Sock/n                # Nieg-ins
 Sockel/S		# prüfen
 Socket/S		# prüfen
 sodraad			# wat is dat?
+Sofa/DS                # Nieg-ins
 Software
+sogoor                # Nieg-ins
 sogor
+Söhn/S                # Nieg-ins
 söken/QBRPUV söken/qrpu söök/WQBRPUV söchen/IDWMOQBRPUV
 Söker/S
+Solt                # Nieg-ins
 Sommer/S
+Sommerdag   Sommerdaag                # Nieg-ins
+Sommerferien                # Nieg-ins
 Sommertiet                         
 Sonaat/n
 sööd # hd. süd-
@@ -3588,27 +4161,35 @@ Sööktext/n
 Sööktyp/n
 Söökutdruck Söökutdrück                           
 Söökwoort Söökwöör                        
+Sooß/n                # Nieg-ins
 sööt/en
 Sorg/n
 sorteer/sRJUFX sorteren/rjufx
 sösstig eenunsösstig unsösstig
+Söten                # Nieg-ins
+sounso                # Nieg-ins
 söven
 söventig eenunsöventig unsöventig
 sozial/en
 Spaak			# HD Schimmel
 Spaaß
+Spaden/S                # Nieg-ins
 sparr/s
 Sparrtiet Sparrtieden
+Spatz/n                # Nieg-ins
 spazeer/s
 speel/s             
 Speelbaas/n
 Speelbrett Speelbreed
 Speelfeld Speelfeller
 speel mitspelen mitspeel/DWMO
+Speelsaken                # Nieg-ins
 Speel Spelen
 Speelstärk/n
 Speelstoop/n
 Speeltog Speeltöög
+Speeltüüch                # Nieg-ins
+speen/AZUGBKsazugk                # Nieg-ins
 spegel/s
 Spegel/S
 Spektraltyp/n
@@ -3625,6 +4206,8 @@ Spiekermedium Spiekermedien
 spiekern/IDWMOQJ spiekern/qj
 Spill/S oder Speel/n       
 spillen/IDWMOGX spillen/gx
+Spinn/n                # Nieg-ins
+spinnen/JUVju   spinn/JUVju   spinnst/JUVju   spinnt/JUVju   spunnen/JUVju                # Nieg-ins
 spioneer/sU spioneren/u
 Spioon/n
 Spiraal/n
@@ -3640,6 +4223,8 @@ Spool/n
 spoor/s              
 spoor/sAQJP 
 Spoor Spöör Sporen
+Spoort                # Nieg-ins
+Spoortplatz   Spoortplätz                # Nieg-ins
 spören/RHPZUF spören/rhpzuf spöör/DWMORHPZUF
 Sport
 Spraak/n
@@ -3655,18 +4240,21 @@ staatsch/en
 Stadt Städer
 Staff Stääv
 stahn/AQBRJPTUVF stahn/aqrjptuf stah/WAQBRJPTUVF steihst/AQBRJPTUVF steiht/AQBRJPTUVF staht/AQBRJPTUVF stunnen/IDAQBRJPTUVF
+Stall/n Ställ                # Nieg-ins
 Stamm Stämm
 Stand                           
 Standard/S
 Standardweert/n
 standardwies
 Stand Stänn
+Stang/n                # Nieg-ins
 Stapel/S
 stapeln/IDWMOPCX stapeln/pcx
 stark/en stärker/en stärkst/en
 Stärk/n
 Start
 start/sQRP starten/qrp
+starven/XIDWx                # Nieg-ins
 Statistik/n
 Statschoon/n
 Status
@@ -3681,6 +4269,7 @@ stell/sAQBRYJPTCUVFXÜ  stellen/aqbryjptcuvfxü
 stellen dorstellen/IDWMO
 stell hoochstell/s hoochtostellen         
 Stempel/S
+Stevel/S                # Nieg-ins
 Steven/S
 stevig/en steviger/en stevigst/en
 Stevigkeit/n
@@ -3690,9 +4279,12 @@ Stil/n
 still/en
 Stimm/n
 stimmen/IDWMOAQBJTV stimmen/aqjt
+Stock Stöck Stöcker                # Nieg-ins
 Stoff/n # HD Stoff
 Stoff	# HD Staub
 Stoffstorm 
+Stohl Stöhl                # Nieg-ins
+stolt/e                # Nieg-ins
 Stoop/n
 stöör/s
 stöör/sP
@@ -3700,15 +4292,21 @@ Stoot Stööt
 stopen/QAKÜ stopen/qakü stoop/DWMOQAKÜ
 Stopp  
 stopp/sQP
+stoppen/Qq                # Nieg-ins
+stören/IDWOM                # Nieg-ins
 störmsch/en
 Storm Störm
 störten/IDWMOQJ störten/oqj
 stöten/AQRYCPTUVX stöten/aqrycptux stööt/AQRYCPTUVX stött/DAQRYCPTUVX stötten/AQRYCPTUVX
 stöver/sR 
+Straaf                # Nieg-ins
 Straat/n
 Strahl/n
 strahlen/IDWMOQABRYCJZGTUV strahlen/qarycjzgtu
+strakeln/IDWOM                # Nieg-ins
+Strand Stränn                # Nieg-ins
 Strategie Strategien
+Stratenbahn/n                # Nieg-ins
 Streek/n
 streek dörstreek/s
 Stremel/S
@@ -3717,30 +4315,42 @@ Streu
 STRG Strg
 strieken/IWARJUVFX strieken/arjufx strickst/ARJUVFX strickt/ARJUVFX streek/DARJUVFX streken/ARJUVFX
 Striep/n
+Striepen/S                # Nieg-ins
 Striet Strieden
+Stroh                # Nieg-ins
 Stroom Strööm
 Struktur/n
+Strümpbüx                # Nieg-ins
+Strump Strümp                # Nieg-ins
 Stück/n
 studeer/s
 Student/n
 stüer/sARYCUVX stüern/arycux
 stüer loosstüer/s 
+stuken/IDWOM                # Nieg-ins
 stumm/en
 Stump/n
 Stunn/n Stünn  
 Stünnenwieser/S
 Stünn Stünnen
 stütten/IDWMOAP
+Stuuv/n                # Nieg-ins
 Stuuv Stuven
 Subroutine Subroutinen
+süchst/CJAZTUÜGPHVKQXcjaztuügphkqx                # Nieg-ins
+sücht/CJAZTUÜGPHVKQXcjaztuügphkqx                # Nieg-ins
+Süden Süüd                # Nieg-ins
 Suffix Suffixen
 sugen/QARJPZKGUX sugen/qarjpzkgux suug/WQARJPZKGUX süggst/QARJPZKGUX süggt/QARJPZKGUX soog/DQARJPZKGUX sogen/QARJPZKGUX sagen/QARJPZKGUX
+Suldot/n                # Nieg-ins
 sülve/n
+sülven                # Nieg-ins
 Sülvenschrift/n
 sülve sülven sülvig/en sülvst
 sülvige/n
 Sülvsthülpkoppel/s
 Sülvstmoord/n
+sülvststännig/e                # Nieg-ins
 sülvst sülvstmaakt/en 
 Sülv Sülven # hd. Silbe
 Summ/n
@@ -3759,22 +4369,33 @@ Sünnsysteem/n
 Sünnwenn/n
 Sünnwind Sünnwinn Sünnwinnen # 2x Plural
 sünst
+supen/UGPVQXugpqx suup/UGPVQX süppst/UGPVQX süppt/UGPVQX suupt/UGPVQX                # Nieg-ins
 super
+Supp/n                # Nieg-ins
+susen/IDWs                # Nieg-ins
+Süster                # Nieg-ins
 süük/en
 Süük Süken
 süür/en
 Süür Süren
 suutje/n
+swach/en                # Nieg-ins
 swach/en swacher/en swachst/en
+swart/en                # Nieg-ins
 swatt/en swatter/en swattst/en
+sweet                # Nieg-ins
 sweev/sAQRYCJFXÜ sweeven/aqrycjfxü
+sweten/IDW                # Nieg-ins
+swiegen/AVa swieg swiggst swiggt swiegt                # Nieg-ins
 swiemelig/en
 Swien		# Pl = Sg
+Swienegel/S                # Nieg-ins
 swiestern/IDWMOBJT swiestern/jt
 swinnen/IDWCV swinnen/c swunnen/IDWCV
 swoor/en sworer/en swoorst/en
 Swoorkraft                          
 Swoormetall/n
+swümmen/IDW swommen                # Nieg-ins
 Symbol/n
 symboolsch/en
 Symfonie Symphonien
@@ -3796,26 +4417,38 @@ Tabell/n
 TAB Tab/S Tabtast
 Tabulator/n
 tachentig eenuntachentig untachentig tachuntachentig
+Tafel Tafeln                # Nieg-ins
 Tahlmiddel/S
+Tähnböst/n                # Nieg-ins
+Tähndokter/S                # Nieg-ins
+Tähnpast                # Nieg-ins
 Tahnrad Tahnrööd
 Tahn Tähn
 Takt/n
 Taktik/n
 Taler/S 
 Tall/n
+Tang/n                # Nieg-ins
 tangeer/s
 Tangens  
 Tangent/n
+tanken/s                # Nieg-ins
 Tapeet Tapeten
 tarren/IDWMORYCVFX tarren/rycfx		# HD zerren
+Tasch/n                # Nieg-ins
+Taschendook Taschendöker                # Nieg-ins
 Taschenreekner
+Tass/n                # Nieg-ins
 Tast/n
 Tastatur/n
 tasten/IDWMOQBZKGF tasten/qzkgf
 Tastkombinatschoon/n
+Tau/n                # Nieg-ins
 TB
 Technik/n
 technisch/en
+Teckel/S                # Nieg-ins
+Teddy   # nicht platt                # Nieg-ins
 Tee/S 
 Teekaker/S
 Teel/n
@@ -3823,6 +4456,7 @@ Teelorner/S
 teemlich/en
 Tegel/S
 tegen
+Tehn                # Nieg-ins
 teken/AQBCJPUV teken/aqcjpu teek/DWMOAQBCJPUV
 Teken/S
 Tekenkeed/n
@@ -3837,6 +4471,7 @@ Teleskop/n
 Telg/n
 tellen/QRPVF tellen/qrpf
 Teller/S 		# Mathe: Bruch: Zähler
+Telt/n                # Nieg-ins
 Temperatur/n
 temporär/en                           
 Tendenz/n
@@ -3863,6 +4498,7 @@ Tietrebeet Tietrebeden
 Tiet Tieden
 tietwies/en
 Tietwoort Tietwöör
+Tiger                # Nieg-ins
 Tilde/n
 Tipp/S
 tipp/sAJV tippen/aj
@@ -3875,6 +4511,7 @@ to't
 toeerst
 tofällig/en
 Tofall Tofäll
+tofreden/e                # Nieg-ins
 Togaav/n
 Togang Togäng
 Togriep/n
@@ -3887,6 +4524,7 @@ tokamen		# Adjektiv
 Tokieker/S
 Tokunft
 toletzt
+Töller/S                # Nieg-ins
 Toll Töll
 Tomaat/n			# HD Tomate
 tomehrst
@@ -3901,6 +4539,7 @@ torüch # prüfen torüchbögen torüchdreihen torüchgahn  torüchgeven torüch
 torüch #  prüfen torüchspolen torüchstellen torüchstrahlen torüchstreek  torüchtrecken torüchwiesen tosamen  
 torüchwarts		# prüfen
 torüchwesseln                           
+tosamen                # Nieg-ins
 tosamen # prüfen: tosamenfallen tosamenfaten tosamenfögen tosamenföhren tosamenfolden tosamenhangen  tosamenhollen  tosamenkamen   
 tosamen # prüfen tosamenkoppeln tosamenpasst tosamenrullen tosamensetten tosamenstellen tosamenstoten tosamentellen tosamentrecken tosamenwerken trüchspringen 
 Tosamensteller/S
@@ -3918,11 +4557,13 @@ tövern/IDWMOBYVX tövern/yx
 Towass Towäss
 traach trage tragen	# HD träge. Wieso laut Sass Grundform auf ch
 traditschonell/en
+Trall/n                # Nieg-ins
 Transfer/S
 transparent/en
 Transparenz
 Transport/n
 transzendent/en
+trecht                # Nieg-ins
 Trechter/S
 Treckball Treckbäll
 treckbor/en
@@ -3940,20 +4581,38 @@ Trick/S
 Tritt Treed
 troen/MOABTV troen/at troo/DWABTV
 trorig/en troriger/en trorigst/en
+trüch                # Nieg-ins
+trüchgahn                # Nieg-ins
+trüchkamen                # Nieg-ins
+Truer                # Nieg-ins
+Trummel/n                # Nieg-ins
+trurig                # Nieg-ins
 tschüüs
+tschüüs                # Nieg-ins
 tüffelig/en tüffeliger/en tüffeligst/en
+Tulp/n                # Nieg-ins
+Tung/n                # Nieg-ins
 Tünn/n
 Tunnel/S
 Turbien Turbinen
+turnen/Fsf                # Nieg-ins
+Turnschoh                # Nieg-ins
 tusch/sJUV tuschen/ju
+Tüüch                # Nieg-ins
+Tüügnis/n                # Nieg-ins
 Tuun/S Tüün # zwei Pluralformen                       
 tuuschbor/en
+Tüüt/n                # Nieg-ins
+twee                # Nieg-ins
 Tweel Twelen	# HD Zwille
 Tweeschen/S
 tweet twete tweten
+twei                # Nieg-ins
+tweibreken                # Nieg-ins
 twiefelhaftig/en
 twintig ennuntwintig untwintig
 twischen
+twischen/R                # Nieg-ins
 Twischenaflaag/n
 Twischenruum Twischenrüüm                       
 Twischenspieker/S 
@@ -3962,6 +4621,7 @@ Twischentiet  Twischentieden
 twoors
 Typ/n
 typograafsch/en
+Ulen                # Nieg-ins
 üm
 üm'n
 Ümbreker/S
@@ -3976,22 +4636,29 @@ typograafsch/en
 Ümslag Ümslääg
 ümsunst
 ümto
+üm un bi                # Nieg-ins
 Ümwelt                          
 un
 unbestimmt/en                           
 Undeert/n Undeerter # zwei Pluralformen
 uneven/en
+Unfall Unfäll                # Nieg-ins
+Unglück                # Nieg-ins
 Unicode
 Union Unionen
 Universität/n
 ünnen
 ünner
+ünner                # Nieg-ins
 ünner  # prüfen Komposita ünnerbinnen ünnerbraken ünnerbreken ünnerbreken ünnerdelen ünnergahn ünnerornen ünnerschreven ünnerschrieven ünnersöken  ünnerstreken ünnerstütt#
+ünnerhollen ünnerhol ünnerhöllst ünnerholt                # Nieg-ins
 Ünnerindrag Ünnerindrääg  
 Ünnerkant/n
 Ünnermenü/S
 Ünneropgaav/n
+Ünnerscheed/n                # Nieg-ins
 Ünnerschrift Ünnerschriften                 
+ünnersöken/IDWOM                # Nieg-ins
 Ünnertitel           # Plural prüfen
 ünnerwegens
 uns
@@ -4000,6 +4667,7 @@ unsichtbor/en
 unvermoden unvermodens
 unverwacht/en
 URI/S URL/S
+Urlaub                # Nieg-ins
 USB
 Usenet
 usw
@@ -4021,11 +4689,14 @@ Utspraak/n
 Utwahl/n
 Utweg Utweeg
 Utwickler/S
+Uul                # Nieg-ins
+Vader/S                # Nieg-ins
 Vagel/S
 Vagelkunn                            
 Variabel Variabeln
 variabel variable variabeln
 Varianz/n
+Vedder Veddern                # Nieg-ins
 veel/en
 Veeleck/n
 veeleckig/en
@@ -4057,9 +4728,12 @@ Verföögborkeit
 verformbor/en
 vergeten vergeet vergittst vergitt vergeetst
 vergnööglich/en
+vergnöögt/e                # Nieg-ins
 verheiraadt
 Verkehr                           
 verkehrt/en                       
+verkloren/IDWOM Verkloren                # Nieg-ins
+Verköper/S                # Nieg-ins
 verleren verleer/DW verloor/D verloren
 Verlööf Verlöven
 Verloop Verlööp
@@ -4069,16 +4743,20 @@ vermoden vermood/DWMO
 vermoden vermoodt                          
 verniegern/IDWMO
 verplichten/IDWMO
+verrückt/e                # Nieg-ins
 verscheden/en
 Verscheel Verschelen
 Verschoon/n
 verslöteln/IDWMO
+verspreken/IDW versproken                # Nieg-ins
+verstahn verstah versteihst verstaht                # Nieg-ins
 versüken versüük/DWMO
 vertikal/en
 vertrolich/en
 vertroonswöördig/en
 verwachtens
 verwalten/IDWMO
+Verwandt/n                # Nieg-ins
 verwiederbor/en
 VGA
 viddel
@@ -4113,10 +4791,12 @@ Vörgeschicht
 Vörgrund
 Vörgrundklöör/n
 vörhannen/en
+vörher                # Nieg-ins
 vörig/en
 vörinstellen/IDWMO
 Vörjohr Vörjohren
 Vörlaag Vörlagen
+vörlesen vörleest                # Nieg-ins
 Vörleser/S
 vörmiddaags
 Vörmiddag Vörmiddaag
@@ -4135,6 +4815,7 @@ vörut
 vörverarbeiden/IDWMO
 vörwarts
 vörweg
+Voss Vöss                # Nieg-ins
 vulkaanasch/en
 Vulkan/n
 vull
@@ -4154,6 +4835,7 @@ Waag/n		# HD Waage und Wagen
 waagrecht/en
 wachten/IDWMOQPTV wachten/qpt
 Wachter/S
+wackeln/IDW                # Nieg-ins
 Wagen/S
 Wagendriever/S
 Wagenpeerd Wagenpeer
@@ -4163,13 +4845,18 @@ Wahl/n
 wählen/IDWMOAQJUV wählen/aqju
 Wähler/S
 wahlwies
+wahnen/IDW                # Nieg-ins
 wahnschapen
 Wahnstuuv Wahnstuven
+Wahnung/n                # Nieg-ins
 waken/RP waken/rp waak/DWMORP
 Wall Wäll
 Wand Wänn
+Wann/n                # Nieg-ins
 wannehr
+wannehr                # Nieg-ins
 wanneln/IDWMOÜ wanneln/ü
+wannern/s                # Nieg-ins
 warflich/en
 Wark/n
 warken/IDWMOBJUVF warken/juf
@@ -4177,8 +4864,10 @@ Warktüüch
 warm/en warmer/en warmst/en
 Warms
 warrn/IDWA warrn/a wöörn/IDA worrn/A
+warrn warr warrst warrt                # Nieg-ins
 warven/IDWMOAQBJÜ warven/aqjü
 Wäsch
+waschen/RUPQIDWrupq                # Nieg-ins
 Waschköök Waschköken
 Waschmaschien/n
 Waschschöttel Waschschötteln
@@ -4216,18 +4905,23 @@ Week Weken
 Weert/n
 weerten/IDWMOQBPUV weerten/qpu
 weg
+weg                # Nieg-ins
 wegen
 Weggang Weggäng
 Weg Weeg
 Wegwesen
+weh                # Nieg-ins
+wehdoon                # Nieg-ins
 Wekendag
 Wekendag Wekendaag
 welk/en
+welke/n                # Nieg-ins
 Welt
 Weltkrieg/n
 Weltruum 
 Welt Welten
 weltwiet weltwiede weltwieden
+wenen/s                # Nieg-ins
 wenig/en weniger wenigst/en
 wenn
 wenn'n
@@ -4236,13 +4930,17 @@ wennen/IDAQBJPCVX wennen/aqjpcx wendt/AQBJPCVX wendte/AQBJPCVX wendten/AQBJPCVX
 Wennstn			# HD Gewohnheit
 werken/IDWMOBV
 wesen bün büst is sünd weern/ID wees/W ween 
+Wessel/S                # Nieg-ins
 wesseln/IDWMOQJUV wesseln/qju
 West
+Westen                # Nieg-ins
 westlich/en
 wetenschoplich/en
 Wetenschop Wetenschoppen
 weten weet/D wussen/IDWMO
 Wett/n
+wetten/s                # Nieg-ins
+Wettlop                # Nieg-ins
 Wettstriet Wettstrieden
 weven/OJZV weven/ojz weev/DWMOJZV
 wi
@@ -4251,6 +4949,7 @@ wichtig/en wichtiger/en wichtigst/en
 wickeln/IDWMOQBJPUVÜ wickeln/qjpuü
 Wied/n
 wieder
+wiedergahn                # Nieg-ins
 Wiehnachtsavend
 Wiehnachtsboom Wiehnachtsbööm
 Wiehnachtsmann
@@ -4289,6 +4988,9 @@ witt/en
 wo
 woans
 wodennig
+woför                # Nieg-ins
+wohen                # Nieg-ins
+wöhlen/IDW                # Nieg-ins
 wohr/en 
 wohren/IDWMOBV
 Wohrschau                 
@@ -4296,11 +4998,14 @@ wohrschienlich/en
 Wohrschienlichkeit/n
 wohrschoen/I wohrschoost wohrschoot
 wokeen
+woll                # Nieg-ins
 woneem
 Woold/n
 Woort Wöör
 wööst/en
 Wööst/n
+Worm                # Nieg-ins
+Wörm                # Nieg-ins
 Worm Wörms
 Wörpel/S
 Wörpelsiet Wörpelsiedenden
@@ -4309,26 +5014,42 @@ worüm
 woso
 woveel
 wrack/en
+Wuddel                # Nieg-ins
+Wuddeln                # Nieg-ins
+Wulf                # Nieg-ins
 Wulk/n
 wulkig/en
+Wull                # Nieg-ins
 wüllen/W will wullen/IDWMO
+Wülv                # Nieg-ins
 wunnerbor/en
+wunnern/s                # Nieg-ins
+wünschen/Vs                # Nieg-ins
 Wunsch Wünsch
 würklich/en
+wuschen                # Nieg-ins
+Wust                # Nieg-ins
+Wüst                # Nieg-ins
 XServer
 Xylofon/n
 Zeddel/S
+Zeddel/S                # Nieg-ins
 Zeeg Zegen # kiek ok bi Zick
 Zell/n
 Zentimeter/S
 zentral/en
 Zentrum/S
 Zertifikat/n
+Zibbel                # Nieg-ins
+Zibbeln                # Nieg-ins
 Zicklamm Zicklammer Zicklämmer
 Zick Zicken # kiek ok bi Zeeg
 Zitat/n
 ziteer/s
 Zitroon/n
 Zittlöösch/n
+Zopp                # Nieg-ins
+Zöpp                # Nieg-ins
+Zucker                # Nieg-ins
 zyan
 Zylinner/S
