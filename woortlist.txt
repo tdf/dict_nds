@@ -3166,14 +3166,12 @@ morgen
 Mosaik/n
 Moss
 möten mutt/D mööt muss/WMO müssen
-Motor
-Motor                # Nieg-ins
+Motor/n
 Motorrad Motorrööd
-Motorrad   Motorrööd                # Nieg-ins
-Mück/n                # Nieg-ins
+Mück/n
 mucksch/en
-Mudder/S                # Nieg-ins
-Muer   Muern                # Nieg-ins
+Mudder/S
+Muer   Muern
 muffelig/en
 muffig/en
 multimedia			# adj
@@ -3188,7 +3186,6 @@ munter/en
 Museum Museen
 Musik/n
 Mütz/n
-Mütz/n                # Nieg-ins
 muulsch/en                          
 Muusklick/S                         
 Muusknoop Muusknööp                 
@@ -3213,7 +3210,6 @@ nagel fastnagel/s
 nageln/IDWMOARJPTVF
 naher                # Nieg-ins
 Nakieksel/S
-nakig                # Nieg-ins
 Namiddag Namiddaag
 namiddags
 Naricht/n
@@ -3226,7 +3222,6 @@ Natschonalität/n
 natt/en                          
 Natur/n                           
 natürlich/en
-natüürlich                # Nieg-ins
 nau/en
 Nauigkeit/n
 Naver/S
@@ -3255,7 +3250,7 @@ neihen/IDWMOQAHKTUXÜ neihen/qahktuxü
 Nelk/n                # Nieg-ins
 nerrn
 nervös/en
-Nest/n                # Nieg-ins
+Nest/n Nester # zwei Pluralformen
 nett/en
 Nett/n
 nettbaseert/en
@@ -3277,7 +3272,7 @@ nimmt                # Nieg-ins
 nipp
 nix
 noch
-nochmaal                            # prüfen maal/mal
+nochmal               
 nödig/en
 nömen                # Nieg-ins
 nominal/en
@@ -3285,10 +3280,9 @@ Nominativ
 noog
 nööm/sÜ 
 noord/n
-Noorden                # Nieg-ins
+Noorden     
 noot
 Norm/n
-normaal                # Nieg-ins
 normal/en
 normalerwies
 normaliseer/s           
@@ -3306,14 +3300,14 @@ Nummer/n
 Nummer Nummern
 nüms
 nütten/IDWMOQU nütten/qu
-Nutt   Nööt                # Nieg-ins
+Nutt   Nööt     
 nüüdlich/e                # Nieg-ins
 objektiv/en                           
 Objekt Objekten
 oder
 of
 offiziell/en
-Ogenblick/n                # Nieg-ins
+Ogenblick/n     
 Ohr/n
 ok'n
 Ökelnaam/S
@@ -3329,8 +3323,8 @@ Okular/S
 öller/en öllst/en
 Öllermann
 Öllern
-Oma/S                # Nieg-ins
-Onkel/S                # Nieg-ins
+Oma/S   
+Onkel/S 
 online
 Oogbro/n
 Oog Ogen
@@ -3346,11 +3340,11 @@ oorten/WMOU oorten/u
 oortig/en
 Oort Oorden Öörd
 Oost/n
-oosten                # Nieg-ins
+oosten           
 op
 op'n
 op't
-Opa/S                # Nieg-ins
+Opa/S            
 Opbacker/S
 Opdrag Opdrääg
 Opduker/S
@@ -3434,8 +3428,7 @@ Paket/n
 Palett/n
 Paneel/S
 Pann/n
-Pann/n                # Nieg-ins
-Papa/S                # Nieg-ins
+Papa/S       
 Papeer/n
 Parabel/n
 Paragraph/n
@@ -3462,9 +3455,7 @@ passen/IDWMOAQRJPTV passen/aqrjpt
 Passiv                            
 passiv/en
 Passwoort Passwöör                
-Paster/S   Pastersche/n                # Nieg-ins
-Pastoor/n   Pastoorsche/e                # Nieg-ins
-Pastuur/n   Pastuursche/e                # Nieg-ins
+Paster/S   Pastersche/n Pastoor/n   Pastoorsche/e Pastuur/n   Pastuursche/e            
 Patroon/n
 Paus/n
 PC
@@ -3484,12 +3475,11 @@ Periood/n
 perioodsch/en
 Person/n
 persönlich/en
-Persoon/n                # Nieg-ins
-persöönlich                # Nieg-ins
+persönlich  
 Perzent/n
 Perzess/n
 Perzess/n
-Perzesser/S                            # Plural prüfen /S oder /n
+Perzesser/S 
 pett                # Nieg-ins
 Phantom/n
 Philosophie
@@ -3509,7 +3499,7 @@ Pingel/S
 pingeln/IDWMOARYGF
 Pingstroos/n
 Pinsel/S
-Pistool/n                # Nieg-ins
+Pistool/n       
 Pixel/S
 plaan/s 
 Plaaster/S                # Nieg-ins
@@ -3549,23 +3539,23 @@ plücken/Qsq                # Nieg-ins
 Plugin/S
 plus
 pluustern/IDWMOP pluustern/p
-Pogg/n                # Nieg-ins
+Pogg/n      
 Poggenstohl Poggenstöhl  # HD: Pilz
 polaarsch/en 
 Polarkrink/n
 Politik
 Politiker/S
-Polizei   # kein Plural                # Nieg-ins
-Polizist/n   Polizistin   Polizistinnen                # Nieg-ins
-Pony/DS                # Nieg-ins
+Polizei   # kein Plural    
+Polizist/n   Polizistin   Polizistinnen     
+Pony/S 
 Pool/en # HD Pol geografisch
 Pool Polen # HD der Pole (Land)
 Pool Pööl Polen # HD Pfuhl, Pfütze
 poor
 Poor Poren
-Popo/S                # Nieg-ins
-Popp/n                # Nieg-ins
-Poppenwagen/S                # Nieg-ins
+Popo/S 
+Popp/n 
+Poppenwagen/S   
 Popularität
 Port/n
 porteer/s
@@ -3577,7 +3567,7 @@ Positschoon/en
 Post
 Postadress/n
 Poster/S
-Pott   Pött                # Nieg-ins
+Pott   Pött     
 praat/en 
 praat/s  
 Praatschop Praatschoppen
@@ -3586,7 +3576,6 @@ Präfix/n
 Präfix/n
 Praktikant/n
 praktisch/en praktischer/en praktischst/en
-praktisch                # Nieg-ins
 prall afprall/s
 prallen/IDWMOQAPX prallen/qapx
 Präpositschoon/n
@@ -3594,11 +3583,11 @@ Präsentatschoon/n
 Predigt/n
 Press            
 Prick/en
-Pries/n                # Nieg-ins
+Pries/n           # HD: Preis
 Primfaktor/n
 Primtall/n
-Prinz/n                # Nieg-ins
-Prinzessin/n                # Nieg-ins
+Prinz/n               
+Prinzessin/n          
 prioriseer/s
 Priorität/n
 privat/en
