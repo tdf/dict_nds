@@ -2141,7 +2141,7 @@ güntsiets
 güstern
 Gymnasium Gymnasien
 haal/s
-haap/s
+haap/s hööp/s
 Haas/n           
 Hack/n           
 Hacker/S
@@ -2158,14 +2158,14 @@ Halfkugel/n
 Halfmaand
 Halfmaat
 Halfmetall/n
-Hälft/e                # Nieg-ins
+Hälft/n                # Lindow. Sass: Halv / Halvpart
 Halftoon 
 Halfweerttiet Halfweerttieden                            
 Hall/n
 hallo         
 Halogen/n
 Hals/n Häls  # twee Plualfomen
-Haltesteed                # Nieg-ins
+Haltesteed/n
 halvig/en
 halvigfett/en
 Hamer/S           
@@ -2193,7 +2193,6 @@ Harvst
 hau/s    
 Haubitz/n
 hauen/IDWs                # Nieg-ins
-Hauptsaak/n                # Nieg-ins
 Haven/S                # Nieg-ins
 he       
 hebben/AF hebben/af heff/AF hest/AF hett/AF hebbt/AF harr/AF harrst/AF harrn/AF hatt/AF
@@ -2275,6 +2274,7 @@ hööft
 Hööft                     
 Hööftdeel/n
 Hööftfenster/n		# Pl -n! nicht -s
+Hööftsaak/n Hauptsaak/n     
 Hööftstadt Hööftstäder 
 höög/s
 hoop/s
@@ -2284,7 +2284,6 @@ Hoor Horen
 Höörn Hörnen
 hoosten/IDWOMs                # Nieg-ins
 Hoot Hööt
-höpen/IDW                # Nieg-ins
 Hopen/S
 Höpen/S                # Nieg-ins
 hören/AFJPTYCVX hören/afjptycvx höör/DWMOAFJPTYCVX
@@ -2585,14 +2584,14 @@ Kode Koden
 Koderer/S
 Koeffizient/n
 Koffein
-Koffer/S                # Nieg-ins
-Kofferruum Kofferrüüm Kufferruum Kufferrüüm
+Koffer/S   
+Kofferruum Kofferrüüm 
 Koffie
 Koh Köh 
 Kohl    
-köhl/e                # Nieg-ins
-köhlig/e                # Nieg-ins
-Köhlschapp/n                # Nieg-ins
+köhl/en
+köhlig/en
+Köhlschapp Köhlschäpp
 Koken
 Kollineor/en
 Kollischoon/n
@@ -2644,8 +2643,8 @@ Kontrast/n
 konverteer/s
 konvex/en
 konzentersch/en
-Konzert/e                # Nieg-ins
-Köök/n                # Nieg-ins
+Konzert/n
+Köök/n   
 Kookje/S
 koolt kole/n köller/en köölst/en
 Koop Kööp
@@ -2663,7 +2662,7 @@ Koppel/S
 koppel/sAQJTUVÜ koppeln/aqjtuü
 Kopphörer/S
 Kopp Köpp
-Koppküssen                # Nieg-ins
+Koppküssen/S
 Koppreeg/n
 Körbs Körbsen
 kören => irr?                            # konjugieren?
@@ -2686,38 +2685,34 @@ Kraftfeld Kraftfeller
 Kraft Kräft
 Kraftstoff/n
 kraftvull/en
-Kragen/S                # Nieg-ins
-Krall/n                # Nieg-ins
+Kragen/S    
+Krall/n  
 krank/en
-krank/en                # Nieg-ins
 Krankenbett/n
-Krankenhuus Krankenhüüs
-Krankenhuus   Krankenhüüs   Krankenhüser                # Nieg-ins
+Krankenhuus Krankenhüüs Krankenhüser                
 Krankenstatschoon/n
 Krankenswester/n Krankensüster/n
-Krankenwagen/S                # Nieg-ins
+Krankenwagen/S      
 Krankheit/n
-Krankheit                # Nieg-ins
 Krater/S 
 Kreeft               # Plural?
 Kreem          
 Kreemsupp/n      
-Kreis/n                # Nieg-ins
-Kried                # Nieg-ins
-Krieg                           # Plural?
+Kreis/n 
+Kried                # HD: Kreide
+Krieg/n
 kriegen/IWQJPZKGCX kriegen/qjpzkgcx kriggst/QJPZKGCX kriggt/QJPZKGCX kreeg/DQJZKPGCX kregen/QJPZKGCX
 Krink/n
 Krinkbagen/S 
 krinkoortet/en
 Kristall/n
 kritisch/en			# prüfen: kritsch? 
-Kröger/S                # Nieg-ins
-Krögersch/n                # Nieg-ins
+Kröger/S Krögersch/n               
 Krokodil/n
 Kroon/n
-Krööt   Kröten                # Nieg-ins
-krumm/en                # Nieg-ins
-Krümm/n                # Nieg-ins
+Krööt   Kröten 
+krumm/en  
+Krümm/n                # HD: Biegung
 Krüüz/n
 krüüz/s
 krüzen/AQRJP krüzen/aqrjp krüüz/WMOAQRJP
@@ -2729,11 +2724,11 @@ Kuffer/S Koffer/S # Sass: Koffer als Standard. Cyriacks: Kuffer
 Kugel/n
 Kukuuk/S                # Nieg-ins
 Küll
-Kuller/S                # Nieg-ins
+Kuller/S         
 Kult                           
 Kultur/n
 Kulturform      # prüfen Mehrzahl
-Kummer                # Nieg-ins
+Kummer           
 kümmt                # Nieg-ins
 kumplett/en
 kumpletteer/s
@@ -2751,7 +2746,7 @@ Küsel/S
 küselig/en
 Kusenbreker/S
 Küssen/S
-kuum                # Nieg-ins
+kuum 
 Kuus/n
 kyrillsch/en
 laadbor/en
@@ -2768,7 +2763,7 @@ Lader/S				# wat is dat?
 Lager/S
 lager/sAQBJUVÜ lagern/aqjuü
 Lagers 
-lahm/e                # Nieg-ins
+lahm/en
 Lamp/n
 Landkoort/n
 Land Länner Lannen
@@ -2780,19 +2775,18 @@ Längd Längde/n
 langen/CYAZRTKIDWcyazrtk                # Nieg-ins
 Langform                 # prüfen Mehrzahl
 langs
-langsaam/en                # Nieg-ins
 langsam/en langsamer/en langsamst/en
-langtöögsch/en                # Nieg-ins
+langtöögsch/en
 langwiel/s langtowielen
 lannen/IDWMO
-Lappen/S                # Nieg-ins
-Larm                # Nieg-ins
+Lappen/S 
+Larm  
 Laser/S
 Laserstrahl/n
 Laserstrahler/S
 Last/n
 lasten/IDWMOAQBPU lasten/aqpu
-Lastwagen/S                # Nieg-ins
+Lastwagen/S     
 laten/AQBRJHTUVX laten/aqrjhtux laat/AQBRJHTUVX lettst/AQBRJHTUVX lett/AQBRJHTUVX leet/DAQBRJHTUVX leten/AQBRJHTUVX
 Latiensch      
 latiensch/en
@@ -2816,7 +2810,7 @@ Leesteken/S
 leev/s 
 leev/sBRPUVF
 Leevdag                            
-Leevde                # Nieg-ins
+Leevde          
 legal/en
 Legenn/n
 leggen/IDWMOAQBJPTYCUVFX leggen/aqjptycufx leed/DAQBJPTYCUVFX leden/AQBJPTYCUVFX
@@ -2833,7 +2827,7 @@ Leisten
 leisten/IQ leiste/Q
 Lenk/n	                 # HD: Link (Internet)
 lenk aflenk/s
-Lepel/S                # Nieg-ins
+Lepel/S         
 lesen/JQHPUVF lesen/jqhpuf lees/WMOJQHPUVF
 Leser/S
 lest/en
@@ -2872,13 +2866,11 @@ Lienholt Lienhölter
 Lienwand Lienwänn Lienwännen
 lierlütt/en
 lies/en lieser/en liest/en
-liesen                # Nieg-ins
 Liest/n
 liggen/IDWRP liggen/rp leeg/DRP legen/RP
 lila
 Limoon/n
-Lineaal/n
-Lineal/n                # Nieg-ins
+Lineal/n                # auch: Lienholt
 lineor/en
 Linguist/n
 Link/S
@@ -2890,7 +2882,7 @@ Linksklick
 links linke linken
 Linkteel/n
 Lins/n
-Lipp/n                # Nieg-ins
+Lipp/n               
 List/n
 listen/IDWMOP listen/p
 Literatur
@@ -2935,13 +2927,11 @@ Luftdruck
 Luftmass/n
 Lung/n
 lunger/s
-Lünk/n                # Nieg-ins
-Lust                # Nieg-ins
+Lünk/n               
+Lust               
 Lüsten                # Nieg-ins
 lüstern/IDWMOC lüstern/bc
 lustig/en lustiger/en lustigst/en
-lustig                # Nieg-ins
-luter                # Nieg-ins
 lütt/en lütter/en lüttst/en
 Lüttbild Lüttbiller                            
 Lüttbookstaav/n
@@ -2971,7 +2961,7 @@ maal
 maal/s                          
 Maand/n
 Maandag
-Määrken/S                # Nieg-ins
+Määrken/S     
 Maat/n
 Mac
 mächtig/en mächtiger/en mächtigst/en
@@ -2994,26 +2984,24 @@ Maker/S
 Makro/S
 mal                           
 malen/QABHPZKUVFXÜ malen/qahpzkufxü maal/DWMOQABHPZKUVFXÜ
-Maler/S                # Nieg-ins
+Maler/S              
 Malesch/n
 mall/en
 Mallbüdel/S
 Malöör/S
 malören malöör/WMO
-Mama/S                # Nieg-ins
+Mama/S               
 man
 Manager/S
 mang
 mank
-männich                # Nieg-ins
-männichmal                # Nieg-ins
+männich männnicheen              
+männichmal           
 Mann Mannslüüd
-männnicheen                # Nieg-ins
 Mannschopp/n
 Manpage/S
 Manschett/n
 Mantel/S
-Mantel/S                # Nieg-ins
 Marathon
 Marathonloop Marathonlööp 
 Margarine                # Nieg-ins
@@ -3028,7 +3016,6 @@ Markmaal/n
 Markt/n
 Marmel/S
 Marmelaad/n
-Marmelaad/n                # Nieg-ins
 Marmor
 marscheer/s
 Maschien Maschinen  # Sg: nicht Maschin
@@ -3058,29 +3045,27 @@ medizinsch/en
 meen/s
 meen menen/V meen/MOV meenst/V meent/V
 Meer Meren
-Meester                # Nieg-ins
-Mehl                # Nieg-ins
+Meester/S
+Mehl     
 mehr                           
 mehrfach/en
 mehrmalig/en
 mehrst/en 
 mehrstendeels
 Mehrtall/n
-meihen/IDWOM                # Nieg-ins
+meih/s
 meist
-Melk                # Nieg-ins
+Melk 
 Melkstraat/n 
 mell afmell/s
 mellen/IAQJV mellen/iaqj meldst/AQJV meldt/AQJV meldte/AQJV meldten/AQJV
 Mengde/n
 mengeleer/s
-mengeleren                # Nieg-ins
 mennig/en
 mennigmal                           
 Menü/S
 Menüindrag Menüindrääg                           
 Menüliest/n
-Menung                # Nieg-ins
 merrn                           
 Meta
 Metadaten                           
@@ -3092,28 +3077,28 @@ Meteorologie
 Meter/S
 Methood/n
 Metrik/n
-Metz/n                # Nieg-ins
+Metz/n 	# HD: Messer
 MHz
-middaags                # Nieg-ins
+middaags            
 Middag                           
-Middageten                # Nieg-ins
+Middageten          
 Middag Middaag
-Middel/S                # Nieg-ins
+Middel/S            
 middelgroot/en                            
 middeln/IDWMOUV middeln/u
 Middelpunkt/n Middelpünkt # zwei Pluralformen
 middelswoor/en 
 midden
-Middeweken
+Middeweek Middeweken
 Miegeemk/n                # Nieg-ins
 Miegeem Miegemen
 Miel/n					# HD Meile
 Mikrofon/S
 Mikrometer/S
 Mikrosekunn/n
-Milliard/n                # Nieg-ins
+Milliard/n          
 Millimeter/S
-Million/n                # Nieg-ins
+Million/n           
 Millisekunn/n
 Mineralogie                            
 Minibild Minibiller
@@ -3132,7 +3117,7 @@ Minuut/n
 misch/s                           
 Mischer/S
 Mischtall/n
-Mist/n                # Nieg-ins
+Mist
 mit
 mit'n
 Mitarbeider/S
@@ -3145,7 +3130,6 @@ mitgoht                # Nieg-ins
 mitnehmen                # Nieg-ins
 mitsamts
 Mitschöler/S
-Mittweken/S                # Nieg-ins
 mm
 mobil/en
 Mobiltelefon/n
@@ -3154,7 +3138,7 @@ Modell/n
 Modem/S
 modereer/s                 
 Moder Möder
-modern                # Nieg-ins
+modern/en
 Moderspraak/n
 Modifikator/n
 Modifikatschoon/n
