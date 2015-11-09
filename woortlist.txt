@@ -709,6 +709,7 @@ Bindwark
 binnen/IDAQJTVX bindt/AQJTVX bunnen/IDAQJTVX binnen/aqjtvx
 Binnenhuus Binnenhüüs
 binnenlannsch/en
+Binnenminister/S
 binnensiets
 Binnenstadt Binnenstäder
 binnenwennig/en
@@ -1344,7 +1345,8 @@ Dreihbass
 Dreihbook Dreiböker
 dreihen/IDWMOAQRPTYCVXÜ dreihen/aqrptycvxü
 Dreiher/S
-Dreihfeld Dreihfeller    
+Dreihfeld Dreihfeller
+Dreihkrüüz/n    
 Dreihmomang 		
 drellen/IDWMO
 dremmeln/IDWMO
@@ -2578,6 +2580,7 @@ Knoop Knööp
 Knööv                           # prüfen -f?
 knüppen/IDWMOAQJTVÜ knüppen/oaqjtü
 Knütt/n
+Koalitschoon/n
 kodeer/s
 Kodek/S
 Kode Koden
@@ -3281,7 +3284,7 @@ Nominativ
 noog
 nööm/sÜ 
 noord/n
-Noorden     
+Noorden Noord Noordwest Noordoost     
 noot
 Norm/n
 normal/en
@@ -3356,6 +3359,7 @@ opfrisch/s optofrischen
 Opgaav/n
 Opgang Opgäng
 Opgavenlist/n
+opgliek
 opgradeer/s
 opletzt
 Oplöser/S                          
@@ -4283,6 +4287,7 @@ Stremel/S
 streng/en strenger/en strengst/en
 Streu 
 STRG Strg
+Striek   # HD: Streik Plural?
 strieken/IWARJUVFX strieken/arjufx strickst/ARJUVFX strickt/ARJUVFX streek/DARJUVFX streken/ARJUVFX
 Striep/n
 Striepen/S                # Nieg-ins
@@ -4309,7 +4314,7 @@ Stuuv Stuven
 Subroutine Subroutinen
 süchst/CJAZTUÜGPHVKQXcjaztuügphkqx                # Nieg-ins
 sücht/CJAZTUÜGPHVKQXcjaztuügphkqx                # Nieg-ins
-Süden Süüd                # Nieg-ins
+Süden Süüd Süüdwest Süüdoost
 Suffix Suffixen
 sugen/QARJPZKGUX sugen/qarjpzkgux suug/WQARJPZKGUX süggst/QARJPZKGUX süggt/QARJPZKGUX soog/DQARJPZKGUX sogen/QARJPZKGUX sagen/QARJPZKGUX
 Suldot/n                # Nieg-ins
@@ -4658,6 +4663,7 @@ Utnahm/n
 Utsaag/n
 Utsehn
 Utspraak/n
+Utsteller/S
 Utwahl/n
 Utweg Utweeg
 Utwickler/S
