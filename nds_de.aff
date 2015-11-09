@@ -244,7 +244,7 @@ SFX O en en ten
 # Plural Vergangenheit: maken =>  wie Infinitiv
 # Partizip: maakt => wie 3. Sg. Präsens.
 # Partizip dekliniert: maakte maakten => führt nie zu Vokalveränderung
-SFX s Y 98
+SFX s Y 105
 SFX s 0 st
 SFX s 0 t
 SFX s 0 te
@@ -254,6 +254,7 @@ SFX s 0   n      er
 SFX s 0   n      el
 SFX s aab aben   aab
 SFX s aad aden   aad
+SFX s aaf afen   aaf
 SFX s aag agen   aag
 SFX s aak aken   aak
 SFX s aal alen   aal
@@ -267,6 +268,7 @@ SFX s aav aven   aav
 SFX s aaw awen   aaw
 SFX s eeb eben   eeb
 SFX s eed eden   eed
+SFX s eef efen   eef
 SFX s eeg egen   eeg
 SFX s eek eken   eek
 SFX s eel elen   eel
@@ -281,6 +283,7 @@ SFX s eew ewen   eew
 SFX s oob oben   oob
 SFX s ood oden   ood
 SFX s oog ogen   oog
+SFX s oof ofen   oof
 SFX s ook oken   ook
 SFX s ool olen   ool
 SFX s oom omen   oom
@@ -294,6 +297,7 @@ SFX s oow owen   oow
 SFX s uub uben   uub
 SFX s uud uden   uud
 SFX s uug ugen   uug
+SFX s uuf ufen   uuf
 SFX s uuk uken   uuk
 SFX s uul ulen   uul
 SFX s uum umen   uum
@@ -307,6 +311,7 @@ SFX s uuw uwen   uuw
 SFX s ääb äben   ääb
 SFX s ääd äden   ääd
 SFX s ääg ägen   ääg
+SFX s ääf äfen   ääf
 SFX s ääk äken   ääk
 SFX s ääl älen   ääl
 SFX s ääm ämen   ääm
@@ -319,6 +324,7 @@ SFX s ääv även   ääv
 SFX s ääw äwen   ääw
 SFX s ööb öben   ööb
 SFX s ööd öden   ööd
+SFX s ööf öfen   ööf
 SFX s öög ögen   öög
 SFX s öök öken   öök
 SFX s ööl ölen   ööl
@@ -332,6 +338,7 @@ SFX s ööv öven   ööv
 SFX s ööw öwen   ööw
 SFX s üüb üben   üüb
 SFX s üüd üden   üüd
+SFX s üüf üfen   üüf
 SFX s üüg ügen   üüg
 SFX s üük üken   üük
 SFX s üül ülen   üül
@@ -346,13 +353,14 @@ SFX s üüw üwen   üüw
 
 
 # E anfügen, z.B. Adjektiv good => gode
-SFX e Y 96
+SFX e Y 103
 SFX e 0   e     [^aeiouöü][^aeiouöü]
 SFX e 0   e     [^aeiouöü][aeiouöü][^aeiouöü]
 SFX e 0   e     [^aeiouöü]er
 SFX e bel ble   bel
 SFX e aab abe   aab
 SFX e aad ade   aad
+SFX e aaf afe   aaf
 SFX e aag age   aag
 SFX e aak ake   aak
 SFX e aal ale   aal
@@ -366,6 +374,7 @@ SFX e aav ave   aav
 SFX e aaw awe   aaw
 SFX e eeb ebe   eeb
 SFX e eed ede   eed
+SFX e eef efe   eef
 SFX e eeg ege   eeg
 SFX e eek eke   eek
 SFX e eel ele   eel
@@ -380,6 +389,7 @@ SFX e eew ewe   eew
 SFX e ien iene  ien
 SFX e oob obe   oob
 SFX e ood ode   ood
+SFX e oof ofe   oof
 SFX e oog oge   oog
 SFX e ook oke   ook
 SFX e ool ole   ool
@@ -393,6 +403,7 @@ SFX e oov ove   oov
 SFX e oow owe   oow
 SFX e uub ube   uub
 SFX e uud ude   uud
+SFX e uuf ufe   uuf
 SFX e uug uge   uug
 SFX e uuk uke   uuk
 SFX e uul ule   uul
@@ -406,6 +417,7 @@ SFX e uuv uve   uuv
 SFX e uuw uwe   uuw
 SFX e ääb äbe   ääb
 SFX e ääd äde   ääd
+SFX e ääf äfe   ääf
 SFX e ääg äge   ääg
 SFX e ääk äke   ääk
 SFX e ääl äle   ääl
@@ -419,6 +431,7 @@ SFX e ääv äve   ääv
 SFX e ääw äwe   ääw
 SFX e ööb öbe   ööb
 SFX e ööd öde   ööd
+SFX e ööf öfe   ööf
 SFX e öög öge   öög
 SFX e öök öke   öök
 SFX e ööl öle   ööl
@@ -433,6 +446,7 @@ SFX e ööw öwe   ööw
 SFX e üüb übe   üüb
 SFX e üüd üde   üüd
 SFX e üüg üge   üüg
+SFX e üüf üfe   üüf
 SFX e üük üke   üük
 SFX e üül üle   üül
 SFX e üüm üme   üüm
@@ -445,7 +459,7 @@ SFX e üüv üve   üüv
 SFX e üüw üwe   üüw
 
 # N anfügen, z.B. Adjektiv good => gode
-SFX n Y 98
+SFX n Y 105
 SFX n 0   en     [^aeiouöü][^aeiouöü]
 SFX n 0   en     [^aeiouöü][aeiouöü][^aeiouöü]
 SFX n 0   en     [^aeiouöü]er
@@ -454,6 +468,7 @@ SFX n 0   en     [i][^aeiouöü]
 SFX n bel blen   bel
 SFX n aab aben   aab
 SFX n aad aden   aad
+SFX n aaf afen   aaf
 SFX n aag agen   aag
 SFX n aak aken   aak
 SFX n aal alen   aal
@@ -467,6 +482,7 @@ SFX n aav aven   aav
 SFX n aaw awen   aaw
 SFX n eeb eben   eeb
 SFX n eed eden   eed
+SFX n eef efen   eef
 SFX n eeg egen   eeg
 SFX n eek eken   eek
 SFX n eel elen   eel
@@ -482,6 +498,7 @@ SFX n ien ienen  ien
 SFX n oob oben   oob
 SFX n ood oden   ood
 SFX n oog ogen   oog
+SFX n oof ofen   oof
 SFX n ook oken   ook
 SFX n ool olen   ool
 SFX n oom omen   oom
@@ -494,6 +511,7 @@ SFX n oov oven   oov
 SFX n oow owen   oow
 SFX n uub uben   uub
 SFX n uud uden   uud
+SFX n uuf ufen   uuf
 SFX n uug ugen   uug
 SFX n uuk uken   uuk
 SFX n uul ulen   uul
@@ -507,6 +525,7 @@ SFX n uuv uven   uuv
 SFX n uuw uwen   uuw
 SFX n ääb äben   ääb
 SFX n ääd äden   ääd
+SFX n ääf äfen   ääf
 SFX n ääg ägen   ääg
 SFX n ääk äken   ääk
 SFX n ääl älen   ääl
@@ -520,6 +539,7 @@ SFX n ääv även   ääv
 SFX n ääw äwen   ääw
 SFX n ööb öben   ööb
 SFX n ööd öden   ööd
+SFX n ööf öfen   ööf
 SFX n öög ögen   öög
 SFX n öök öken   öök
 SFX n ööl ölen   ööl
@@ -534,6 +554,7 @@ SFX n ööw öwen   ööw
 SFX n üüb üben   üüb
 SFX n üüd üden   üüd
 SFX n üüg ügen   üüg
+SFX n üüf üfen   üüf
 SFX n üük üken   üük
 SFX n üül ülen   üül
 SFX n üüm ümen   üüm
