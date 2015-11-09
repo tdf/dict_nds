@@ -69,6 +69,7 @@ Beilen
 Belen
 Bentreike
 Bentwisch
+Berlin
 Berne
 Berum
 Beuendörp
@@ -1124,3 +1125,12 @@ XML
 XTerm
 Zip
 ZModem
+
+# Firmen
+Lufthansa
+Microsoft
+Apple
+IBM
+
+# Politik
+CDU CSU SPD FDP Linkspartei 

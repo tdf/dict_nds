@@ -404,6 +404,8 @@ Asteroid/n
 Astronom/S
 Astronomie
 astronoomsch/en
+Asyl
+Asylandrag Asylandrääg
 Asymptoot/n
 asynchroon/en
 Aten
@@ -1761,7 +1763,7 @@ Filmmusik/n
 Filter/S
 filtern/IDWMORU
 filtern/sRU
-Filterregel/S
+Filterregel Filterregeln
 final/en     
 finanzeer/s
 Finanzen
@@ -1780,7 +1782,7 @@ Fisch
 Fischer/S
 Fischkunn
 Fisematenten                
-fix/en
+fix/en fixer/en
 Fixansicht/en
 Fixhülp
 Fixinstellen
@@ -2016,7 +2018,7 @@ Geoloog Geologen
 Geometrie/n
 geometrisch/en
 geozentersch/en
-Gericht/n
+Gericht/n Landgericht/n
 Gesabbel
 Gesamtschool/n
 Gesangbook Gesangböker
@@ -2786,6 +2788,7 @@ Laserstrahl/n
 Laserstrahler/S
 Last/n
 lasten/IDWMOAQBPU lasten/aqpu
+Laster/S
 Lastwagen/S     
 laten/AQBRJHTUVX laten/aqrjhtux laat/AQBRJHTUVX lettst/AQBRJHTUVX lett/AQBRJHTUVX leet/DAQBRJHTUVX leten/AQBRJHTUVX
 Latiensch      
@@ -3707,7 +3710,7 @@ Reet Reten
 Referenz/n
 regeer/s
 regeer/s  
-Regel/n
+Regel Regeln # nicht Regels!
 regelmatig/en
 Regelmatigkeit
 Regen
@@ -4526,6 +4529,8 @@ töven/Q töven/q tööv/DWQ
 Töveree Tövereen
 Töverer/S
 toverlässig/en
+Toversicht
+toversichtlich/en toversichtlicher/en toversichtlichst/en
 tövern/IDWMOBYVX tövern/yx
 Towass Towäss
 traach trage tragen	# HD träge. Wieso laut Sass Grundform auf ch
@@ -4985,7 +4990,7 @@ Wörpelsiet Wörpelsiedenden
 Wörtel Wörteln
 worüm
 woso
-woveel
+woveel/e
 wrack/en
 Wuddel                # Nieg-ins
 Wuddeln                # Nieg-ins
