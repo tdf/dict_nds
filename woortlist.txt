@@ -146,7 +146,7 @@ afsluuts
 Afsluutweert/n
 Afsnitt/n Afsneed
 afsoluut/en
-afspecken   afspeckte                # Nieg-ins
+afspeck/s
 Afspeellist/n
 Afspeler/s
 Afsprung Afsprüng
@@ -238,7 +238,7 @@ Ammer/S # Eimer
 ammerwies/en
 Amööb/n
 Amplituud/n
-Amsel/n              
+Amsel Amseln # Autoplural wäre falsch
 Amt Ämter
 Amtsspraak/n
 Amtstiet Amtstieden 
@@ -282,7 +282,6 @@ Ankerklüüs  # Mehrtall? und was ist das?
 Anklaag/n
 Ankrüüzfeld Ankrüüzfeller         
 Anlegger/S
-Anliggen                # Nieg-ins
 Anloop Anlööp
 annekteer/s
 anner/en annern # die normale Ergänzung ist amüseer/amüseren. Aber "annern" ist auch häufig und sollte ok sein.
@@ -541,7 +540,7 @@ Basisorner                      # => Plural?
 Basketball Basketbäll 
 bass  # as in bass erstaunt
 bassen/IDWMOPGT bassen/pgt # HD: bersten
-basteln/ZQIDWszq                # Nieg-ins
+bastel/sZ basteln/z
 Batterie/n
 batz # plötzlich
 baven
@@ -550,7 +549,7 @@ Bavenhand Bavenhänn
 bavenhen
 bavenop 
 bavento 
-Beamte/M                # Nieg-ins
+Beamte/n Beamtin Beamtinnen Beamtsche/n
 bedächtig/en
 bedden/IDWMOJPZUÜ bedden/jpzuü  
 Bedelbroder Bedelbröder
@@ -606,7 +605,7 @@ Beleefnis Beleefnissen
 beleev/s 
 belicht/s                           
 bell/s
-bellen/ATUXIDWatux                # Nieg-ins oder bell/s
+bell/ATUXIDs bellen/Watux   
 beluer/s 
 bemannt/en
 bemeier/s
@@ -617,7 +616,6 @@ Bericht/n
 Berühmtheit/n
 Bescheed/n
 beschrift/s
-besinnen                # Nieg-ins
 Besitter/S
 Beslag Beslääg
 beslünig/s
@@ -4036,6 +4034,7 @@ Simulatschoon/n
 simuleer/s 
 singen/PFpf   singst/PFpf   singt/PFpf   sungen/PFpf                # Nieg-ins
 Sinn
+sinnen/IDWB  sunn/B sunnst/B sunnen/B  # sinnen/besinnen
 sinnig/en
 sinnvull/en
 Sitt/S                # Nieg-ins
@@ -4046,26 +4045,25 @@ Skala/S	# Plural prüfen: Skalen?
 skaleer/s
 skaleerbor/en
 skandinaavsch/en
-Ski                # Nieg-ins
-Skier                # Nieg-ins
+Ski Skier    
 Skript/n
 slaan/AQBRCJHPTUFX slaan/aqbrcjhptufx sla/AQBRCJHPTUFX sleist/AQBRCJHPTUFX sleit/AQBRCJHPTUFX slaat/AQBRCJHPTUFX sloog/DAQBRCJHPTUFX slogen/AQBRCJHPTUFX
 Slaap
 Slacht/n
 slachten/UQsuq                # Nieg-ins
-Slachter/S   Slachtersch/n                # Nieg-ins
+Slachter/S   Slachtersch/n  
 Slag Slääg
 Slang/n
 slank/en slanker/en slankst/en
 slapen/BRJTUVFX slapen/rjtufx slaap/WBRJTUVFX slöppst/BRJTUVFX slöppt/BRJTUVFX sleep/DBRJTUVFX slepen/BRJTUVFX
 slau                # Nieg-ins
 Slauch   Släuch                # Nieg-ins
-slecht                # Nieg-ins
-Sleden/S                # Nieg-ins
+slecht/en slechter/en slechtst/en
+Sleden/S
 sleudern/CYZRUVXscyzrux                # Nieg-ins
 slieken/CYJAZRGXcyjazrgx   sliek/CYJAZRGXcyjazrgx   slickst/CYJAZRGXcyjazrgx   slickt/CYJAZRGXcyjazrgx   sleken/CYJAZRGXcyjazrgx                # Nieg-ins
 Slieppapeer 		# prüfen
-slimm                # Nieg-ins
+slimm/en slimmer/en slimmst/en
 Slööp Slöpen			# wat is dat?
 Slötel/S
 Slöteltyp/n
@@ -4074,7 +4072,7 @@ Slott Slööt Slötter
 sluken/VXx   sluuk/VXx   sluckst/VXx   sluckt/VXx   sloken/VXx                # Nieg-ins
 Sluss                # Nieg-ins
 sluten/AQBJPTUV sluten/aqjptu sluut/AQBJPTUV sluttst/AQBJPTUV slutt/AQBJPTUV sloot/DAQBJPTUV sloten/AQBJPTUV slaten/AQBJPTUV
-Smack                # Nieg-ins
+Smack                # HD: Geschmack
 small/en
 Smaragd/n
 Smartkoort/n
@@ -4114,21 +4112,20 @@ snörkelig/en
 Snuut/n
 so
 so'n
-Sock/n                # Nieg-ins
+Sock/n    
 Sockel/S		# prüfen
 Socket/S		# prüfen
 sodraad			# wat is dat?
-Sofa/DS                # Nieg-ins
+Sofa/S              
 Software
-sogoor                # Nieg-ins
 sogor
-Söhn/S                # Nieg-ins
+Söhn/S          # Singular hat auch Umlaut!
 söken/QBRPUV söken/qrpu söök/WQBRPUV söchen/IDWMOQBRPUV
 Söker/S
-Solt                # Nieg-ins
+Solt    # HD: Salz
 Sommer/S
-Sommerdag   Sommerdaag                # Nieg-ins
-Sommerferien                # Nieg-ins
+Sommerdag   Sommerdaag          
+Sommerferien            
 Sommertiet                         
 Sonaat/n
 sööd # hd. süd-
@@ -4137,34 +4134,33 @@ Sööktext/n
 Sööktyp/n
 Söökutdruck Söökutdrück                           
 Söökwoort Söökwöör                        
-Sooß/n                # Nieg-ins
+Sooß Soßen   # das kann der Automatismus nicht
 sööt/en
 Sorg/n
 sorteer/sRJUFX sorteren/rjufx
 sösstig eenunsösstig unsösstig
 Söten                # Nieg-ins
-sounso                # Nieg-ins
+sounso             
 söven
 söventig eenunsöventig unsöventig
 sozial/en
 Spaak			# HD Schimmel
 Spaaß
-Spaden/S                # Nieg-ins
+Spaden/S           
 sparr/s
 Sparrtiet Sparrtieden
-Spatz/n                # Nieg-ins
 spazeer/s
 speel/s             
 Speelbaas/n
 Speelbrett Speelbreed
 Speelfeld Speelfeller
 speel mitspelen mitspeel/DWMO
-Speelsaken                # Nieg-ins
+Speelsaken     
 Speel Spelen
 Speelstärk/n
 Speelstoop/n
 Speeltog Speeltöög
-Speeltüüch                # Nieg-ins
+Speeltüüch     
 speen/AZUGBKsazugk                # Nieg-ins
 spegel/s
 Spegel/S
@@ -4199,10 +4195,9 @@ Spool/n
 spoor/s              
 spoor/sAQJP 
 Spoor Spöör Sporen
-Spoort                # Nieg-ins
-Spoortplatz   Spoortplätz                # Nieg-ins
 spören/RHPZUF spören/rhpzuf spöör/DWMORHPZUF
 Sport
+Sportplatz   Sportplätz    
 Spraak/n
 spreken/QABRZRGUVF spreken/qarzrguf spreek/WQABRZRGUVF sprickst/QABRZRGUVF sprickt/QABRZRGUVF sprook/DQABRZRGUVF sproken/QABRZRGUVF spraken/MOQABRZRGUVF
 springen/IDWAQRJPX springen/aqrjpx sprungen/IDAQRJPX
@@ -4216,21 +4211,21 @@ staatsch/en
 Stadt Städer
 Staff Stääv
 stahn/AQBRJPTUVF stahn/aqrjptuf stah/WAQBRJPTUVF steihst/AQBRJPTUVF steiht/AQBRJPTUVF staht/AQBRJPTUVF stunnen/IDAQBRJPTUVF
-Stall/n Ställ                # Nieg-ins
+Stall/n Ställ         
 Stamm Stämm
 Stand                           
 Standard/S
 Standardweert/n
 standardwies
 Stand Stänn
-Stang/n                # Nieg-ins
+Stang/n               
 Stapel/S
 stapeln/IDWMOPCX stapeln/pcx
 stark/en stärker/en stärkst/en
 Stärk/n
 Start
 start/sQRP starten/qrp
-starven/XIDWx                # Nieg-ins
+starv/sX starven/x
 Statistik/n
 Statschoon/n
 Status
@@ -4245,7 +4240,7 @@ stell/sAQBRYJPTCUVFXÜ  stellen/aqbryjptcuvfxü
 stellen dorstellen/IDWMO
 stell hoochstell/s hoochtostellen         
 Stempel/S
-Stevel/S                # Nieg-ins
+Stevel Steveln # Autoplural macht das falsch
 Steven/S
 stevig/en steviger/en stevigst/en
 Stevigkeit/n
@@ -4255,12 +4250,12 @@ Stil/n
 still/en
 Stimm/n
 stimmen/IDWMOAQBJTV stimmen/aqjt
-Stock Stöck Stöcker                # Nieg-ins
+Stock Stöck Stöcker     
 Stoff/n # HD Stoff
 Stoff	# HD Staub
 Stoffstorm 
-Stohl Stöhl                # Nieg-ins
-stolt/e                # Nieg-ins
+Stohl Stöhl            
+stolt/en stolter/en  # Superlativ?
 Stoop/n
 stöör/s
 stöör/sP
@@ -4268,14 +4263,13 @@ Stoot Stööt
 stopen/QAKÜ stopen/qakü stoop/DWMOQAKÜ
 Stopp  
 stopp/sQP
-stoppen/Qq                # Nieg-ins
 stören/IDWOM                # Nieg-ins
 störmsch/en
 Storm Störm
 störten/IDWMOQJ störten/oqj
 stöten/AQRYCPTUVX stöten/aqrycptux stööt/AQRYCPTUVX stött/DAQRYCPTUVX stötten/AQRYCPTUVX
 stöver/sR 
-Straaf                # Nieg-ins
+Straaf/n
 Straat/n
 Strahl/n
 strahlen/IDWMOQABRYCJZGTUV strahlen/qarycjzgtu
@@ -4667,7 +4661,7 @@ Utspraak/n
 Utwahl/n
 Utweg Utweeg
 Utwickler/S
-Uul                # Nieg-ins
+Uul Ulen   # da geht der Automatismus nicht, der ist für uul/n ausgelegt und nicht für Uul/n
 Vader/S                # Nieg-ins
 Vagel/S
 Vagelkunn                            
