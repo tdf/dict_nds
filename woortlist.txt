@@ -836,7 +836,7 @@ Botterfatt Botterfaten
 Botterkääs        
 Botterkoken       
 Bottervagel/S     
-Boünnernehmen/s   
+Boünnernehmen/S   
 böver/en böverst/en
 Bövergrenz/n
 Böverkant/n
@@ -1800,7 +1800,8 @@ flackern/IDWP
 Flagg/n
 flaggen/IDWMOBJUÜ flaggen/juü
 Flamm/n
-flechten/IDWMOARJPZKGTUVFÜ flechten/arjpzkgtufü 
+flechten/IDWMOARJPZKGTUVFÜ flechten/arjpzkgtufü
+Flecht/n 
 Fleddermuus Fleddermüüs
 Fleder
 Fleesch
@@ -1853,10 +1854,10 @@ foolden/IDWMOJTU foolden/jtu
 foorts 
 Football Footbäll
 Footballspeler/S
-Footbodden/S                # Nieg-ins
+Footbodden/S
 Foot Fööt
 Footpadd/n
-Footpleeg                # Nieg-ins
+Footpleeg 
 Footreeg/n
 Foottruppen
 för
@@ -1918,7 +1919,6 @@ Fröhstück/n
 fröhstück/s
 frömd/en frömme frömmen
 Frömdslötel/S
-Froog                # Nieg-ins
 Froonsminsch/n
 Frost
 Fruchtborkeit/n
@@ -2296,17 +2296,17 @@ Hülper/S
 Hülpprogramm/n
 Hummel/n
 Hund Hunnen
-Hunger                # Nieg-ins
-hungrig                # Nieg-ins
+Hunger              
+hungrig/en hungriger/en
 hunnert/e                # Nieg-ins
-Hupen/S                # Nieg-ins
+Hupen/S     
 hüppen/IDWMORX hüppen/rx
 Hütt/n                # Nieg-ins
-Huusdöör/n                # Nieg-ins
+Huusdöör/n  
 Huusfro/n                # Nieg-ins
 Huushollt/n                # Nieg-ins
 Huus Hüüs
-Huusopgaav/n                # Nieg-ins
+Huusopgaav/n 
 Huut                            
 hüüt
 Hyperbel/n
@@ -3251,7 +3251,6 @@ Negativteken/S
 negentig eenunnegentig unnegentig
 nehmen/IWAQJPTYCUVFX nehmen/aqjptycufx nöhmen/IDAQJPTYCUVFX nimm/DWAQJPTYCUVFX nahmen/AQJPTYCUVFX
 neihen/IDWMOQAHKTUXÜ neihen/qahktuxü
-Nelk/n                # Nieg-ins
 nerrn
 nervös/en
 Nest/n Nester # zwei Pluralformen
@@ -3272,13 +3271,11 @@ nie
 nieg/en nieger/en niegst/en
 nienich
 Nimbus # Plural davon?
-nimmt                # Nieg-ins
 nipp
 nix
 noch
 nochmal               
 nödig/en
-nömen                # Nieg-ins
 nominal/en
 Nominativ
 noog
@@ -3305,7 +3302,7 @@ Nummer Nummern
 nüms
 nütten/IDWMOQU nütten/qu
 Nutt   Nööt     
-nüüdlich/e                # Nieg-ins
+nüüdlich/en
 objektiv/en                           
 Objekt Objekten
 oder
@@ -3337,13 +3334,13 @@ ool ole olen oolt
 ooltbacksch/en
 oolt ole olen öller/en öllst/en
 Oorinwahner/S
-oornen                # Nieg-ins
-Oornt/n                # Nieg-ins
+oorn/s
 Oorsaak Oorsaken
 oorten/WMOU oorten/u
 oortig/en
 Oort Oorden Öörd
 Oost/n
+Oostern
 oosten           
 op
 op'n
@@ -3399,7 +3396,6 @@ ornen/IDWMOAQJTX ornen/aqjtx
 Orner Ornern
 ortograafsch
 Ortografie/n
-Ostern                # Nieg-ins
 oval/en
 Oval Ovalen
 öven/JUV öven/ju ööv/DWMOJUV
@@ -3706,7 +3702,7 @@ Reegenn Reegennen
 Reeg Regen
 Reegümbrook Reegümbröök 
 Reekner/S
-Reem/S                # Nieg-ins
+Reem/s Remen/S                # HD: Riemen. Zwei Formen
 reen/en
 Reet Reten
 Referenz/n
@@ -3725,9 +3721,9 @@ Register/S		# Plural prüfen
 registreer/s
 regulär/en 
 reguleer/s  # (hd. regulieren)
-Reh/n                # Nieg-ins
-rein                # Nieg-ins
-reinmaken   reinmaakst   reinmaakt   reinmaakden                # Nieg-ins
+Reh Rehn # Plural: Reh oder Rehn. /n würde Rehen bilden
+rein/en
+reinmaak/s reintomaken
 Reis/n
 reisen/IDWMOAQBRYCJTUVFX reisen/aqbrycjtuvfx
 reken/AQBCJPTUVFXÜ reken/aqcjptufxü reek/DWMOAQBCJPTUVFXÜ
@@ -3737,7 +3733,6 @@ rekursiv/en
 relativ/en Relativität       
 Relativität/n
 relevant/en
-Remen/S                # Nieg-ins
 rennen/CYZÜGXscyzügx                # Nieg-ins
 renoveer/s   
 Reparatur/n
@@ -3752,7 +3747,7 @@ resig/en			# wat is dat?
 Ressource/n
 Rest/n
 Resultat/n
-retten/s                # Nieg-ins
+rett/s                # Nieg-ins => da funktioniert /s nicht richtig. ttt
 retuur
 Revischoon/n
 revolutschoneer/s
@@ -4508,6 +4503,7 @@ Toon Töön
 Toorn/S
 tööv/s
 topass 			# as in "goot topass"
+Topp/n Töpp  # HD: Zopf. Zwei Pluralformen. Auch Flecht/n
 torecht
 Törn/S
 torüch # prüfen torüchbögen torüchdreihen torüchgahn  torüchgeven torüchhollen torüchjumpen torüchkregen  torüchmellen torüchnehmen torüchroop torüchsetten  
@@ -5001,33 +4997,29 @@ Wull                # Nieg-ins
 wüllen/W will wullen/IDWMO
 Wülv                # Nieg-ins
 wunnerbor/en
-wunnern/s                # Nieg-ins
-wünschen/Vs                # Nieg-ins
+wunner/s
+wünsch/Vs  
 Wunsch Wünsch
 würklich/en
 wuschen                # Nieg-ins
-Wust                # Nieg-ins
-Wüst                # Nieg-ins
+Wust Wüst         # HD: Wurst
 XServer
 Xylofon/n
 Zeddel/S
-Zeddel/S                # Nieg-ins
 Zeeg Zegen # kiek ok bi Zick
 Zell/n
 Zentimeter/S
 zentral/en
 Zentrum/S
 Zertifikat/n
-Zibbel                # Nieg-ins
-Zibbeln                # Nieg-ins
+Zibbel Zibbeln  # /n geht hier nicht
 Zicklamm Zicklammer Zicklämmer
 Zick Zicken # kiek ok bi Zeeg
 Zitat/n
 ziteer/s
 Zitroon/n
 Zittlöösch/n
-Zopp                # Nieg-ins
-Zöpp                # Nieg-ins
+Zopp Zöpp        # HD: Zopf. auch: Topp
 Zucker                # Nieg-ins
 zyan
 Zylinner/S
