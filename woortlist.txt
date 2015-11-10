@@ -2834,7 +2834,7 @@ leisten/IQ leiste/Q
 Lenk/n	                 # HD: Link (Internet)
 lenk aflenk/s
 Lepel/S         
-lesen/JQHPUVF lesen/jqhpuf lees/WMOJQHPUVF
+lesen/JQHPUVF lesen/jqhpuf lees/WMOJQHPUVF 
 Leser/S
 lest/en
 letzt   letztens                # Nieg-ins
@@ -2846,9 +2846,9 @@ levern aflever/s
 Lex/n
 licht/en lichter/en lichtst/en
 Lichtbagen/S                 
-lichtblau/e                # Nieg-ins
+lichtblau/en
 Lichtborn/S
-lichtbruun/e                # Nieg-ins
+lichtbruun/en
 lichten/IDWMOQABPZKGX lichten/qapzkgx
 Lichtjohr/n
 Licht Lichters				# Plural prüfen
@@ -2902,8 +2902,7 @@ Logbook Logböker
 Logik
 logisch/en
 Logo/S
-Lohn                # Nieg-ins
-Löhn                # Nieg-ins
+Lohn Löhn 
 Löhnels                # Nieg-ins
 lokal/en 
 Lokativ  
@@ -2928,7 +2927,7 @@ Lücht/n                # Nieg-ins
 Lück/n
 luern/BP luern/bp luur/DWMOBP
 Luft                           
-Luftballon/S                # Nieg-ins
+Luftballon/S
 Luftdruck
 Luftmass/n
 Lung/n
@@ -3167,7 +3166,6 @@ mööglich/en # nicht möglich, öö beachten
 Mööglichkeit/n
 Möög Mögen
 Moot
-Moot/Tt                # Nieg-ins
 morgen
 Mosaik/n
 Moss
@@ -3407,14 +3405,14 @@ Oval Ovalen
 övereen
 Överfall Överfäll
 överfohren                # Nieg-ins
-Överfohrt/n                # Nieg-ins
+Överfohrt/n  
 Övergaav/n
 Övergang Övergäng
-överhaupt                # Nieg-ins
+överhaupt  
 överkopp
 överlappen/IDWMO
-övermorgen                # Nieg-ins
-Övernahm/n                # Nieg-ins
+övermorgen
+Övernahm/n             
 övernehmen                # Nieg-ins
 överscherig/en
 Översetten                           
@@ -3453,8 +3451,7 @@ Partizip                            # Plural?
 Partner/S
 Party/S
 Passageer/n
-passeer/s => klemmt                           
-passeert   passeren                # Nieg-ins
+passeer/s                            
 passen/IDWMOAQRJPTV passen/aqrjpt
 Passiv                            
 passiv/en
@@ -3463,7 +3460,7 @@ Paster/S   Pastersche/n Pastoor/n   Pastoorsche/e Pastuur/n   Pastuursche/e
 Patroon/n
 Paus/n
 PC
-pedden/ZÜKszük                # Nieg-ins
+pedden/ZÜKszük  pett                # Nieg-ins
 Peerd Peer 
 pellen/IDWMOQU pellen/oqu
 Peper
@@ -3484,7 +3481,6 @@ Perzent/n
 Perzess/n
 Perzess/n
 Perzesser/S 
-pett                # Nieg-ins
 Phantom/n
 Philosophie
 phoneetsch/en
@@ -3497,7 +3493,7 @@ Piel/n
 pielliek/en
 piellieks
 pielrecht/en
-piepen/s                # Nieg-ins
+piep/s 
 PIN
 Pingel/S
 pingeln/IDWMOARYGF
@@ -3506,7 +3502,7 @@ Pinsel/S
 Pistool/n       
 Pixel/S
 plaan/s 
-Plaaster/S                # Nieg-ins
+Plaaster/S              
 Plaat/n
 Placken/S
 Plakaat Plakaten
@@ -3514,10 +3510,9 @@ Plan/S
 planen/BCJTVFÜ planen/cjtfü plaan/BCJTVFÜ plaanst/BCCJTVFÜ plaant/BCJTVFÜ plaante/BCJTVFÜ plaanten/BCJTVFÜ
 Planer/S
 Planet/n
-Planetarium                # prüfen Plural
+Planetarium   Planetarien
 Plant/n
-plant/s
-planten/JAUÜBVsjauü                # Nieg-ins
+plant/sJAUÜBV  planten/jauü
 Pläseer/n
 Plasma                          
 Plaster/S
@@ -3647,7 +3642,7 @@ Pund
 Punktatschoon/n
 punkteren/HU punkteren/hu punkteer/DWMOHU
 Punkt Punkten Pünkt
-Putzbüdel/S                # Nieg-ins
+Putzbüdel/S                
 püük                # Nieg-ins
 puusten/ZUÜXzuüx   puust/ZUÜXzuüx   puustden/ZUÜXzuüx                # Nieg-ins
 Püüster/S
@@ -3655,12 +3650,12 @@ Pyramied Pyramiden
 quadraatsch/en
 Quadrat/n
 quälen/QRYCZKG quälen/qryczkg quääl/DWMOQRYCZKG
-Quark   # kein Plural                # Nieg-ins
+Quark   # kein Plural                
 quengel/s 
 Quitt/n			# HD die Quitte, prüfen
-Raasch   # kein Plural                # Nieg-ins
+Raasch   # kein Plural               
 Raat Raden
-Raav                # Nieg-ins
+Raav/n
 Radel/S
 raden/ABQV raden/aq raad/DWMOABQV
 raderen/GUX raderen/gux radeer/DWMOGUX
@@ -3672,18 +3667,17 @@ Rahmen/S
 Rahmenwark/n			# engl: framework (computer)
 RAM
 ramponeer/s
-ran                # Nieg-ins
+ran                
 Rand Ränner
 Rang Räng
 rank/en
-Rasen/S                # Nieg-ins
+Rasen/S               
 raseren/QXqx   raseer/QXqx   raseerst/QXqx   raseert/QXqx   raseerden/QXqx                # Nieg-ins
 raster/s
 Raster/S
 Rate/n
 Ratsch/D                # Nieg-ins
 ratschonaal/en
-Raven                # Nieg-ins
 reageer/s
 Reagenzglas Reagenzglöös Reagenzglääs Reagenzgläser
 Reakschoon/n
@@ -3760,7 +3754,7 @@ RGB
 richt/en 
 Richt/n
 richten/IDWMOAFBJPTYCUV richten/afbjptycuv
-Richter/S                # Nieg-ins
+Richter/S                
 richtig/en
 Richtigkeit                          
 Ridder Ridderslüüd
@@ -4502,11 +4496,12 @@ tokamen		# Adjektiv
 Tokieker/S
 Tokunft
 toletzt
-Töller/S                # Nieg-ins
+Töller/S
 Toll Töll
 Tomaat/n			# HD Tomate
 tomehrst
 tominnst
+tomoot
 Toon Töön
 Toorn/S
 tööv/s
@@ -4781,7 +4776,6 @@ vörig/en
 vörinstellen/IDWMO
 Vörjohr Vörjohren
 Vörlaag Vörlagen
-vörlesen vörleest                # Nieg-ins
 Vörleser/S
 vörmiddaags
 Vörmiddag Vörmiddaag
@@ -4821,7 +4815,7 @@ Waag/n		# HD Waage und Wagen
 waagrecht/en
 wachten/IDWMOQPTV wachten/qpt
 Wachter/S
-wackeln/IDW                # Nieg-ins
+wackel/s
 Wagen/S
 Wagendriever/S
 Wagenpeerd Wagenpeer
@@ -4838,11 +4832,10 @@ Wahnung/n                # Nieg-ins
 waken/RP waken/rp waak/DWMORP
 Wall Wäll
 Wand Wänn
-Wann/n                # Nieg-ins
+Wann/n               
 wannehr
-wannehr                # Nieg-ins
 wanneln/IDWMOÜ wanneln/ü
-wannern/s                # Nieg-ins
+wanner/s
 warflich/en
 Wark/n
 warken/IDWMOBJUVF warken/juf
@@ -4888,27 +4881,26 @@ Weder
 week/en weker/en weekst/en
 Weekenn/n
 Week Weken
+ween/s
 Weert/n
 weerten/IDWMOQBPUV weerten/qpu
 weg
-weg                # Nieg-ins
 wegen
 Weggang Weggäng
 Weg Weeg
 Wegwesen
-weh                # Nieg-ins
+weh                
 wehdoon                # Nieg-ins
 weih/s
 Wekendag
 Wekendag Wekendaag
-welk/en
-welke/n                # Nieg-ins
+welk/en welker/en welkst/en # Adjektiv
+welk/s   # Verb
 Welt
 Weltkrieg/n
 Weltruum 
 Welt Welten
 weltwiet weltwiede weltwieden
-wenen/s                # Nieg-ins
 wenig/en weniger wenigst/en
 wenn
 wenn'n
@@ -4917,17 +4909,16 @@ wennen/IDAQBJPCVX wennen/aqjpcx wendt/AQBJPCVX wendte/AQBJPCVX wendten/AQBJPCVX
 Wennstn			# HD Gewohnheit
 werken/IDWMOBV
 wesen bün büst is sünd weern/ID wees/W ween 
-Wessel/S                # Nieg-ins
+Wessel/S    
 wesseln/IDWMOQJUV wesseln/qju
-West
-Westen                # Nieg-ins
-westlich/en
-wetenschoplich/en
+West Westen      
+westlich/en westlicher/en westlichst/en
+wetenschoplich/en wetenschoplicher/en
 Wetenschop Wetenschoppen
 weten weet/D wussen/IDWMO
 Wett/n
 wetten/s                # Nieg-ins
-Wettlop                # Nieg-ins
+Wettloop Wettlööp
 Wettstriet Wettstrieden
 weven/OJZV weven/ojz weev/DWMOJZV
 wi
@@ -4975,9 +4966,9 @@ witt/en
 wo
 woans
 wodennig
-woför                # Nieg-ins
-wohen                # Nieg-ins
-wöhlen/IDW                # Nieg-ins
+woför             
+wohen             
+wöhl/s
 wohr/en 
 wohren/IDWMOBV
 Wohrschau                 
@@ -4991,9 +4982,7 @@ Woold/n
 Woort Wöör
 wööst/en
 Wööst/n
-Worm                # Nieg-ins
-Wörm                # Nieg-ins
-Worm Wörms
+Worm  Wörm 
 Wörpel/S
 Wörpelsiet Wörpelsiedenden
 Wörtel Wörteln
@@ -5003,12 +4992,11 @@ woveel/e
 wrack/en
 Wuddel                # Nieg-ins
 Wuddeln                # Nieg-ins
-Wulf                # Nieg-ins
+Wulf Wülv  # HD: Wolf
 Wulk/n
 wulkig/en
 Wull                # Nieg-ins
 wüllen/W will wullen/IDWMO
-Wülv                # Nieg-ins
 wunnerbor/en
 wunner/s
 wünsch/Vs  
