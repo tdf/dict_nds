@@ -116,6 +116,7 @@ Bredenbeek
 Bredenwisch
 Bredstedt
 Breloh
+Bremen  bremer
 Bremerhoben
 Bremervöör
 Brest
@@ -252,7 +253,7 @@ Fohrendaal
 Fohrendörp
 Försnau
 Francop
-Frankfort
+Frankfurt
 Franzenborg
 Freelsdörp
 Freelsdörpermöhlen
@@ -508,6 +509,7 @@ Möhlendiek
 Moordiek
 Müggendörp
 Mummendörp
+München
 Naumborg
 Neebachenbrook
 Neeharlingersiel

@@ -1996,7 +1996,7 @@ Geheemnis Geheemnissen
 Geist
 Gelaats/n			# was ist das?
 Geldbedrag                         # prüfen Plural?
-Geld Geller
+Geld Geller Smeergeld Smeergeller
 Geldsoort/n
 Geldweert/n
 Gelegenheit/n
@@ -2040,6 +2040,7 @@ Giraff/n
 Glas Glöös
 glatt gladde gladden				# Konsonantenwechsel!
 Gleem						# HD Glanz, Glimmer, Lichtstreifen
+Gleis/n
 Gletscher/S  
 glieden/IWQBRX glieden/qrx gliddst/QBRX gliddt/QBRX gleed/DQBRX gleden/QBRX
 gliek/s                          
@@ -2646,7 +2647,6 @@ Kontrast/n
 konverteer/s
 konvex/en
 konzentersch/en
-Konzert/n
 Köök/n   
 Kookje/S
 koolt kole/n köller/en köölst/en
@@ -2742,7 +2742,9 @@ Künstler/S
 Künstlernaam/S
 Kuntrull/n
 kuntrulleer/s                      
-Kuntrullpunkt Kuntrullpünkt           
+Kuntrullpunkt Kuntrullpünkt
+Kunzern/n           
+Kunzert/n
 Kurs/n
 kursiv/en
 Küsel/S
@@ -3102,7 +3104,7 @@ Mikrometer/S
 Mikrosekunn/n
 Milliard/n          
 Millimeter/S
-Million/n           
+Million Millionen        # Der Autoexpander kann das nicht
 Millisekunn/n
 Mineralogie                            
 Minibild Minibiller
@@ -3450,6 +3452,7 @@ Partitschoon/n
 Partizip                            # Plural?
 Partner/S
 Party/S
+Passageer/n
 passeer/s => klemmt                           
 passeert   passeren                # Nieg-ins
 passen/IDWMOAQRJPTV passen/aqrjpt
@@ -3872,6 +3875,7 @@ schalten/IDWMOAQJPTUVFXÜ schalten/aqjptufxü
 Schalter/S
 Schaltjohr/n
 Schaltkrink/n
+Schandaal Schandal # HD: Skandal. Sass: Schandal. Nach Anwendung der Regeln aber eigentlich Schandaal
 Schangs/n
 schapen/ABYCZKGX schapen/ayczkgx schaap/DWMOABYCZKGX
 Schäperhund   Schäperhunnen                # Nieg-ins
@@ -4005,6 +4009,7 @@ Sekunnenwieser/S
 Selekschoon/n
 Sellschop Sellschoppen
 Semikolon/S
+Senat
 sennen/IDQJTYCUVX sennen/qjtycuvx sendt/QJTYCUVX sendte/QJTYCUVX sendten/QJTYCUVX
 Senner/S
 Sensor/n
@@ -4151,6 +4156,7 @@ Sparrtiet Sparrtieden
 spazeer/s
 speel/s             
 Speelbaas/n
+Speelbank/n 
 Speelbrett Speelbreed
 Speelfeld Speelfeller
 speel mitspelen mitspeel/DWMO
@@ -4235,7 +4241,7 @@ Steernbild Steernbiller
 Steert/n
 steken/AQBRJPTCUVX steken/aqrjptcux steek/DWAQBRJPTCUVX stickst/AQBRJPTCUVX stickt/AQBRJPTCUVX stick/AQBRJPTCUVX
 Steker/S
-stell/sAQBRYJPTCUVFXÜ  stellen/aqbryjptcuvfxü
+stell/sAQBRYJPTCUVFXÜ  stellen/aqbryjptcuvfxü tohoopstell/s tohooptostellen
 stellen dorstellen/IDWMO
 stell hoochstell/s hoochtostellen         
 Stempel/S
@@ -4404,6 +4410,8 @@ Tangens
 Tangent/n
 tanken/s                # Nieg-ins
 Tapeet Tapeten
+Tarif/n
+Tarifstriet
 tarren/IDWMORYCVFX tarren/rycfx		# HD zerren
 Tasch/n                # Nieg-ins
 Taschendook Taschendöker                # Nieg-ins
@@ -4683,6 +4691,8 @@ veertig eenunveertig unveertig
 veer veert/en
 Vektor/n			# prüfen Vekter/S
 veniensch/en
+veranstalt/s
+Veranstalter/S
 verantwoorden/IDWMO
 Verb/n
 verbaast/en
@@ -4692,6 +4702,7 @@ verdammich
 Verdeellist/n
 Verdeenst/n
 verdeffenderen verdeffendeer/DWMO
+Verdrag Verdrääg  # HD: Vertrag
 verdubbeln/IDWMO
 Vereen/n
 vereenfachen/IDWMO
@@ -4805,6 +4816,7 @@ vundaag
 vunmorgen
 vunnacht
 vunwegen
+waag/s   # HD: wagen
 Waag/n		# HD Waage und Wagen
 waagrecht/en
 wachten/IDWMOQPTV wachten/qpt
@@ -4886,6 +4898,7 @@ Weg Weeg
 Wegwesen
 weh                # Nieg-ins
 wehdoon                # Nieg-ins
+weih/s
 Wekendag
 Wekendag Wekendaag
 welk/en
