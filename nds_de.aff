@@ -61,13 +61,14 @@ COMPOUNDPERMITFLAG d
 #	af		Q q
 #	an		A a
 #	be		B 
+#   dal     L l
 #	dör+dörch	R r
-#	her		S => jetzt auf Y geändert y
-#	hen		E  => C c
+#	her		Y y
+#	hen		C c
 #	in		J j
 #	na		H h
 #	op		P p
-#	rin		N => Z z
+#	rin		Z z
 #	rop		K k
 #	rut		G g
 #	to		T t
@@ -77,6 +78,29 @@ COMPOUNDPERMITFLAG d
 #	weg		X x
 #	üm		Ü ü
 #	-s		S 
+
+# und nochmal nach Suffixen sortiert
+#	an		A a
+#	be		B 
+#	hen		C c
+#	in		J j
+#	rut		G g
+#	na		H h
+#	rop		K k
+#   dal     L l
+#	op		P p
+#	af		Q q
+#	dör+dörch	R r
+#	to		T t
+#	ut		U u
+#	ver		V 
+#	vör		F f
+#	weg		X x
+#	her		Y y
+#	üm		Ü ü
+#	rin		Z z
+#	-s		S 
+
 
 
 # Unten kommen noch die Suffixe 
@@ -103,6 +127,13 @@ PFX q 0 afto .
 
 PFX B Y 1
 PFX B 0 be .
+
+
+PFX L Y 1
+PFX L 0 dal .
+
+PFX l N 1
+PFX l 0 dalto .
 
 PFX R Y 2
 PFX R 0 dör .

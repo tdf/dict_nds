@@ -650,7 +650,7 @@ betten/IDWMOJPÜ betten/jpü
 Betttiet Betttieden
 Betttüüg 
 bever/s
-beweeg/s bewegen/CYZTGFKXIWcyztgfkx                # Nieg-ins
+beweeg/sCYZTGFKX bewegen/cyztgfkx                
 beweeglich/en
 beweert/s
 Beweerten                            # Subst.
@@ -659,7 +659,7 @@ Bewerker/S
 Bewies/n
 Bewieslast/n
 Bewiesstück/n
-bewohren                # Nieg-ins
+bewohr/s
 Bezirk/n
 bi
 bi'n
@@ -673,7 +673,6 @@ bidregen bidreeg/W bidriggst bidriggt bidroog/D bidrogen bidragen # HD: betrüge
 Bidreger/S
 Biel/n
 bienanner
-bieten/ZTQXztqx                # Nieg-ins
 bifög/s
 bijektiv/en
 Bilaag/n
@@ -758,7 +757,7 @@ blieven/IWAQHPTUVX blieven/aqhptuvx bliffst/AQHPTUVX blifft/AQHPTUVX bleev/DAQHP
 blind blinne blinnen
 Blindkopie/n
 blink/sA blinken/a
-blinken/ATPIDWsatp                # Nieg-ins
+blink/ATPs blinken/atp                
 Blinker/S
 Blitz
 blitzblank/en
@@ -766,10 +765,10 @@ Blitzsteen/S
 Blix/n
 Block Blöck
 blockeer/s 
-blöden/UVIDWu                # Nieg-ins
+blööd/sUV blöden/u
 Blog/S
 Blogger/S
-blöhen/UPVup                # Nieg-ins
+blöh/sUPV blöhen/up 
 Blomensaat
 blond/en
 blööd/en
@@ -777,22 +776,22 @@ Blöödsinn
 Bloom Blomen Blööm
 Blöös Blösen
 Bloot
-bloots
-blots/e                # Nieg-ins
+blot bloots  # HD: nur
+bloot/en   # HD: bloß, nackt
 blubbern/IDWMO
 blucken/IDWMOP
 Blues
-boben                # Nieg-ins
-Bo   Boen                # Nieg-ins
+
+Bo Boten # HD: Bau, Pl: Gebäude
 Bock Böck
 Bodden
 boen/JAZUÜPHBFKQIDWejazuüphfkq                # Nieg-ins
 bögeln/PIDWp                # Nieg-ins
 bögen/QRYCJHPZKGTVFXÜ bögen/qrycjhpzkgtvfxü böög/DWMOQRYCJHPZKGTVFXÜ boog/DQRYCJHPZKGTVFXÜ bogen/QRYCJHPZKGTVFXÜ bagen/QRYCJHPZKGTVFXÜ
-Bohn/S                # Nieg-ins
+Bohn/n    # HD: Bohne
 bohren/IDWMO
 Bohrmaschien/n
-Böken                # Nieg-ins
+böken                # HD: aus Buchenholz
 bölken/IDWMO
 Bölkhoosten
 Bomb/n
@@ -800,6 +799,7 @@ Bomber/S
 Bontje/S
 Boog Bogen # hd. der Bug, die Buge/Büge
 Book Böker
+Böök/n   # HD: Buche (Baum)
 Bookmaker/S  
 Bookstaav/n
 boolsch/en
@@ -910,9 +910,8 @@ Bundsstraat Bundsstraten
 bunt/en
 Büro/S
 Bus Bussen
-Büsch/e                # Nieg-ins
-Busch                # Nieg-ins
-Buss   Büss                # Nieg-ins
+Busch Büsch Büscher                # HD: Busch, zwei Pluralformen
+Burs/n   # HD: Bursche. 
 buten
 butendem
 butenlannsch/en                             # => ännsch?
@@ -922,6 +921,7 @@ Buuk Büük
 Buukpien
 Buukstremel
 Buul/n    # HD: Beule
+Büss/n  		# HD: Büchse
 Büx/n       
 Büxenbeen Büxenbenen
 Byte/S
@@ -957,14 +957,6 @@ daaglich/en
 daags
 Daak						# HD: Nebel, kein Plural 
 Daal/n						# HD: Tal
-daalfallen/IDW   daalfullen/ID                # Nieg-ins
-daalfohren/IDWOM                # Nieg-ins
-daalföhren/IDWOM                # Nieg-ins
-daalkamen/IDW                # Nieg-ins
-daalleggen/IDW                # Nieg-ins
-daalrutschen/IDWOM                # Nieg-ins
-daalsetten/IDWOM                # Nieg-ins
-daalstellen/IDWOM                # Nieg-ins
 daalwarts
 Daam Damen
 däämlich
@@ -1685,7 +1677,7 @@ Fakter/S
 fakteriseer/s                  
 Faktor/n
 Fakultät/n                     
-fallen/IDWAQBRJPZGTCUVX fallen/aqrjpzgtcuvx fullen/IDAQBRJPZGTCUVX
+fallen/IDWAQBRJPZGTCUVXL fallen/aqrjpzgtcuvxl fullen/IDAQBRJPZGTCUVXL
 fallen gefallen/CZRTUÜPQXczrtuüpqx                # Nieg-ins
 fallen affallen
 Fall Fäll
@@ -1829,8 +1821,8 @@ föfftig eenunföfftig unföfftig
 fögen/AJTV fögen/ajt föög/DWMOAJTV
 föhl/sABRCJF föhlen/arcjf                   
 föhlen/AZTFIDWaztf                # Nieg-ins
-fohren/IDWMOAQBRJHPZKGYCUVFX fohren/aqrjhpzkgycufx
-föhren/IDWMOAQRJPYCUVFX föhren/aqrjpycufx
+fohren/IDWMOAQBRJHPZKGYCUVFXL fohren/aqrjhpzkgycufxl
+föhren/IDWMOAQRJPYCUVFXL föhren/aqrjpycufxl
 Föhrer/S
 Fohrer/S   Fohrersch/n                # Nieg-ins
 Föhrerschien/s                # Nieg-ins
@@ -2451,7 +2443,7 @@ kaken/JARTUPHBFVQIDWOMjartuphfq                # Nieg-ins
 kakendig				# wat is dat?
 Kalenner/S Klenner/S
 kalibreer/s
-kamen/ABRHPZKGYCUVFX kamen/arhpzkgycufx kaam/WABRHPZKGYCUVFX keem/DABRHPZKGYCUVFX kemen/ABRHPZKGYCUVFX kumm/DWABRHPZKGYCUVFX
+kamen/ABRHPZKGYCUVFXL kamen/arhpzkgycufxl kaam/WABRHPZKGYCUVFXL keem/DABRHPZKGYCUVFXL kemen/ABRHPZKGYCUVFXL kumm/DWABRHPZKGYCUVFXL
 Kamer/n                # Nieg-ins
 Kamera/S
 kämmen/RUGHIDWMrugh                # Nieg-ins
@@ -2816,7 +2808,7 @@ Leevdag
 Leevde          
 legal/en
 Legenn/n
-leggen/IDWMOAQBJPTYCUVFX leggen/aqjptycufx leed/DAQBJPTYCUVFX leden/AQBJPTYCUVFX
+leggen/IDWMOAQBJPTYCUVFXL leggen/aqjptycufxl leed/DAQBJPTYCUVFXL leden/AQBJPTYCUVFXL
 leggen afleggen 
 legg fastlegg/s                
 lehn  aflehn/s
@@ -3819,32 +3811,29 @@ rümfohren/DWOM                # Nieg-ins
 rümlopen/DWOM                # Nieg-ins
 Rund/n
 rund runne/n
-Rundstück/n                # Nieg-ins
+Rundstück/n 
 Runn/n                # Nieg-ins
 runn afrunn/s
 runnen/IDQPÜ runnen/qpü rundt/QPÜ
 rusen/AQBUV rusen/aqu ruus/DWMOAQBUV
 rut
 Rutgever/S
-Rutschbahn/n                # Nieg-ins
-rutschen/CYZRUGVQXscyzrugqx                # Nieg-ins
+Rutschbahn/n     
+rutsch/CYZRUGVQXLs   rutschen/cyzrugqxl 
 ruuch/en			# prüfen HD rauchen = smöken ?
 Ruum Rüüm
-Ruup/n                # Nieg-ins
+Ruup/n          # HD: Raupe
 Ruut/n			# HD Raute
 Saag/n
 Saak/n
 sachen sachens                           
 sachts sachtens
 Sack Säck
-Saft/n                # Nieg-ins
-Salat/n                # Nieg-ins
-Salot/n                # Nieg-ins
+Saft
+Salat/n    
 sammel/sQAJHPZKGUVFX sammeln/qajhpzkguvfx   
-sammeln/s                # Nieg-ins
 Sand 
-Sandkist/n                # Nieg-ins
-sapen/D                # Nieg-ins
+Sandkist/n    
 Satellit/n
 Satellitenbild Satellitenbiller  
 satt/en
@@ -3860,8 +3849,8 @@ Schachbrett Schachbreed
 Schachspill/S oder Schachspeel/n                            # prüfen wie nun?
 Schadden/S      # HD Schatten
 Schaden/s		# HD Schaden
-schaffen/CYAZGPBQXscyazgpqx                # Nieg-ins
-Schallplatt/n                # Nieg-ins
+schaff/CYAZGPBQXs schaffen/cyazgpqx   
+Schallplatt/n         
 schalten/IDWMOAQJPTUVFXÜ schalten/aqjptufxü
 Schalter/S
 Schaltjohr/n
@@ -3869,18 +3858,16 @@ Schaltkrink/n
 Schandaal Schandal # HD: Skandal. Sass: Schandal. Nach Anwendung der Regeln aber eigentlich Schandaal
 Schangs/n
 schapen/ABYCZKGX schapen/ayczkgx schaap/DWMOABYCZKGX
-Schäperhund   Schäperhunnen                # Nieg-ins
-Schapp  Schäpp                # Nieg-ins
+Schäperhund   Schäperhunnen
+Schapp  Schäpp          # HD: Schrank
 scharp/en scharper/en scharpst/en
 Scharpde
 scharpen/IDWMO
 Schatt/n
 Schau/n
-Schaukel/n                # Nieg-ins
-schaukeln/D                # Nieg-ins
 scheden/QCUV scheden/qcu scheed/DWMOQCUV
 scheef scheve/n
-Scheen   Schenen                # Nieg-ins
+Scheen/n		# HD: Schiene
 scheep/en
 Scheer/n			# HD Schere
 Scheer Scheren
@@ -3889,12 +3876,12 @@ scheet scheten/QBRJP scheten/qrjp scheet/QBRJP schüttst/QBRJP schütt/QBRJP sch
 schelen scheel/DWMO #(hd. "schielen" un as "dat scheel(t) wat"="das macht(e) einen Unterschied, nützt(e) etwas)
 Schell/n
 Schema/S
-schenken/JUBVXjux   schenkst/JUBVXjux   schenkt/JUBVXjux   schunken/JUBVXjux   schenkden/JUBVXjux                # Nieg-ins
+schenk/JUBVXs schenken/jux   schunken/JUBVX # schwaches Verb. Zusätzlich zweite Form fürs Partizip Perfekt   
 schick/en
 schick/sABQRJTYCVFX schicken/aqrjtycfx
 schicken afschick/s 
 Schicksal                          
-Schief/D                # Nieg-ins
+Schiev/n 	# HD: Scheibe
 schienen/IDWABRPGV schienen/arpg
 schier/en
 Schiet
@@ -3903,34 +3890,33 @@ Schiethuus
 schietig/en
 Schiev/n
 Schild 			# Plural prüfen
-Schildkrööt   Schildkröten                # Nieg-ins
+Schildkrööt/n 
 Schildpadde                      # prüfen. HD Schildkröte?
-schimpen/UBsu                # Nieg-ins
+schimp/UBs schimpen/u
 Schipp Scheep
 Schirm/n
-Schoh   Schöh                # Nieg-ins
+Schoh   Schöh 
 Schokolaad/n
 schölen schall/D schöölt schullen/IDWMO
 Schöler/S
-Schöler/S                # Nieg-ins
 School/n
-Schoolarbeiten                # Nieg-ins
-Schoolhoff   Schoolhööv                # Nieg-ins
-Schooljohr/n                # Nieg-ins
+Schoolarbeit  Schoolarbeiden
+Schoolhoff   Schoolhööv    
+Schooljohr/n               
 Schoolmeester/S
-Schooltasch/n                # Nieg-ins
-Schoolweg   Schoolweeg                # Nieg-ins
+Schooltasch/n              
+Schoolweg   Schoolweeg     
 schöön/en   
 Schöönheit/n
-Schöör   Schören                # Nieg-ins
+Schöör   Schören           
 Schööt Schöten
 Schosteen 			# Plural prüfen 
 Schotter
 Schotterstraat/n
-Schreck/D                # Nieg-ins
+Schreck
 schreeg/en
 schreen/AGag   schree/AGag   schreest/AGag   schreet/AGag                # Nieg-ins
-Schrick/n                # Nieg-ins
+Schrick/n                # HD: Holzgestell. Nicht Schreck. Das heißt auch auf Platt Schreck
 Schriefarbeit Schriefarbeiden  # Prüfen: alle Komposita von schrieven auf -v- statt auf -f-?
 schriefbor/en
 Schriefdisch/n
@@ -3954,19 +3940,17 @@ Schriftstil/n
 schrimpen/IDWMOJ schrimpen/j
 Schritt Schreed
 Schruuv/n
-schubsen/AZÜGKXsazügkx                # Nieg-ins
+schubs/AZÜGKXs schubsen/azügkx   
 schüchtern/en
-Schuckel/n                # Nieg-ins
-schuckeln/s                # Nieg-ins
+Schuckel/n            
+schuckel/s 
 schüddeln/IDWMOQRGU schüddeln/qrgu
-Schüffel/n                # Nieg-ins
-Schuller/n                # Nieg-ins
+Schüffel/n 
+Schuller/n                # HD: Schulter
 schummel/s
 schummern/IDW
-Schuss/Dn                # Nieg-ins
 schutern/IDWMOYCJHTUXÜ schutern/ycjhtuxü
-Schutz                # Nieg-ins
-schuukeln/s                # Nieg-ins
+Schutz      
 schuul/s
 Schuul                         # HD Schutz
 schuulsam/en
@@ -3975,7 +3959,6 @@ schuven/AQRJPZKGTYCVFX schuven/aqrjpzkgtycfx schuuv/WAQRJPZKGTYCVFX schuffst/AQR
 Schuver/S
 SCSI
 se
-Sebber/S                # Nieg-ins
 Seemiel/n
 Seep                # Nieg-ins
 See Seen # das geht wohl nicht mit /n
@@ -4011,9 +3994,9 @@ Seriennummer/n
 Serie Serien
 Server/S
 Sessel/D                # Nieg-ins
-setten/IDWMOAQBRJPZKGTCYUVFXÜ setten/aqrjpzkgtcyufxü
+setten/IDWMOAQBRJPZKGTCYUVFXÜL setten/aqrjpzkgtcyufxül
 sett freesett/s freetosetten          
-Sever/S                # Nieg-ins
+Sever/S  Sebber/S                # HD: Käfer
 Sicht/n
 sichtbor/en
 Sichtborkeit/n
@@ -4032,9 +4015,9 @@ Sinn
 sinnen/IDWB  sunn/B sunnst/B sunnen/B  # sinnen/besinnen
 sinnig/en
 sinnvull/en
-Sitt/S                # Nieg-ins
+Sitt/S                # HD: Sitz
 sitten/IDQJUF sitten/qjuf seet/DQJUF seten/QJUF
-Sittich/n                # Nieg-ins
+Sittich/n              
 Situatschoon/n
 Skala/S	# Plural prüfen: Skalen?
 skaleer/s
@@ -4045,7 +4028,7 @@ Skript/n
 slaan/AQBRCJHPTUFX slaan/aqbrcjhptufx sla/AQBRCJHPTUFX sleist/AQBRCJHPTUFX sleit/AQBRCJHPTUFX slaat/AQBRCJHPTUFX sloog/DAQBRCJHPTUFX slogen/AQBRCJHPTUFX
 Slaap
 Slacht/n
-slachten/UQsuq                # Nieg-ins
+slacht/UQs slachten/uq     
 Slachter/S   Slachtersch/n  
 Slag Slääg
 Slang/n
@@ -4071,7 +4054,7 @@ Smack                # HD: Geschmack
 small/en
 Smaragd/n
 Smartkoort/n
-smecken/Qq   smeck/Qq   smeckst/Qq   smeckt/Qq   smeckden/Qq                # Nieg-ins
+smeck/Qs smecken/q  
 Smeed Smeden
 smeren/ABJHPZKTUVFX smeren/abjhpzktuvfx smeer/DWMOQABJHPZKTUVFX
 smieten/IAQBJGTYCX smieten/aqbjgtycx smittst/AQBJGTYCX smitt/AQBJGTYCX smeet/DAQBJGTYCX smeten/AQBJGTYCX
@@ -4085,13 +4068,12 @@ Smuckheit
 snaaksch/en
 Snaak Snaken
 Snack/S
-snack/sAQBPUVF
-snacken/ARPBFQsarpfq                # Nieg-ins
+snack/ARPBFQs snacken/arpfq
 Snacker/S
 Snackeree Snackereen
 snackhaftig/en
 snappen/IDWMOJHPTX snappen/jhptx
-Snavel/S                # Nieg-ins
+Snavel/S    
 Snee
 Sneeflaag/n				# prüfen
 Sneekristall/n
@@ -4236,7 +4218,7 @@ Steernbild Steernbiller
 Steert/n
 steken/AQBRJPTCUVX steken/aqrjptcux steek/DWAQBRJPTCUVX stickst/AQBRJPTCUVX stickt/AQBRJPTCUVX stick/AQBRJPTCUVX
 Steker/S
-stell/sAQBRYJPTCUVFXÜ  stellen/aqbryjptcuvfxü tohoopstell/s tohooptostellen
+stell/sAQBRYJPTCUVFXÜL  stellen/aqbryjptcuvfxül tohoopstell/s tohooptostellen
 stellen dorstellen/IDWMO
 stell hoochstell/s hoochtostellen         
 Stempel/S
