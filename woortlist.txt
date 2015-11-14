@@ -71,7 +71,6 @@ achtertücksch/en
 achterüm
 achterut
 Achterwand Achterwänn
-achtig
 achtsom
 achtvull/en
 Acker/S
@@ -1268,7 +1267,6 @@ dörsnittlich/en
 Dorstellentyp/n
 Dorsteller/S                
 dörstig/en
-dörtig eenundörtig undörtig
 dorto             
 dorüm
 dorünner          
@@ -1438,9 +1436,6 @@ Dunner/S
 dunnern/IDWMO
 Dunnersdag
 duplex
-dusend
-dusend
-Dusend
 dusselig/en
 Dust
 Dusterkamer
@@ -1513,7 +1508,17 @@ eensam/en
 eensdaags
 eensoortet/en
 Eentall
-een twee dree veer fief söss söben söven acht negen teihn ölben ölven twölf dörteihn veerteihn foffteihn sössteihn söbenteihn söventeihn achteihn negenteihn twintig                            
+een # das vorangestellte een sorg dafür, dass diese Zeilen bei alphabetischer Sortierung beieinander bleiben
+een twee dree veer fief söss söven acht negen teihn ölben ölven twölf dörteihn veerteihn foffteihn sössteihn söventeihn achteihn negenteihn 
+een twintig eenuntwintig tweeuntwintig dreeuntwintig veeruntwintig fiefuntwintig sössuntwintig sövenuntwintig sövenuntwintig achtuntwintig negenuntwintig
+een dörtig eenundörtig tweeundörtig dreeundörtig veerundörtig fiefundörtig sössundörtig sövenundörtig achtundörtig negenundörtig
+een veertig eenunveertig tweeunveertig dreeunveertig veerunveertig fiefunveertig sössunveertig sövenunveertig achtunveertig negenunveertig
+een föfftig eenunföfftig unföfftigtwee dreeunföfftig veerunföfftig fiefunföfftig sössunföfftig sövenunföfftig achtunföfftig negenunföfftig
+een sösstig eenunsösstig tweeunsösstig dreeunsösstig veerunsösstig fiefunsösstig sössunsösstig sövenunsösstig achtunsösstig negenunsösstig
+een söventig eenunsöventig tweeunsöventig dreeunsöventig veerunsöventig fiefunsöventig sössunsöventig sövenunsöventig achtunsöventig negenunsöventig
+een achtig eenuntachtig tweeuntachtig dreeuntachtig veeruntachtig fiefuntachtig sössuntachtig sövenuntachtig achtuntachtig negenuntachtig
+een negentig eenunnegentig tweeunnegentig dreeunnegentig veerunnegentig fiefunnegentig sössunnegentig sövenunnegentig achtunnegentig negenunnegentig
+een hunnert eenhunnert tweehunnert dreehunnert veerhunnert fiefhunnert sösshunnert sövenhunnert achthunnert negenhunnert dusend
 eenzig/en
 Eerdalkalimetall/n
 Eerdappel Eerdappeln   # prüfen
@@ -1817,7 +1822,6 @@ Fodder
 föddern/IDWMOAQJP föddern/aqjp
 Foder
 fodern/ATQIDWatq                # Nieg-ins
-föfftig eenunföfftig unföfftig
 fögen/AJTV fögen/ajt föög/DWMOAJTV
 föhl/sABRCJF föhlen/arcjf                   
 föhlen/AZTFIDWaztf                # Nieg-ins
@@ -2288,7 +2292,6 @@ Hummel/n
 Hund Hunnen
 Hunger              
 hungrig/en hungriger/en
-hunnert/e                # Nieg-ins
 Hupen/S     
 hüppen/IDWMORX hüppen/rx
 Hütt/n                # Nieg-ins
@@ -3237,7 +3240,6 @@ neeschierig/en
 Nees Nesen
 negativ/en
 Negativteken/S                            
-negentig eenunnegentig unnegentig
 nehmen/IWAQJPTYCUVFX nehmen/aqjptycufx nöhmen/IDAQJPTYCUVFX nimm/DWAQJPTYCUVFX nahmen/AQJPTYCUVFX
 neihen/IDWMOQAHKTUXÜ neihen/qahktuxü
 nerrn
@@ -4119,11 +4121,8 @@ Sooß Soßen   # das kann der Automatismus nicht
 sööt/en
 Sorg/n
 sorteer/sRJUFX sorteren/rjufx
-sösstig eenunsösstig unsösstig
 Söten                # HD: Kuss
 sounso             
-söven
-söventig eenunsöventig unsöventig
 sozial/en
 Spaak			# HD Schimmel
 Spaaß
@@ -4559,7 +4558,6 @@ Tweeschen/S
 tweet twete tweten
 twei                # Nieg-ins
 twiefelhaftig/en
-twintig ennuntwintig untwintig
 twischen
 Twischenaflaag/n
 Twischenruum Twischenrüüm                       
@@ -4652,7 +4650,6 @@ veer
 Veereck            
 Veerkant/n
 veerkantig/en
-veertig eenunveertig unveertig
 veer veert/en
 Vektor/n			# prüfen Vekter/S
 veniensch/en
