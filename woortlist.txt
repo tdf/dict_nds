@@ -281,6 +281,7 @@ Ankerklüüs  # Mehrtall? und was ist das?
 Anklaag/n
 Ankrüüzfeld Ankrüüzfeller         
 Anlegger/S
+Anliggen 
 Anloop Anlööp
 annekteer/s
 anner/en annern # die normale Ergänzung ist amüseer/amüseren. Aber "annern" ist auch häufig und sollte ok sein.
@@ -335,7 +336,7 @@ appeldwatsch/en
 Appelgrütt               
 Appelkoken
 Appelsaft               
-Appelsien/n Appelsina
+Appelsien/n Appelsina/S
 Applaus
 Applikatschoon/n
 Aptiet              
@@ -648,7 +649,8 @@ Bettdook Bettdöker
 betten/IDWMOJPÜ betten/jpü
 Betttiet Betttieden
 Betttüüg 
-bever/s
+bever/s			# HD: beben, bibbern
+Bever/s         # HD: Biber
 beweeg/sCYZTGFKX bewegen/cyztgfkx                
 beweeglich/en
 beweert/s
@@ -775,7 +777,7 @@ Blöödsinn
 Bloom Blomen Blööm
 Blöös Blösen
 Bloot
-blot bloots  # HD: nur
+blots
 bloot/en   # HD: bloß, nackt
 blubbern/IDWMO
 blucken/IDWMOP
@@ -1517,6 +1519,7 @@ een föfftig eenunföfftig unföfftigtwee dreeunföfftig veerunföfftig fiefunf�
 een sösstig eenunsösstig tweeunsösstig dreeunsösstig veerunsösstig fiefunsösstig sössunsösstig sövenunsösstig achtunsösstig negenunsösstig
 een söventig eenunsöventig tweeunsöventig dreeunsöventig veerunsöventig fiefunsöventig sössunsöventig sövenunsöventig achtunsöventig negenunsöventig
 een achtig eenuntachtig tweeuntachtig dreeuntachtig veeruntachtig fiefuntachtig sössuntachtig sövenuntachtig achtuntachtig negenuntachtig
+een tachentig eenuntachentig tweeuntachentig dreeuntachentig veeruntachentig fiefuntachentig sössuntachentig sövenuntachentig achtuntachentig negenuntachentig
 een negentig eenunnegentig tweeunnegentig dreeunnegentig veerunnegentig fiefunnegentig sössunnegentig sövenunnegentig achtunnegentig negenunnegentig
 een hunnert eenhunnert tweehunnert dreehunnert veerhunnert fiefhunnert sösshunnert sövenhunnert achthunnert negenhunnert dusend
 eenzig/en
@@ -3194,6 +3197,7 @@ mytholoogsch/en
 na
 na'n
 na't
+naakt/en
 Naam/S
 Naamruum Naamrüüm      
 Naamwoort Naamwöör     
@@ -3242,6 +3246,7 @@ negativ/en
 Negativteken/S                            
 nehmen/IWAQJPTYCUVFX nehmen/aqjptycufx nöhmen/IDAQJPTYCUVFX nimm/DWAQJPTYCUVFX nahmen/AQJPTYCUVFX
 neihen/IDWMOQAHKTUXÜ neihen/qahktuxü
+Nelk/n		# Nelke. Aber eigentlich: Viol oder Vilettke
 nerrn
 nervös/en
 Nest/n Nester # zwei Pluralformen
@@ -3326,6 +3331,7 @@ ooltbacksch/en
 oolt ole olen öller/en öllst/en
 Oorinwahner/S
 oorn/s
+Oornt/n			# HD: Ernte
 Oorsaak Oorsaken
 oorten/WMOU oorten/u
 oortig/en
@@ -3831,7 +3837,7 @@ Saak/n
 sachen sachens                           
 sachts sachtens
 Sack Säck
-Saft
+Saft Säft
 Salat/n    
 sammel/sQAJHPZKGUVFX sammeln/qajhpzkguvfx   
 Sand 
@@ -4178,7 +4184,7 @@ spoor/sAQJP
 Spoor Spöör Sporen
 spören/RHPZUF spören/rhpzuf spöör/DWMORHPZUF
 Sport
-Sportplatz   Sportplätz    
+Sportplatz Sportplätz    
 Spraak/n
 spreken/QABRZRGUVF spreken/qarzrguf spreek/WQABRZRGUVF sprickst/QABRZRGUVF sprickt/QABRZRGUVF sprook/DQABRZRGUVF sproken/QABRZRGUVF spraken/MOQABRZRGUVF
 springen/IDWAQRJPX springen/aqrjpx sprungen/IDAQRJPX
