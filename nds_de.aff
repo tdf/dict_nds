@@ -53,6 +53,7 @@ COMPOUNDFLAG c
 COMPOUNDPERMITFLAG d
 
 ###### Fre'e Prefixen: ÄÖ, C und Z sind wieder frei.
+# Vorsicht: bei den Umlauten ist fraglich, ob die Groß- und Kleinschreibung des Suffixes unterschieden wird.
 #
 # Kanditaten: ran, rüm, mit
 # Großbuchstaben: normale Verbformen. 
@@ -83,23 +84,32 @@ COMPOUNDPERMITFLAG d
 #	an		A a
 #	be		B 
 #	hen		C c
-#	in		J j
+# D=du
+# e Adjektivdeklination
+#	vör		F f
 #	rut		G g
 #	na		H h
+# I=ik, Ennen för 1.Persoon
+#	in		J j
 #	rop		K k
 #   dal     L l
+# M=Mehrtall vun't Part.Perf. ("leeste Böker")
+# n Adjektivdeklination
+# O=Part.Perf.Eentall in'n Objektiv ("den fohrten Mann")
 #	op		P p
 #	af		Q q
 #	dör+dörch	R r
+# Suffix s für schwache Verben
+#	-s		S 
 #	to		T t
 #	ut		U u
+#	üm		Ü ü
 #	ver		V 
-#	vör		F f
 #	weg		X x
 #	her		Y y
-#	üm		Ü ü
+# W=wi
 #	rin		Z z
-#	-s		S 
+
 
 
 
