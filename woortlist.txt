@@ -2449,38 +2449,37 @@ kamen/ABRHPZKGYCUVFXL kamen/arhpzkgycufxl kaam/WABRHPZKGYCUVFXL keem/DABRHPZKGYC
 kamen hoochkamen/IDW                # Nieg-ins
 Kamer/n                # Nieg-ins
 Kamera/S
-kämmen/RUGHIDWMrugh                # Nieg-ins
-Kamm   Kämm                # Nieg-ins
+kämm/RUGHs kämmen/rugh      
+Kamm   Kämm               
 Kanal/S			# Plural prüfen
-Kanink/n                # Nieg-ins
+Kanink/n            
 Kant/n
 Kantüffel/n Kantüffel/S		# prüfen Plural
 Kapitel/S
 kapsel/s inkapsel/s
 Kapsel Kapseln
 kapseln/IDWMOQJV kapseln/qj
-Kaptein/S                # Nieg-ins
-Kapuuz/n                # Nieg-ins
+Kaptein/S           
+Kapuuz/n            
 Kark/n
 Kark/n
 Karkhoff Karkhööv
 karklich/en           
 Karn/S
-Kasbeer/n                # Nieg-ins
-Kasper                # Nieg-ins
-Kassen                # Nieg-ins
+Kassbeer/n Karsbeer/n  # HD: Kirsche            
+Kassen Kasten		# HD: Kasten
 Kassett/n
 Kasten/S
 Katalog/n
 Katastroof Katastrofen # prüfen mit ph?
 Kategorie/n
-Kater/S                # Nieg-ins
+Kater/S            
 kathoolsch/en
 Katt/n
-Katteker/S                # Nieg-ins
+Katteker/S         
 Kaubontje/S
 kauen/IDWMOQARGTUF kauen/oqargtuf
-Kaugummi/S                # Nieg-ins
+Kaugummi/S         
 Kavel/S				# wat is dat?
 Käver  # prüfen Plural
 kB
@@ -2488,62 +2487,59 @@ Keed/n
 keen/en
 keeneen
 Keerl/S
-Kees                # Nieg-ins
+Kees                # HD: Käse
 kehren/IDWMOQBJUV kehren/QJU
-Keks                # Nieg-ins
 Keller 					# prüfen Plural                          
 keltsch/en
 kenn/sBUV 
-kennen/UVIDWu                # Nieg-ins
 Keramik/n
 Kernel/S			# ut de Computeree 
 kettelig/en
-ketteln/RIDWOMr                # Nieg-ins
+kettel/Rs ketteln/r		# HD: kitzeln
 kHz
 kieken/IDWAQBRJHTYCUVX kieken/aqrjhtycux keek/DAQBRJHTYCUVX keken/AQBRJHTYCUVX
 Kieker/S
 Kiekricht/n
 Kiekwinkel                            # prüfen Plural
 Kiel/n
-kievig/en                # Nieg-ins
-Kilo/S                # Nieg-ins
-Kilometer/S                # Nieg-ins
+kievig/en             
+Kilo/S                
+Kilometer/S           
 Kimm
 Kind Kinner Kinners                          
-Kinn                # Nieg-ins
-Kinnergoorn/S                # Nieg-ins
-Kino/S                # Nieg-ins
+Kinn              
+Kinnergoorn/S     
+Kino/S            
 kippen/IDWMOQARHZKGTUVXÜ kippen/qarhzkgtuxü
 Kist/n
 Klaag/n			
 klaag/sABRJGVX klagen/arjgx
-klagen/JABVIDWOMja                # Nieg-ins
 klammern/IDWMOAJTU klammern/ajtu
 Klamp/n
 Klang Kläng
 Klapp/n
 klappen/IDWMOQJPTUX klappen/qjptux
-klappern/QIDWq                # Nieg-ins
+klapper/sQ klapper/q
 Klappreekner/S 
 Klass/n
 klass'sch/en
 Klassik              
 klattern/IDWMOBRHZKGTFX klattern/rhzkgtfx
-klauen/IDWOM                # Nieg-ins
+klau/s
 Kledaasch            
-kleden/JAUÜBVIDWOMjauü                # Nieg-ins
 kleed/sABJUVÜ kleden/ajuvü
 Kleed                             # prüfen Plural
 kleen/en
 Klemm/n
-Klever/S                # Nieg-ins
-Kleverblatt                # Nieg-ins
+Klever/S                # HD: Klee
+Kleverblatt  Kleverbläder
+Kleverveer		# HD: vierblättriges Kleeblatt
 Klick/S
 klick/s anklick/s
 klick/sARJX klicken/arjx
-klingeln/AIDWa                # Nieg-ins
+klingel/As klingeln/a 
 Klink/n
-Klo/S                # Nieg-ins
+Klo/S              
 Klock/n
 Klöner/S
 klook/en
@@ -2554,16 +2550,16 @@ kloor/en
 Klöör/n
 Kloortext
 Kloot Klöten
-kloppen/AUGPVKQXIDWOMaugpkqx                # Nieg-ins
+klopp/AUGPVKQXs  kloppen/augpkqx 
 kloren/QPVF kloren/qpf kloor/DWMOQPVF
 Klumpen
 Klump Klümp          
 Kluut Klüten
-Knaken                # Nieg-ins
-knallen/CZRTFKQXIDWczrtfkqx                # Nieg-ins
+Knaken                # HD: Knochen. Sg wie Pl
+knall/CZRTFKQXs czrtfkqx              
 knapp/en
-Knecht/n                # Nieg-ins
-Knee/n                # Nieg-ins
+Knecht/n            
+Knee/n              
 Knief Knieven
 kniepen/IWQBRT kniepen/qrt knippst/QBRT knippt/QBRT kneep/DQBRT knepen/QBRT
 Knipp/n
@@ -2675,7 +2671,7 @@ kortwielig/en
 kösten/IDW
 Kraam
 kraam/s
-krabbeln/CYZRGKXIDWOMcyzrgkx                # Nieg-ins
+krabbel/CYZRGKXs  krabbeln/cyzrgkx 
 Kraftfeld Kraftfeller           
 Kraft Kräft
 Kraftstoff/n
@@ -2717,7 +2713,7 @@ kubsch/en
 Kuddelmuddel                        
 Kuffer/S Koffer/S # Sass: Koffer als Standard. Cyriacks: Kuffer
 Kugel/n
-Kukuuk/S                # Nieg-ins
+Kukuuk/S   
 Küll
 Kuller/S         
 Kult                           
@@ -3524,10 +3520,10 @@ Pleger/S
 plietsch/en
 plietscherwies
 Plock Plöck
-plögen/Üsü                # Nieg-ins
-Ploog                # Nieg-ins
+plöög/Üs plögen/ü           
+Ploog   Plöög
 Plotter/S
-plücken/Qsq                # Nieg-ins
+plück/Qs plücken/q    
 Plugin/S
 plus
 pluustern/IDWMOP pluustern/p
@@ -3587,7 +3583,7 @@ Privatsphäär/n
 Privileg/n
 pro
 probeer/sAU
-proberen/ARUaru   probeerst/ARUaru   probeert/ARUaru   probeerden/ARUaru                # Nieg-ins
+probeer/ARUs proberen/aru   
 Problem/n
 problemaatsch/en
 Produkschoon/n
