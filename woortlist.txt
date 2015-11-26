@@ -826,8 +826,8 @@ Bornkode
 Borntext/n
 Borntyp/n
 Bost Böst
-bösten/YZRUGPQIDWyzrugpq                # Nieg-ins
-böten/JARBIDWjar                # Nieg-ins
+böst/sYZRUGPQ böstenyzrugpq            # bürsten
+bööt/sJARB böten/jar                # Feuer anmachen
 Botter
 Botterbroot Botterbrööd
 Botterfatt Botterfaten
@@ -843,7 +843,7 @@ Böverlaag/n
 Böverorner/s
 Böversiet Böversieden
 box/s
-braden/ARQIDWarq                # Nieg-ins
+braad/sARQ braden/arq                # braten
 Brandwien
 Brass
 breden/UV breed/DWMOUV
@@ -865,8 +865,7 @@ brennbor/en
 brennen/IDWMOAQJUV
 Brenner/S
 Brennpunkt Brennpünkt
-Brett Breder      # wie nun?
-Brett Breed       # wie nun?
+Brett Breed Breder            # zwei Pluralformen
 Brettspill/S oder Brettspeel/n                            # wie nun?
 Brill/n
 Brillenglas Brillenglöös
@@ -882,7 +881,7 @@ Bruker/S
 Brukerkonto/S
 Brukernaam/S
 brummeln/IDWMO
-brummen/AZTIDWOMazt                # Nieg-ins
+brumm/sAZT brummen/azt                
 bruukbor/en
 Bruukborkeit
 bruun/en
@@ -1159,7 +1158,6 @@ Dings
 Dingsbums 
 Dingsdag
 dingsdags
-dinken/W                # Nieg-ins
 Dint/n
 Dintenfatt # Plural?
 Dintenfisch 
@@ -1195,7 +1193,7 @@ Dock/S
 docken/IDWMOAQ docken/oaq
 Dode/n
 Dodenacker/S
-Dodenkopp Dodenköpp
+Doopp Dodenköpp
 dodenstill/en
 Dodenvagel/S
 Dodesdag Dodesdaag
@@ -1258,7 +1256,6 @@ Dörmeter/S
 dormit
 dorna           
 dorop           
-doropsetten                # Nieg-ins
 doröver         
 Dörp Dörper
 Dörsatz Dörsätz
@@ -1369,11 +1366,10 @@ Droom Drööm
 droppen/IDWMOQRZGX droppen/qrzgx
 dröven/IDWOM                # Nieg-ins
 druck/s
-drück/s
+drücken/QBRJPTYCUVXs drücken/qrjptycuvx
 druckbor/en
 Druck Drück
 drucken/IDWMOQBJPU drucken/qjpu
-drücken/IDWMOQBRJPTYCUVX drücken/qrjptycuvx
 Drucker/S
 Druckerdriever/S                  
 Druckvöransicht/n                 
@@ -3993,6 +3989,7 @@ Serie Serien
 Server/S
 Sessel/D                # Nieg-ins
 setten/IDWMOAQBRJPZKGTCYUVFXÜL setten/aqrjpzkgtcyufxül
+setten doropsetten                # Nieg-ins
 sett freesett/s freetosetten          
 Sever/S  Sebber/S                # HD: Käfer
 Sicht/n
@@ -4032,11 +4029,11 @@ Slag Slääg
 Slang/n
 slank/en slanker/en slankst/en
 slapen/BRJTUVFX slapen/rjtufx slaap/WBRJTUVFX slöppst/BRJTUVFX slöppt/BRJTUVFX sleep/DBRJTUVFX slepen/BRJTUVFX
-slau                # Nieg-ins
-Slauch   Släuch                # Nieg-ins
+slau/en slauer/en slaust/en               # schlau
+Slauch   Släuch                # Schlauch
 slecht/en slechter/en slechtst/en
 Sleden/S
-sleudern/CYZRUVXscyzrux                # Nieg-ins
+sleuder/CYZRUVXs sleudern/cyzrux                # schleudern
 slieken/CYJAZRGXcyjazrgx   sliek/CYJAZRGXcyjazrgx   slickst/CYJAZRGXcyjazrgx   slickt/CYJAZRGXcyjazrgx   sleken/CYJAZRGXcyjazrgx                # Nieg-ins
 Slieppapeer 		# prüfen
 slimm/en slimmer/en slimmst/en
@@ -4056,7 +4053,7 @@ smeck/Qs smecken/q
 Smeed Smeden
 smeren/ABJHPZKTUVFX smeren/abjhpzktuvfx smeer/DWMOQABJHPZKTUVFX
 smieten/IAQBJGTYCX smieten/aqbjgtycx smittst/AQBJGTYCX smitt/AQBJGTYCX smeet/DAQBJGTYCX smeten/AQBJGTYCX
-smöken/AUPVaup   smöökst/AUPVaup   smöökt/AUPVaup   smöökden/AUPVaup                # Nieg-ins
+smöök/sAUPV smöken/aup  
 smölten/IDWMOQRJPZGUVXÜ smölten/qrjpzguvxü smolten/QRJPZGUVXÜ
 Smöltpunkt Smöltpünkt Smöltpunkten
 smöök/s
@@ -4075,9 +4072,9 @@ Snavel/S
 Snee
 Sneeflaag/n				# prüfen
 Sneekristall/n
-Sneemann/S                # Nieg-ins
+Sneemann/S           
 Sneeregen Sneestorm                            
-Snick/n                # Nieg-ins
+Snick/n                # Schnecke 
 snieden/IWAQBRJPTUVX snieden/aqrjptux snittst/AQBRJPTUVX snitt/AQBRJPTUVX sneed/DAQBRJPTUVX sneden/AQBRJPTUVX
 Snippel/S 
 Snittpunkt Snittpunkten Snittpünkt
