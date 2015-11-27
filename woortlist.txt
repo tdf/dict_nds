@@ -2263,13 +2263,12 @@ höör/s
 höörbor/en
 Hoor Horen
 Höörn Hörnen
+Hoorn Höörn
 hoost/s 		# HD: Husten
 Hoot Hööt
 Hopen/S
-Höpen/S                # Nieg-ins
 hören/AFJPTYCVX hören/afjptycvx höör/DWMOAFJPTYCVX
-Horn/S                # Nieg-ins
-hulen/IDW                # Nieg-ins
+huul/s 
 Hülp
 Hülper/S
 Hülpprogramm/n
@@ -2282,7 +2281,7 @@ hüppen/IDWMORX hüppen/rx
 Hütt/n             
 Huusdöör/n  
 Huusfro/n                # Nieg-ins
-Huushollt/n                # Nieg-ins
+Huushollt Huusholden
 Huus Hüüs
 Huusopgaav/n 
 Huut                            
@@ -2389,7 +2388,7 @@ Isotop/n
 ja                           
 Jack/n             
 jaag/CYZTGVKXIDWs jagen/ cyztgkx 
-Jäger/S                # Nieg-ins
+Jager/S Jagerslüüd 
 Januor Februor März April Mai Juni Juli August September Oktober November Dezember
 je      
 jeedeen  
@@ -2400,7 +2399,7 @@ jichtenseen
 jichtenswann                            
 jichtenswat
 jichtenswo
-Jieper/S                # Nieg-ins
+Jieper                  # HD Gier
 jo
 Johr/n
 Johrdag
@@ -2414,20 +2413,19 @@ Joystick/S
 jüm
 jümehr
 jümmer/S ümmer
-jümmers                # Nieg-ins
 jumpen/sAQRYCJPZKGTVFX jumpen/aqrycjpzkgtvfx
 Jung/nS                # Nieg-ins
 jüst
-jüstso                # Nieg-ins
+jüstso     
 Juud Juden
 juudsch/en           # prüfen ü?
 kaak/s
-Kaaklepel/S                # Nieg-ins
+Kaaklepel/S 
 Kachel/n
 kachel/sJU       
-Kaffee                # Nieg-ins
-Kakao                # Nieg-ins
-kaken/JARTUPHBFVQIDWOMjartuphfq                # Nieg-ins
+Kaffee      
+Kakao       
+kaak/JARTUPHBFVQs kaken/jartuphfq 
 kakendig				# wat is dat?
 Kalenner/S Klenner/S
 kalibreer/s
