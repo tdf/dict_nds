@@ -1269,7 +1269,7 @@ dörstig/en
 dorto             
 dorüm
 dorünner          
-dörven/IDW dorven/ID
+dörven dörv dörvst dörv dörvt dorv dorvst dorv dorven dörvf # HD: dürfen. kiek ok bi dröven. Autoexpander macht das nicht richtig  
 dorvör            
 dorvun
 Dösch
@@ -1352,19 +1352,17 @@ Drievhuusgas/n
 Drift Driften
 drinken/IDWABTUFX drinken/atufx drunken/IDABTUFX
 Drinkwater
-dröff/IDWOM                # Nieg-ins
-droffen/W                # Nieg-ins
-drögen/JARUPQjarupq                # Nieg-ins
 Dröhn
 Dröhnbüdel/S
 dröhnen/IDWMO
 dröhnig/en
 drömen/HZUV drömen/hzu drööm/DWMOHZUV
+dröög/sJARUPQ drögen/jarupq                # HD: trocknen
 dröög/en dröger/en dröögst/en
 Dröögde
 Droom Drööm
 droppen/IDWMOQRZGX droppen/qrzgx
-dröven/IDWOM                # Nieg-ins
+dröven dröff dröffst dröff dröfft dröff dröffst dröff dröffen dröfft # HD dürfen. Kiek ik bi dörven
 druck/s
 drücken/QBRJPTYCUVXs drücken/qrjptycuvx
 druckbor/en
@@ -1376,7 +1374,6 @@ Druckvöransicht/n
 drüppeln/IDWMOQBRCPZKGTUVX drüppeln/qbrcpzkgtuvx
 Drüppen/S
 drütt drüdde drüdden
-drütte/n                # Nieg-ins
 Druus
 Dschungel/S
 dubbel                            
@@ -1385,7 +1382,7 @@ Dubbelklick/n
 dubbelklicken/IDWMO
 Dubbelpunkt Dubbelpünkt           
 dubbelt/en
-dücht                # Nieg-ins
+dücht                # nur in der Formulierung "mi dücht" => HD: "mir scheint"
 düchtig/en
 Dudeldopp
 Dudelkasten/S
@@ -1721,7 +1718,7 @@ Feernbedenen
 Feernglas Feernglöös                  
 Feernsehn
 Feernsehreeg Feernsehregen  
-fegen/CYZRUGQXIDWcyzrugqx                # Nieg-ins
+feeg/CYZRUGQXs fegen/cyzrugqx      
 fehl/sBV
 Fehler/S
 Fehleradress/n
@@ -1739,9 +1736,14 @@ Feldgrött/n
 Feldnaam/S
 Fell/n          
 feminin/en
-Fenster/n                # Nieg-ins
+Fenster/n               
+Fensterbank Fensterbänk
+Fensterbild Fensterbiller                            
+Fensterdekoratschoon/n
+Fenstergrött/n
+Fensterinholt
+Fenstertyp/n
 Ferien
-Fernseh/n                # Nieg-ins
 Fest/n
 Festival/S
 fett/en
@@ -1751,7 +1753,7 @@ Fieg/n         # HD: Feige
 fien/en
 Fiend/n
 Fierdag Fierdaag
-fiern/ZGIDWzg                # Nieg-ins
+fier/ZGs fiern/zg  
 Figur Figuren
 Film/n
 Filmmusik/n
@@ -1765,13 +1767,6 @@ Finanzen
 Finger/S
 Fingerafdruck Fingerafdrück
 finnen/IDQJPGX finnen/qjpgx findt/QJPGX funnen/IDQJPGX
-Fenster/S
-Fensterbank Fensterbänk
-Fensterbild Fensterbiller                            
-Fensterdekoratschoon/n
-Fenstergrött/n
-Fensterinholt
-Fenstertyp/n
 Firma Firmen Firmas			# Mehrzahl prüfen
 Fisch
 Fischer/S
@@ -1823,16 +1818,14 @@ föddern/IDWMOAQJP föddern/aqjp
 Foder
 fodern/ATQIDWatq                # Nieg-ins
 fögen/AJTV fögen/ajt föög/DWMOAJTV
-föhl/sABRCJF föhlen/arcjf                   
-föhlen/AZTFIDWaztf                # Nieg-ins
+föhl/sABRCJFZT föhlen/arcjfzt                   
 fohren/IDWMOAQBRJHPZKGYCUVFXL fohren/aqrjhpzkgycufxl
 föhren/IDWMOAQRJPYCUVFXL föhren/aqrjpycufxl
 Föhrer/S
-Fohrer/S   Fohrersch/n                # Nieg-ins
-Föhrerschien/s                # Nieg-ins
+Fohrer/S   Fohrersch/n     
+Föhrerschien/S             
 Fohrrad   Fohrrööd               
 Fohrt/en  
-foken                # Nieg-ins
 Fokus
 fokusseer/s
 Folg/n
@@ -1870,7 +1863,6 @@ forsch/s
 Förster/S        
 förwiss/en
 Förwoort Förwöör
-foten                # Nieg-ins
 Foto/S
 fotografeer/s
 Fotografie   
@@ -1890,21 +1882,19 @@ Freeruum Freerüüm
 Freetiet Freetieden                           
 freetsch/en
 Freid          
-freien/IDW                # Nieg-ins
 Frequenz/n
 Frequenzband Frequenzbänner
 freren/QARJTUV freren/qarjtu freer/DWQARJTUV froor/DQARJTUV froren/QARJTUV
 fresen früst # nur in Mi/Dat früst.   # wat is dat???
 freten/QARJPZGTUVX freten/qarjpzgtux freet/DQARJPZGTUVX fritt/DQARJPZGTUVX
-Freud/M                # Nieg-ins
-freuen/IDW
+Freud Freuden
+freuen/IDW frei/IDW
 frisch/en
 frischen/IDWMOAP frischen/ap
 Frischluft                          
 Frisör/n 
 Frist/n
 Fro Froons Froonslüüd
-frogen/W                # Nieg-ins
 fröh/en fröher/en fröhst/en
 froh/en
 Fröhjohr
@@ -1929,7 +1919,7 @@ Füerwark/n
 Füerwehr/n
 füll/sABJPTÜRU füllen/ajptüru
 full                # Nieg-ins
-füllen/JZUÜPHBQIDWOMjzuüphq                # Nieg-ins
+füll/JZUÜPHBQs füllen/jzuüphq
 Füllgraad/n
 Funk/n
 Funker/S
