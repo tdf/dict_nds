@@ -1816,11 +1816,12 @@ flusig/en
 Fodder                           
 föddern/IDWMOAQJP föddern/aqjp
 Foder
-fodern/ATQIDWatq                # Nieg-ins
+foder/sATQ fodern/atq
 fögen/AJTV fögen/ajt föög/DWMOAJTV
 föhl/sABRCJFZT föhlen/arcjfzt                   
-fohren/IDWMOAQBRJHPZKGYCUVFXL fohren/aqrjhpzkgycufxl
-föhren/IDWMOAQRJPYCUVFXL föhren/aqrjpycufxl
+fohr/sOAQBRJHPZKGYCUVFXL fohren/aqrjhpzkgycufxl # auch föhren, schwaches Verb ! beides HD: fahren,  
+fohren överfohr/s overfohren rümfohr/s rümfohren
+föhr/sOAQBRJHPZKGYCUVFXL föhren/aqrjhpzkgycufxl # auch fohren, schwaches Verb ! beides HD: fahren 
 Föhrer/S
 Fohrer/S   Fohrersch/n     
 Föhrerschien/S             
@@ -1918,7 +1919,6 @@ füer/s
 Füerwark/n
 Füerwehr/n
 füll/sABJPTÜRU füllen/ajptüru
-full                # Nieg-ins
 füll/JZUÜPHBQs füllen/jzuüphq
 Füllgraad/n
 Funk/n
@@ -2099,7 +2099,6 @@ Grieper/S
 griepsch/en
 gries/en
 groff grove/n groffer/en groffst/en
-grood/e                # Nieg-ins
 gröön/s
 gröön/en
 Grööntüüch
@@ -2224,9 +2223,8 @@ Histogramm/n
 histoorsch/en 
 Historie
 Historiker/S
-Hitt                           
+Hitt			# Hd: Hitze                           
 hitt/en hitter/en hittst/en
-Hitten/e                # Nieg-ins
 höden/BJV höden/bjv hööd/WBJV hödden/IDWBJV
 Hoff Hööv
 högen höög/DW
@@ -2235,7 +2233,7 @@ Höker/S
 holl
 hollen/AQBRJPTYCUVF hollen/aqrjptycuf hool/WAQBRJPTYCUVF höllst/AQBRJPTYCUVF höllt/AQBRJPTYCUVF heel/DAQBRJPTYCUVF helen/AQBRJPTYCUVF hollt
 Holler/S
-hölltan                # Nieg-ins
+hölten/en		# HD hölzern, aus Holz
 Hölp                           
 hölpen/IDWQBPU hölpen/qpu hulpen/IDQBPU
 Hölper/S
@@ -2795,10 +2793,10 @@ leggen/IDWMOAQBJPTYCUVFXL leggen/aqjptycufxl leed/DAQBJPTYCUVFXL leden/AQBJPTYCU
 leggen afleggen 
 legg fastlegg/s                
 lehn  aflehn/s
+Lehn/s Lehnels                # HD: Lehne
 lehnen/IDWMOAQYCFX lehnen/aqycfx
 Lehr                          
 lehr/sABV lehren/a
-lehren/AZUÜIDWazuü                # Nieg-ins
 Lehrer/S
 leider
 Leisten          
@@ -2808,9 +2806,8 @@ lenk aflenk/s
 Lepel/S         
 lesen/JQHPUVF lesen/jqhpuf lees/WMOJQHPUVF 
 Leser/S
-lest/en
-letzt   letztens                # Nieg-ins
-Leven                # Nieg-ins
+letzt/en   letztens       
+Leven 
 Levensoort                       
 Levenstiet Levenstieden          
 levern/IDWMOAQBJU levern/aqju
@@ -2826,7 +2823,7 @@ Lichtjohr/n
 Licht Lichters				# Plural prüfen
 Lichtstrahler/S
 Liddmaat/n				
-lieden   liddts   liddt   liedt                # Nieg-ins
+lieden  ik lied du liddst he liddt wi liedt ik leed du leedst he leed wi leden  # HD leiden. Unregelmäßig
 liedsam/en
 Lief Liever 
 liek/en
@@ -2875,7 +2872,6 @@ Logik
 logisch/en
 Logo/S
 Lohn Löhn 
-Löhnels                # Nieg-ins
 lokal/en 
 Lokativ  
 Loof
@@ -3377,7 +3373,6 @@ Oval Ovalen
 överbreed/en
 övereen
 Överfall Överfäll
-överfohren                # Nieg-ins
 Överfohrt/n  
 Övergaav/n
 Övergang Övergäng
@@ -3789,7 +3784,6 @@ rüm # prüfen Komposita rümgahn etc
 rümasen rümaas/DWMO
 rümbuttjern
 rümen/QJPUX rümen/qjpux rüüm/DWMOQJPUX
-rümfohren/DWOM                # Nieg-ins
 rümlopen/DWOM                # Nieg-ins
 Rund/n
 rund runne/n
