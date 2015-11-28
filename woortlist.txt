@@ -2278,7 +2278,7 @@ Hupen/S
 hüppen/IDWMORX hüppen/rx
 Hütt/n             
 Huusdöör/n  
-Huusfro/n                # Nieg-ins
+Huusfro Huusfroons 
 Huushollt Huusholden
 Huus Hüüs
 Huusopgaav/n 
@@ -2401,18 +2401,18 @@ Jieper                  # HD Gier
 jo
 Johr/n
 Johrdag
-Johrhunnert/e                # Nieg-ins
+Johrhunnert
 Johrteihnt/s                # Nieg-ins
-jöken                # Nieg-ins
+jöök/s # jucken
 jongleer/s 
-Jöögd                # Nieg-ins
+Jöögd                # HD: Jugend
 Journalist/n
 Joystick/S
 jüm
 jümehr
 jümmer/S ümmer
 jumpen/sAQRYCJPZKGTVFX jumpen/aqrycjpzkgtvfx
-Jung/nS                # Nieg-ins
+Jung/S Jungens                # HD: der Junge. zwei Pluralformen
 jüst
 jüstso     
 Juud Juden
@@ -2427,9 +2427,9 @@ kaak/JARTUPHBFVQs kaken/jartuphfq
 kakendig				# wat is dat?
 Kalenner/S Klenner/S
 kalibreer/s
-kamen/ABRHPZKGYCUVFXL kamen/arhpzkgycufxl kaam/WABRHPZKGYCUVFXL keem/DABRHPZKGYCUVFXL kemen/ABRHPZKGYCUVFXL kumm/DWABRHPZKGYCUVFXL
+kamen/ABRHPZKGYCUVFXL kamen/arhpzkgycufxl kaam/WABRHPZKGYCUVFXL keem/DABRHPZKGYCUVFXL kemen/ABRHPZKGYCUVFXL kumm/DWABRHPZKGYCUVFXL # kümmt als Nebenform mit aufführen?
 kamen hoochkamen/IDW                # Nieg-ins
-Kamer/n                # Nieg-ins
+Kamer/n                # HD: Kammer, Zimmer
 Kamera/S
 kämm/RUGHs kämmen/rugh      
 Kamm   Kämm               
@@ -2702,7 +2702,6 @@ Kult
 Kultur/n
 Kulturform      # prüfen Mehrzahl
 Kummer           
-kümmt                # Nieg-ins
 kumplett/en
 kumpletteer/s
 Künn
@@ -2747,7 +2746,7 @@ lang/en länger/en längst/en
 Läng/n Längd/en
 lang/sABRYCTV langen/aryet
 Längd Längde/n
-langen/CYAZRTKIDWcyazrtk                # Nieg-ins
+lang/sCYAZRTK langen/cyazrtk                
 Langform                 # prüfen Mehrzahl
 langs
 langsam/en langsamer/en langsamst/en
