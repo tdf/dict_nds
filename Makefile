@@ -37,7 +37,7 @@ $(OUTDIR)/description-nds.txt: description-nds.txt
 # grep: Leerzeilen entfernen
 nds.wl: woortlist.txt egennaams.txt
 	cat woortlist.txt egennaams.txt | \
-	sed {"s/-/\n/g;s/[\(][^\)]*[\)]//g;s/\ *\#.*//g;s/ /\n/g"} | grep [a-zA-ZäÄöÖüÜß] > $@
+	sed {"s/-/\n/g;s/[\(][^\)]*[\)]//g;s/\ *\#.*//g;s/ /\n/g"} | grep [a-zA-ZäÄöÖüÜß\/] > $@
 
 # Anzahl Eintraege ermitteln. Direkter Aufruf von wc wuerde "#Anzahl
 # nds.wl" ergeben, wir brauchen aber nur die Zahl, daher Umweg ueber
