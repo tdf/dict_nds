@@ -1821,6 +1821,7 @@ fögen/AJTV fögen/ajt föög/DWMOAJTV
 föhl/sABRCJFZT föhlen/arcjfzt                   
 fohr/sOAQBRJHPZKGYCUVFXL fohren/aqrjhpzkgycufxl # auch föhren, schwaches Verb ! beides HD: fahren,  
 fohren överfohr/s overfohren rümfohr/s rümfohren
+fohren loosfohren   loosföhrst   loosföhrt   loosfohr                # Nieg-ins
 föhr/sOAQBRJHPZKGYCUVFXL föhren/aqrjhpzkgycufxl # auch fohren, schwaches Verb ! beides HD: fahren 
 Föhrer/S
 Fohrer/S   Fohrersch/n     
@@ -1992,7 +1993,7 @@ general/en
 General/n
 generaliseern/s
 Generatschoon/n
-geneten   geneet   genüttst   genütt   genoten                # Nieg-ins
+geneten   ik geneet du genüttst he genütt wi geneet ik genoot genööt du genootst genöötst he genoot genööt wi genoten genöten geneet genaten/en
 Genitiv/n
 geograafsch/en
 Geografie
@@ -2013,7 +2014,7 @@ Gesett/n
 Gesicht Gesichter
 Geslecht Geslechter
 Geswister/S
-geten   geet   güttst   gütt   gaten                # Nieg-ins
+geten ik geet du güttst he gütt wi geet ik goot gööt du gootst göötst ge gööt wi goten göten gaten/en
 geven/ABQRJPGTYZUVFX geven/aqrjpgtyzufx  geev/ABQRJPGTYZUVFX giffst/ABQRJPGTYZUVFX gifft/ABRJPGTYZUVFX geevt/ABQRJPGTYZUVFX geevst/ABRJPGTYZUVFX giff
 Gever/S
 Gewidder/S                
@@ -2774,11 +2775,11 @@ Leck/S
 ledden/IDWMOAQRYJTUVÜ ledden/aqryjtuü
 Ledder/n
 leddig/en
-leef/DWOM                # Nieg-ins
+leef leve/n  # HD: lieb, bsd. in leef hebben
 leeg/en leger/en legerst/en
 leeg   lüggst   lüggt   leegt   lagen                # Nieg-ins
 Leerteken/S
-Leesbook   Leesböker                # Nieg-ins
+Leesbook   Leesböker     
 leesbor/en
 Leesborkeit
 Leesteken/S
@@ -2880,7 +2881,6 @@ loos
 löös/s    
 löös/sQJPU lösen/qjpu # prüfen, ob das richtig autokonjugiert wird => nein, wird es nicht. aflöösst ist falsch
 löösbor/en
-loosfohren   loosföhrst   loosföhrt   loosfohr                # Nieg-ins
 loosgahn   loosgeiht   loosgeihst   loosgaht   loosgah                # Nieg-ins
 Löösmiddel/S
 Loots/n
