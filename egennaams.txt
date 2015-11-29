@@ -968,7 +968,7 @@ Swahili
 Swati
 Swasiland
 Sweden sweedsch/en
-Swiez swiezerdüütsch/en Swiezer/L
+Swiez swiezerdüütsch/en Swiezer
 Syrien syrsch/en
 Söödafrika
 Söödkorea
@@ -1068,7 +1068,7 @@ KDesktop
 KDiskett
 KHTML
 Kicker
-KMahjongg KMail KNode KNotes Konqueror/L KOrganizer KParts KPilot KSplash KTux KWeather KWin KWrited KNotify
+KMahjongg KMail KNode KNotes Konqueror KOrganizer KParts KPilot KSplash KTux KWeather KWin KWrited KNotify
 Konsole
 Kontact
 KSpell
