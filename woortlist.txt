@@ -3964,9 +3964,8 @@ seriell/en
 Seriennummer/n
 Serie Serien
 Server/S
-Sessel/D                # Nieg-ins
+Sessel/S
 setten/IDWMOAQBRJPZKGTCYUVFXÜL setten/aqrjpzkgtcyufxül
-setten doropsetten                # Nieg-ins
 sett freesett/s freetosetten          
 Sever/S  Sebber/S                # HD: Käfer
 Sicht/n
@@ -3982,7 +3981,7 @@ Signatur/n
 sik
 Simulatschoon/n
 simuleer/s 
-singen/PFpf   singst/PFpf   singt/PFpf   sungen/PFpf                # Nieg-ins
+singen/PFpf ik sing/PF du singst/PF he singt/PF ik sung/PF süng/PF du sungst/PF süngst/PF he sung/PF süng/PF wi sungen/PF sungen/en 
 Sinn
 sinnen/IDWB  sunn/B sunnst/B sunnen/B  # sinnen/besinnen
 sinnig/en
@@ -4011,7 +4010,8 @@ Slauch   Släuch                # Schlauch
 slecht/en slechter/en slechtst/en
 Sleden/S
 sleuder/CYZRUVXs sleudern/cyzrux                # schleudern
-slieken/CYJAZRGXcyjazrgx   sliek/CYJAZRGXcyjazrgx   slickst/CYJAZRGXcyjazrgx   slickt/CYJAZRGXcyjazrgx   sleken/CYJAZRGXcyjazrgx                # Nieg-ins
+slieken ik sliek/CYJAZRGX du sliekst/CYJAZRGX slickst/CYJAZRGX he sliekt/CYJAZRGX slickt/CYJAZRGX ik sleek/CYJAZRGX du sleekst/CYJAZRGX he sleek/CYJAZRGX wi sleken/CYJAZRGX sleken/enCYJAZRGX 
+
 Slieppapeer 		# prüfen
 slimm/en slimmer/en slimmst/en
 Slööp Slöpen			# wat is dat?
@@ -4070,8 +4070,6 @@ Software
 sogor
 Söhn/S          # Singular hat auch Umlaut!
 söken/QBRPUV söken/qrpu söök/WQBRPUV söchen/DMOQBRPUV   # nochmal prüfen auf Vollständigkeit
-söken süchst/CJAZTUÜGPHVKQXcjaztuügphkqx                # Nieg-ins
-söken sücht/CJAZTUÜGPHVKQXcjaztuügphkqx                # Nieg-ins
 söken ünnersöken ünnersöök ünnersöch/DMO
 Söker/S
 Soldat/n
@@ -4112,7 +4110,7 @@ Speelstärk/n
 Speelstoop/n
 Speeltog Speeltöög
 Speeltüüch     
-speen/AZUGBKsazugk                # Nieg-ins
+spee/AZUGBKs speen/azugk                # todo: klemmt beim Partizip 
 spegel/s
 Spegel/S
 Spektraltyp/n
@@ -4130,7 +4128,7 @@ spiekern/IDWMOQJ spiekern/qj
 Spill/S oder Speel/n       
 spillen/IDWMOGX spillen/gx
 Spinn/n                # HD: Spinne
-spinnen/JUVju   spinn/JUVju   spinnst/JUVju   spinnt/JUVju   spunnen/JUVju                # Nieg-ins
+spinnen/ju ik spinn/JUV du spinnst/JUV he spinnt/JUV ik spunn/JUV spünn/JUV du spunnst/JUV spünnst/JUV he spunn/JUV spünn/JUV wi spunnen/JUV spünnen/JUV spunnen/JUVen
 spioneer/sU spioneren/u
 Spioon/n
 Spiraal/n
@@ -4290,7 +4288,6 @@ supen/UGPVQXugpqx suup/UGPVQX süppst/UGPVQX süppt/UGPVQX suupt/UGPVQX         
 super
 Supp/n
 suus/s
-Süster                # Nieg-ins
 süük/en
 Süük Süken
 süür/en
@@ -4298,10 +4295,12 @@ Süür Süren
 suutje/n
 swach/en swacher/en swachst/en
 swart/en swarter/en swartst/en swatt/en swatter/en swattst/en # HD: schwarz. Mal mit und mal ohne r. Mit r ist Sass. Ohne r ist m.E. häufiger
+Swester/n Süster/n 
 Sweet                # HD: Schweiß
 sweev/sAQRYCJFXÜ sweeven/aqrycjfxü
+swemmen ik swemm du swemmst he swemmt wi swemmt wi swemmen swemmt/en swommen/en swummen/en 
 sweten/IDW                # Nieg-ins
-swiegen/AVa swieg swiggst swiggt swiegt                # Nieg-ins
+swiegen/a ik swieg/AV du swiggst/AV he swiggt/AV ik sweeg/AV du sweegst/AV he sweeg/AV wi swegen/AV swegen/enAV
 swiemelig/en
 Swien		# Pl = Sg
 Swienegel/S      
@@ -4310,7 +4309,6 @@ swinnen/IDWCV swinnen/c swunnen/IDWCV
 swoor/en sworer/en swoorst/en
 Swoorkraft                          
 Swoormetall/n
-swümmen/IDW swommen                # Nieg-ins
 Symbol/n
 symboolsch/en
 Symfonie Symphonien
@@ -4500,9 +4498,7 @@ Trick/S
 Tritt Treed
 troen/MOABTV troen/at troo/DWABTV
 trorig/en troriger/en trorigst/en
-trüch                # Nieg-ins
-trüchgahn                # Nieg-ins
-trüchkamen                # Nieg-ins
+trüch            # todo: all die Komposita davon. Das ist ein langer Zoo               
 Truer        
 Trummel/n    
 trurig/en truriger/en trurigst/en
@@ -4513,7 +4509,7 @@ Tung/n
 Tünn/n
 Tunnel/S
 Turbien Turbinen
-turnen/Fsf                # Nieg-ins
+turn/Fs turnen/f 
 Turnschoh Turnschöh  
 tusch/sJUV tuschen/ju
 Tüüch        
