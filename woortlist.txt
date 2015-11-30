@@ -870,6 +870,7 @@ Brettspill/S oder Brettspeel/n                            # wie nun?
 Brill/n
 Brillenglas Brillenglöös
 bringen/IDWAQRJPYCUVFX bringen/aqrjpycuvfx brochen/IDWMOAQRJPYCUVFX
+bringen mitbringen/IDW                # Nieg-ins
 bringen bröcht                # Nieg-ins die Formen auf ö sind auch häufig
 Broder Bröder
 Brook  Bröök
@@ -1273,7 +1274,7 @@ dörven dörv dörvst dörv dörvt dorv dorvst dorv dorven dörvf # HD: dürfen.
 dorvör            
 dorvun
 Dösch
-döschen/IDW                # Nieg-ins
+dösch/s		# HD: dreschen
 dösig/en
 Dösigkeit/n
 Döst
@@ -2182,7 +2183,7 @@ hebben/AF hebben/af heff/AF hest/AF hett/AF hebbt/AF harr/AF harrst/AF harrn/AF 
 heel/en
 Heelschirm 
 Heeltall/n
-Heen/nS                # Nieg-ins
+Heen/nS   # zwei Pluralformen
 Heerd/n			# HD: Herd
 heet/s  
 Heimat
@@ -2193,7 +2194,9 @@ Held/n
 hell/en heller/en hellst/en
 hellen/IDWMOP hellen/p
 Helligkeit/n
-helpen/IDW                # Nieg-ins
+helpen/IDWQBPUqpu holp/QBPU holpst/QBPU holp/QBPU holpen/QBPU hulpen/QBPU	
+Helper/S
+hölpsch/en
 Hemd/n 
 hen
 Henwies/n
@@ -2236,9 +2239,6 @@ hollen/AQBRJPTYCUVF hollen/aqrjptycuf hool/WAQBRJPTYCUVF höllst/AQBRJPTYCUVF h�
 Holler/S
 hölten/en		# HD hölzern, aus Holz
 Hölp                           
-hölpen/IDWQBPU hölpen/qpu hulpen/IDQBPU
-Hölper/S
-hölpsch/en
 Holt Hölter
 Honnig                # HD: Honig
 Hööchd/en
@@ -2402,8 +2402,7 @@ Jieper                  # HD Gier
 jo
 Johr/n
 Johrdag
-Johrhunnert
-Johrteihnt/s                # Nieg-ins
+Johrhunnert					
 jöök/s # jucken
 jongleer/s 
 Jöögd                # HD: Jugend
@@ -2884,13 +2883,14 @@ löösbor/en
 loosgahn   loosgeiht   loosgeihst   loosgaht   loosgah                # Nieg-ins
 Löösmiddel/S
 Loots/n
-Lööv   Löven                # Nieg-ins
+Lööv/n  # HD: Löwe
 lopen/AQBRJPTYCUVFX lopen/aqrjptycufx loop/WAQBRJPTYCUVFX löppst/AQBRJPTYCUVFX löppt/AQBRJPTYCUVFX leep/DAQBRJPTYCUVFX lepen/AQBRJPTYCUVFX
+lopen rümlopen/DWOM                # Nieg-ins
 Löper/S 
 Lord/S
 löschen/IDWMOUVX löschen/ux
 Löser/S                            
-Lücht/n                # Nieg-ins
+Lücht/n           
 Lück/n
 luern/BP luern/bp luur/DWMOBP
 Luft                           
@@ -2901,7 +2901,7 @@ Lung/n
 lunger/s
 Lünk/n               
 Lust               
-Lüsten                # Nieg-ins
+Lüsten                # HD: Gelüste
 lüstern/IDWMOC lüstern/bc
 lustig/en lustiger/en lustigst/en
 lütt/en lütter/en lüttst/en
@@ -2976,7 +2976,6 @@ Manschett/n
 Mantel/S
 Marathon
 Marathonloop Marathonlööp 
-Margarine                # Nieg-ins
 Marine
 Mark/n
 Mark/n
@@ -3062,7 +3061,7 @@ Middelpunkt/n Middelpünkt # zwei Pluralformen
 middelswoor/en 
 midden
 Middeweek Middeweken
-Miegeemk/n                # Nieg-ins
+Miegeemk/n        
 Miegeem Miegemen
 Miel/n					# HD Meile
 Mikrofon/S
@@ -3093,7 +3092,6 @@ Mist
 mit
 mit'n
 Mitarbeider/S
-mitbringen/IDW                # Nieg-ins
 miteens
 mitenanner
 mitgahn/I                # Nieg-ins
@@ -3427,7 +3425,7 @@ Paster/S   Pastersche/n Pastoor/n   Pastoorsche/e Pastuur/n   Pastuursche/e
 Patroon/n
 Paus/n
 PC
-pedden/ZÜKszük  pett                # Nieg-ins
+pedd/ZÜKs pedden/zük  pett/ZÜKs petten/zük
 Peerd Peer 
 pellen/IDWMOQU pellen/oqu
 Peper
@@ -3493,7 +3491,7 @@ Platzholler/S
 Platz Plätz
 Pleeg                           
 pleeg/sJV plegen/j
-plegen   pleegst   pleegt   pleegden                # Nieg-ins
+pleeg/s					# HD: pflegen
 Pleger/S
 plietsch/en
 plietscherwies
@@ -3598,12 +3596,11 @@ Prozedur/n
 psychedeelsch/en
 Psychologie
 publik/en
-Pudding/S                # Nieg-ins
+Pudding/S
 Puffer/S
 puffer/s   
-Pulli/S                # Nieg-ins
+Pulli/S  
 Pullover/S
-Pullover/S                # Nieg-ins
 pulseren pulseer/DW
 Pund
 Punktatschoon/n
@@ -3611,7 +3608,7 @@ punkteren/HU punkteren/hu punkteer/DWMOHU
 Punkt Punkten Pünkt
 Putzbüdel/S                
 püük                # Nieg-ins
-puusten/ZUÜXzuüx   puust/ZUÜXzuüx   puustden/ZUÜXzuüx                # Nieg-ins
+puust/ZUÜX puusten/zuüx  # nicht /s.  
 Püüster/S
 Pyramied Pyramiden
 quadraatsch/en
@@ -3639,7 +3636,7 @@ Rand Ränner
 Rang Räng
 rank/en
 Rasen/S               
-raseren/QXqx   raseer/QXqx   raseerst/QXqx   raseert/QXqx   raseerden/QXqx                # Nieg-ins
+raseer/sQX raseren/	qx 
 raster/s
 Raster/S
 Rate/n
@@ -3697,7 +3694,7 @@ rekursiv/en
 relativ/en Relativität       
 Relativität/n
 relevant/en
-rennen/CYZÜGXscyzügx                # Nieg-ins
+renn/CYZÜGXs rennen/cyzügx   rönn/CYZÜGXs rönnen/cyzügx # Sass: rennen. Harte: rönnen
 renoveer/s   
 Reparatur/n
 Reporter/S
@@ -3731,9 +3728,8 @@ Riek/n
 Riepde			# ?? wat is dat?
 riepen/IDWMORHU riepen/rhu
 Ries/n
-Ries/n                # Nieg-ins
 rieten/IAQBRJPUVX rieten/aqrjpux  rittst/AQBRJPUVX ritt/AQBRJPUVX reet/DAQBRJPUVX reten/AQBRJPUVX
-Rietversluss   Rietverslüss                # Nieg-ins
+Rietversluss   Rietverslüss       
 rieven/WQRJPVX rieven/wqrjpx riffst/QRJPVX rifft/QRJPVX reev/DQRJPVX reven/QRJPVX
 Riffel/S
 riffelig/en
@@ -3755,7 +3751,7 @@ röhren/IDWMOABTVX röhren/atx
 ROM
 romantsch/en
 Rook                            # HD Rauch
-Röök                # Nieg-ins
+Röök                # kiek ok bi Ruch, HD: Geruch
 rookst   roken                # Nieg-ins
 röömsch/en
 Roop Rööp
@@ -3771,6 +3767,7 @@ Rotor/n
 Routine/n
 röver     
 Rubrik/n
+Ruch                # kiek ok bi Röök, HD: Geruch
 Rüch/n    
 rücken/IDWQYCJPUVFXÜ rücken/qycjpuvfxü
 Rucksack   Rucksäck                # Nieg-ins
@@ -3783,7 +3780,6 @@ rüm # prüfen Komposita rümgahn etc
 rümasen rümaas/DWMO
 rümbuttjern
 rümen/QJPUX rümen/qjpux rüüm/DWMOQJPUX
-rümlopen/DWOM                # Nieg-ins
 Rund/n
 rund runne/n
 Rundstück/n 
