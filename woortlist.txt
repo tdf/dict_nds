@@ -624,14 +624,14 @@ Bessenschapp Bessenschäpp
 Bessensteel/n
 best/en
 Bestell/n
-bestellen @af bestell/s %bestellen # Testfall für neuen Autoexpander
+bestellen $af bestell/s %bestellen # Testfall für neuen Autoexpander
 bestimm/s
 Bestseller/S
 besünner/en
 besünners
 beswiemelt/en
 bet
-betahl/sQAJHTUF betahlen/qajhtuf
+betahlen $af $an $in $na $to $ut $vör  betahl/s %betahlen
 betdat
 beteken   # prüfen swv?
 Beteker/S
