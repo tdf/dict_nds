@@ -94,8 +94,6 @@ Adresstyp/n
 adrett/en
 adschüüs
 af
-afbestell/s
-afbestellen/IDWMO
 Afbild Afbiller
 afbill/s
 afdeck/s
@@ -626,7 +624,7 @@ Bessenschapp Bessenschäpp
 Bessensteel/n
 best/en
 Bestell/n
-bestell/s
+bestellen @af bestell/s %bestellen # Testfall für neuen Autoexpander
 bestimm/s
 Bestseller/S
 besünner/en
@@ -826,7 +824,7 @@ Bornkode
 Borntext/n
 Borntyp/n
 Bost Böst
-böst/sYZRUGPQ böstenyzrugpq            # bürsten
+böst/sYZRUGPQ bösten/yzrugpq            # bürsten
 bööt/sJARB böten/jar                # Feuer anmachen
 Botter
 Botterbroot Botterbrööd
@@ -3094,10 +3092,6 @@ mit'n
 Mitarbeider/S
 miteens
 mitenanner
-mitgahn/I                # Nieg-ins
-mitgeiht                # Nieg-ins
-mitgoht                # Nieg-ins
-mitnehmen                # Nieg-ins
 mitsamts
 Mitschöler/S
 mm
