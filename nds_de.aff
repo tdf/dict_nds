@@ -286,7 +286,8 @@ SFX O en en ten
 # Partizip: maakt => wie 3. Sg. Präsens.
 # Partizip dekliniert: maakte maakten => führt nie zu Vokalveränderung
 SFX s Y 105
-SFX s 0 st
+SFX s 0 st       [^s]
+SFX s 0 t        s
 SFX s 0 t		 [^t]
 SFX s 0 te       [^t]
 SFX s 0 e        t
