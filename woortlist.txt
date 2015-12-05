@@ -731,7 +731,7 @@ bitwies/en
 blaag/en
 Blaag/n
 Blaas/n
-blaas/s  						# prüfen auf Doppels 
+blaas/s 
 blang blangen
 blangenan
 blangenanner
@@ -2875,8 +2875,7 @@ Loof
 Loop Lööp
 Loopwark/n
 loos
-löös/s    
-löös/sQJPU lösen/qjpu # prüfen, ob das richtig autokonjugiert wird => nein, wird es nicht. aflöösst ist falsch
+löös/sQJPU lösen/qjpu 
 löösbor/en
 loosgahn   loosgeiht   loosgeihst   loosgaht   loosgah                # Nieg-ins
 Löösmiddel/S
