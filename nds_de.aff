@@ -287,9 +287,11 @@ SFX O en en ten
 # Partizip dekliniert: maakte maakten => führt nie zu Vokalveränderung
 SFX s Y 105
 SFX s 0 st
-SFX s 0 t
-SFX s 0 te
-SFX s 0 ten
+SFX s 0 t		 [^t]
+SFX s 0 te       [^t]
+SFX s 0 e        t
+SFX s 0 ten      [^t]
+SFX s 0 en       t
 SFX s 0   en     [^aeiouöü][^aeiouöü]
 SFX s 0   n      er
 SFX s 0   n      el
