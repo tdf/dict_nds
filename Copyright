@@ -1,0 +1,40 @@
+hunspell dictionary for Low Saxon
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program; if not, write to the Free Software
+    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+
+Copyright 2015 by 
+    Heiko Evermann <heiko@evermann.de>, Ellerau, Wortlisten und Technik 
+    Heinz Mügge, Verein "De Plattdüütschen e.V.", Landkreis Stade: Motivation
+    Jörn Knabbe vom Verein "De Plattdüütschen e.V.": PM, Wortlisten
+    Thorsten Behrens <thb@documentfoundation.org>  : Projektmanagement
+    
+Unser herzlicher Dank geht an
+    Dr. Rudolf Kinzinger, Mittelsdorf: Ortsnamen, Wortlisten
+    Wolfgand Cordsmeier, Drochtersen: Ortsnamen, Wortlisten
+    Ute Duckstein, Bliedersdorf:  Wortlisten
+    Heinz-Lothar Penner, Buxtehude: Wortlisten
+    Helga Peters, Buxtehude: Wortlisten
+
+sowie an das Institut für niederdeutsche Sprache e.V. Bremen für die freundliche Genehmigung
+zur Nutzung des Orientierungswortschatzes aus http://www.ins-bremen.de/de/recherche/orientierungswortschatz.html 
+"Die Wörter, die Schülerinnen und Schüler nach Abschluss der Grundschule beherrschen sollten"
+
+
+based on 
+Aspell dictionary for Low Saxon (http://sourceforge.net/projects/aspell-nds/)
+Copyright 2004 Heiko Evermann  <heiko.evermann@gmx.de>
+               Soenke Dibbern  <s_dibbern@web.de>
+               Volker Jockheck <volkae@gmx.net>
+Published under GPL 2 or later               
