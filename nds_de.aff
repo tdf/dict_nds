@@ -285,7 +285,7 @@ SFX O en en ten
 # Plural Vergangenheit: maken =>  wie Infinitiv
 # Partizip: maakt => wie 3. Sg. Präsens.
 # Partizip dekliniert: maakte maakten => führt nie zu Vokalveränderung
-SFX s Y 105
+SFX s Y 108
 SFX s 0 st       [^s]
 SFX s 0 t        s
 SFX s 0 t		 [^t]
