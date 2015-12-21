@@ -10,7 +10,7 @@ OUTDIR:=dist
 dict-nds_de.oxt: $(OUTDIR)/Dictionaries.xcu $(OUTDIR)/nds_de.aff $(OUTDIR)/nds_de.dic \
                  $(OUTDIR)/README $(OUTDIR)/description.xml $(OUTDIR)/description-en.txt \
                  $(OUTDIR)/description-de.txt $(OUTDIR)/description-nds.txt \
-                 $(OUTDIR)/META-INF/manifest.xml
+                 $(OUTDIR)/META-INF/manifest.xml $(OUTDIR)/COPYING $(OUTDIR)/Copyright
 	cd $(OUTDIR); zip -r dict-nds_de.oxt *
 
 $(OUTDIR)/Dictionaries.xcu: Dictionaries.xcu
@@ -31,6 +31,10 @@ $(OUTDIR)/description-de.txt: description-de.txt
 	mkdir -p $(OUTDIR); cp description-de.txt $(OUTDIR)/
 $(OUTDIR)/description-nds.txt: description-nds.txt
 	mkdir -p $(OUTDIR); cp description-nds.txt $(OUTDIR)/
+$(OUTDIR)/COPYING: COPYING
+	mkdir -p $(OUTDIR); cp COPYING $(OUTDIR)/
+$(OUTDIR)/Copyright: Copyright
+	mkdir -p $(OUTDIR); cp Copyright $(OUTDIR)/
 
 # cat: die beiden Wortlisten zusammenfuegen
 # sed: wortweise umbrechen
