@@ -1,4 +1,4 @@
-aaa verschoonnullpunktacht # Debug zum Prüfen, ob LibreOffice wirklich die richtige Version geladen hat. Kann später weg. 
+aaa verschooneenpunktnull # Debug zum Prüfen, ob LibreOffice wirklich die richtige Version geladen hat. Kann später weg. 
 Aadboor/S             
 Aadler/S
 Aaft
