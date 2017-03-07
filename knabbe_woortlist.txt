@@ -1,0 +1,832 @@
+Blangenbrett  Blangenbreed  Blangenbreder
+Bisetterbrett  Bisetterbreed  Bisetterbreder
+Armaturenbreed  Armaturenbreder
+Schachbreder
+Speelbreder
+Fohrtüüch   Fohrtügen
+Warktügen
+Speeltügen
+Anleggbrüch/en
+Vörsetten   # Vorsetzen (künstlicher Vorbau vor einem natürlichen Gewässer
+Lannungsbrüch/n
+Utflogschipp Utflogscheep
+Containerbrüch/n
+Containerschipp  Containerscheep
+Containerhaven/S
+Containerümslag
+Fährschipp  Fährscheep
+Fabrikschipp  Fabrikscheep
+Loopplank /n   # Gangway
+Bahnansluss  Bahnanslüss
+Krüüzfohrtschipp Krüüzfohrtscheep
+Krüüzfohrer/S
+Kriegsschipp  Kriegsscheep
+Laadboom   Laadbööm
+Laadluuk  Laadluken
+lichtern/IDWOM   # leichtern
+Haventoll  Haventöll
+Noothelpboot  Noothelpbööd
+Nootring /en
+Schippbrüch/n
+Schipperee   # Schifffahrt (Wirtschaftszweig)
+Schippfohrt /n   # Schifffahrt (Fahrt mit dem Schiff)
+Schippslüüd   # Schiffsbesatzung
+Reeder /S
+Reedersche /n
+Schippsfenster/n
+Bulloog  Bullogen
+Schipper/S
+Schippersche/n
+Kapteinsche/n
+Schippslast/n   # Schiffsladung
+Snellboot  Snellbööd
+Swümmkraan/S
+Seemann  Seelüüd
+Fohrensmann  Fohrenslüüd
+Seeteken /S
+Seilschipp  Seilscheep
+stauen/IDWOM   # stauen
+Steven /S   # Steven
+Fallreep  Fallrepen
+Tanker /S
+Tankschipp  Tankscheep
+Tünnenlegger /S
+Musikdamper/S
+Droomschipp  Droomscheep
+Ünnerseeboot  Ünnerseebööd
+Verladen   # Verladung
+Waterspegel /S
+Winsch /n   # Winde
+köhlen/UQIDWOMuq
+Andromeda/S
+Lüttsteern/S   # Asteroid
+Lüttsteerngördel/S
+Steernfohrer/S
+Weltruumfohrer/S
+Steernkieker/S
+Steernkunn  Steernkünn
+Steernkiekersche/n
+Butenmantel/S
+Bagengraad
+Bagensekunn /n
+Cassiopeia
+Chromosphäär
+Winkelafstand   # Deklination
+Deklinatschoon /S
+Dubbelsteern/S
+Eerdkrüper/S   # Eidechse
+Iesenkarn
+Eerdbahn   # Ekliptik
+elektromagneetsch/e
+utbreden   # expandierend
+expanderen    # expandierend
+Fackel
+Kiekglas Kiekgläser
+Kiekrohr
+Füerball
+Fixsteern/S
+Fröhjohrspunkt/e
+Gas
+Gashüll
+Steenkarn
+Steenmantel
+Steernen/e
+Antreckkraft   # Gravitation
+Antreckfeld  Antreckfeller
+Gravitatschoonsfeld Gravitatschonsfeller
+Helium
+Hevenäquator
+Hevennoordpool
+Hevensüüdpool
+Achtergrundstrahlen
+Binnenmantel/S
+Binnenatmosphäär
+Binnenkarn
+interplanetoorsch/e
+interstelloor/e
+Karnsmölten/S
+Karnfuschoon/S
+Krust/e
+kugelig
+Kugelhopen/S
+Luftpump/n
+Magnetfeld Magnetfeller
+Magnetosphäär
+Mesosphäär
+Steernsnupp/n
+ Meteor/S
+Meteorid/n
+Maandverdüüstern
+Maandloop
+Maandböversiet
+Neemaand
+Steernwacht/n
+Observatorium
+Oktant
+Pennelklock/n
+Wannersteern/S   # Planet
+Steernenhuus Steernenhüüser   # Planetarium
+Polarkapp
+Polarlicht Polarlichter
+Polarsteern/S
+Radiowellen
+Ruumantog Ruumantüch
+Ruumfähr
+Ruumfohrt/n
+Ruumfohrtüch Ruumfohrtüge
+Ruumsond
+Rotatschoon/n
+Rotatschoonsass/n
+Sweertfisch/e
+Sommersünnenwenn
+Sünnenverdüüstern
+Sünnenplacken
+Sünnenloop
+Sünnensystem/e
+Sünnenwind/e
+Steern /S
+Steernhopen/S
+Steernsnupp /n
+Steernwacht /n
+Stratosphäär/n
+Lüttstdeel/e   # Teilchen
+Thermosphäär
+Deertenkrink/n   # Tierkreis
+Troposphäär
+Universum
+Oorknall
+Weltruumstaschoon/n
+Weltruumfeernrohrp
+Winkelgraad/e
+Winkelmaat/n
+Wintersünnenwenn
+bioloogsch/e
+Affallwegmaken    # Abfallbeseitigung
+Affalltlagern
+Affallverhinnern
+Affallweertschop
+Afgas/e
+Afwarms
+Afwater/S
+Affallverbrennen
+Agrorpolitik
+Akschoonsprogramm/e
+Överreakschoon/n   # Allergie
+Anlaag /n
+anorgaansch /e
+Driever /S   # Anreiz
+Antibiotikum Antibiotika
+Verbott/n
+Waterkultur/n   # Aquakultur
+Oortenschuul
+Atomutstieg/e
+Atomenergie /e
+Atomkraftwark /e
+Oplaag/n
+Utgliek/n
+Utglieksrebeet  Utglieksrebeden/n
+Autobahntoll Autobahntöll
+Ooltiesen
+Baadverbott /n
+Bakterien
+Bakteriengift/e   # Bakterizide
+Bobiologie   # Baubiologie
+bestännig/e
+duersam/e
+betrocken,
+Biodiesel
+Biogas
+Bionik
+Bioökologie
+Biosphäär /n
+Biotunn  Biotünn
+Biotop /e
+Boddenlast/n   # Bodenbelastung
+Brennweert/e
+Bries   # Brise
+BSE
+Bundsgesett/n
+Bundssamt Bundesämter
+Bundssminister/S
+Bundssministerium Bundesministerien
+Bundsverband Bundesverbänn
+Börgerinitschativen
+Chemiepolitik
+cheemsch /n
+Deponie
+Dereguleren/S   # Deregulierung
+Bundsstiften   # Bundesstiftung
+Ümweltstiften   # Umweltstiftung
+Dünger   # Düngemittel
+Düngergesett   # Düngemittelgesetz
+Eenwegwoor/n   # Einwegprodukt
+Överfreren
+Glatties
+Emischoon/n
+Endlagern
+Stroomspoorlamp /n
+Energiespoorlamp /n
+Energiedreger/S
+Enegiewenn
+Energieweertschop
+Kommischoon   # Kommission
+Eerdbeven /S
+Eerdwarms
+Landweertschop
+nawassen    # erneuerbar
+Eroschoon/S
+Richtsnoor Richtsnören   # Richtlinie
+Fienstoff   # Feinstaub
+Fischeree
+Bruukplaan/S
+Feldümleggen
+Forstweertschop
+Konventschoon/S
+Intressengrupp/n
+Tied  Tide Tiden/n   # Gezeit
+Gift /n
+Glätt
+Luftversmudden   # Luftverunreinigung
+Grenzweert /e
+Grundwater
+Plantengift/e   # Herbizide
+Hoochdruckrebeet Hochdruckrebeden
+Hoochnevel
+Hoochwater
+Hygieen
+Immischoon/n
+Küll
+Kooltfront
+Katalysater /S
+Karnenergie
+Karnkraftwark /e
+Klooranlaag /n
+Klima
+Kahlendioxid
+Kahlenmonoxid
+Kahlenwaterstoff
+Kumpost
+Kontaminatschoon/S
+Konverschoon/S
+Krinkloop/e
+Kulturlandschop/n
+Lehrpadd/n
+Vörbild  Vörbiller
+Lösmiddel
+Toll  Töll
+Stratentoll  Stratentöll
+Meerversmuddden   # Meeresverschmutzung
+Minaralööl
+Maand
+Maandopgang
+Maandschien
+Maanddüüsternis
+Maandünnergang
+Nohrenkeed/n
+Natschonalpark/S
+Natur
+Naturbeleven
+Naturkatastrooph/n
+Naturwetenschop/n
+Nevel
+Nevelbank Nevelbänk
+Neveldeek
+Siedwater   # Niedrigwasser
+nukleor   # nuklear
+ökoloogsch /e
+Ökostüer Ökostüern
+Öölpest/n
+Pandsystem/n
+Photosynthees/n
+PVC
+Rapsööl
+Wedderverwerten   # Recycling
+Regenbagen/S
+Regenfront
+Flaag /n   # Regenguss
+Regenwoold/n
+Regenweer
+Regenwulk/n
+Regentiet
+Schimmelswamm Schimmelswämm
+Slüüs/n
+Slüsendoor Slüsendoren
+Sneefall Sneefäll
+Sneematsch
+Sneedauen
+Sneedrieven
+Sneeverweihen /S
+Swoormetall /e
+Rooknevel   # Smog
+Sünnenlichtanlaag/n   # Solaranlage
+Sünnenlichtzell/n
+Sünnenopgang Sünnenopgäng
+Sünnenenergie
+Sünnendüüsternis   # Sonnenfinsternis
+Sünnenschien
+Sünnenstrahl/n
+Sünnenünnergang  Sünnenünnergäng
+Praat-Stand    # Stand-by-Modus
+Stoff
+Stoffwessel/S
+Stöörfall Stöörfäll
+Stratosphäär
+stratosphäärsch /e
+Stroomspieker /S
+Stormbö /n
+störmen/IDWOM
+Stormfloot  Stormfloten
+stöörmsch/e
+Deepdruckrebeet  Deepdruckrebeden/n
+Deertenversöök Deertenversöken
+Drievhuuseffekt /e
+Drievhuusgas /e
+Tropenholt Tropenhölter
+Ümwelt
+Ümweltafgaav/n
+Ümweltbundsamt Ümweltbundesämter
+Ümweltlotterie
+Ümweltmedizin
+Ümweltministers
+Ümweltorganisatschoon /n
+Ümweltpolitik
+Ümweltrecht
+Ümweltdag /e
+Ümweltversmudden/S
+ümweltverdrääglich/e
+Ümweltwetenschop/n
+Ünnernehmensverband Ünnernehmensverbänn
+Verbandsklaag Verbandsklaagen
+anorgaansch/e
+Verbrukerinformatschoon /n
+Verbrukerschuul   # Verbraucherschutz
+Verbrukerzentraal Verbrukerzentralen
+Versmudden/S   # Verunreinigung
+Verweerten
+thermsch/e
+Vörsorg
+Wassdom
+Wooldpolitik
+Wooldstarven
+weltwied/en   # global
+warm /n   # warm
+Warmsdämmen
+Warmspump/n
+Warmstuuscher
+Warmfront
+Waschmiddel
+Waterhuusholt Waterhuusholden
+Waterkraft
+Waterkraftwark/e
+Pegelstand Pegelstänn
+Pegelstandsmellen/S
+Waterversmudden/S
+Waterweertschop
+Waddenmeer
+Wedderutsicht/n
+Wedderbericht /e
+Wedderdeenst/e
+Wedderkoort Wedderkorden
+Wedderprognoos/n
+Wedderstatschoon Wedderstatschonen
+Wedderümslag
+Weddevörutseggen
+Wedderwessel/S
+Windenergie
+winnig/en
+Windkraft
+Windkraftanlaag/n
+Windrad Windrööd
+windstill/e
+troopsch/e
+Küselstorm Küselstörm
+Wulkenstört/n
+Wulkenbank Wulkenbänk
+Twüschenlagern   # Zwischenlagerung
+Achterhand   Achterhannen
+Affohrtsloop  Affohrtslööp
+Afsmieten/S
+Afsprungbalken/S
+Afsprunglien/n
+stoppen/ZTUVQXIDWOMq
+Afstöten   Afstööt   # Abstoß
+Afwehrdrüddel/S
+Afwehrer /S
+Afwehrwies/n
+Angaavruum   Angaavrüüm
+Angreepslien/n
+Angreepswies/n
+Angreepszoon/n
+Angrieper /S
+Angriepersche/n
+Anleggerspant/n   # Auslegerspant
+Anloopbahn/n
+Anschriever /S
+Anschrieversche/n
+Anspeelkrink/n
+Anspeelpunkt   Anspeelpünkt/n
+Auerbachsprung   Auerbachsprüng
+Baadbüx /n
+Baadkapp/n
+Backboord
+Backenstück/n
+Badminton
+Badmintonball   Badmintonbäll
+Badmintonplatz   Badmintonplätz
+Badmintonsläger /S
+Barrieer/n
+Basketballschoh   Basketballschöh
+Beenschuler/S
+Betonbodden/S
+Binnenafwehrer /S
+Binnenafwehrersche/n
+Binnenboord
+Bostswömmen
+Boxen
+Boxer/S
+Boxersche/n
+Butenafwehrer/S
+Butenafwehrersche/n
+Butenangrieper/S
+Butenangriepersche/n
+Butenrichter/S
+Butenrichtersche/n
+Butensiet   Butensieden
+Dämper/S
+Degen/S
+Diskusanlaag   Diskusanlagen
+Diskusring/n
+Diskussmieten
+Diskusworp   Diskuswörp
+Doorafwehrer/S
+Doorafwehrersche/n
+Doorfro   Doorfroons
+Doorfru   Doorfruuns
+Doorhöder /S
+Doorhöderbüx/n
+Doorhöderhelm/n
+Doorhöderhemd   Doorhöderhemmen
+Doorhöderlien/n
+Doorhödersche/n
+Doorhöderschien /n
+Doorhödersläger /S
+Doorkrink/n
+Doorlien/n
+Doorlien /n
+Doornett/n
+Doorposten/S
+Doorrichter/S
+Doorrichtersche/n
+Doorruum   Doorrüüm
+Doorscheedsrichter /S
+Doorscheedsrichtersche/n
+Draffrennen /S
+Draverpeerd   Draverpeer
+Dreesprung   Dreesprüng
+Dreesprungbalken /S
+dribbeln/IDWOM
+Dubbelpaddel /S
+Dubbeltweer/S   # Doppelzweier
+Eckfahn/n
+Eckpahl   Eckpöhl
+Ellbagenplatt/n
+Ellbagenpolster/S
+Ener
+Enerkajak/S
+Enerrönnboot   Enerrönnbööd   # Einerrennboot
+Fanghand   Fanghannen
+Fastpunkt   Fastpünkt/n
+Fechten
+Fechthandschoh   Fechthandschöh
+Fechtschoh   Fechtschöh
+Feldscheedsrichter /S
+Feldscheedsrichtersche/n
+Feldspeler/S
+Feldspelerhelm/n
+Feldspelersche/n
+Feldspelersläger /S
+Fleerling    # Schmetterling
+Flögelspeler/S
+Florett
+Footballplatz   Footballplätz
+Footballschoh   Footballschöh
+Footballstevel /n
+Footschuler/S
+Foul/S
+Freestoot
+Gegenstreek   Gegenstreken
+Gesichtschuler/S
+Gesichtsmask/n
+Glasfaserski   Glasfaserskier
+Gliekstand   Gliekstänn
+Golfball   Golfbäll
+Golfschoh   Golfschöh
+Grasbahn/n
+Grasbodden/S
+Greep   Grepen
+Greepslööp   Greepslöpen
+Grundlien /n
+Hackenstütt/n
+Haken /S
+Hallenspeel   Hallenspelen
+Hals   Hälsen/n
+Halter/S
+Hamersmieten
+Handball   Handbäll
+Handballtospeel  Handballtospelen
+Handkant /n
+Handschoh   Handschöh
+Hartgummischiev/n
+Hinner/n   # Hindernis
+Hinnernis/n   # Hinnernis
+Hinnernis-Parcours
+Hinnernisrennen/S
+Holtski   Holtskier
+Holtsläger/S
+Hoochsprung   Hoochsprüng
+Hoochsprungmatt/n
+Hoof   Hoven
+Hoofkroon   Hoofkronen
+Hööftangrieper /S
+Hööftangriepersche /n
+Iesbahn/n
+Ieshockey
+Ieshockeyfeld   Ieshockeyfeller
+Inrullen 
+Insteek/S
+Judo
+Judomatt/n
+Kajak
+Kampflaag   Kampflääg/n   # Kampffläche
+Kampgericht/n
+Kamprichter/S
+Kamprichtersche /n
+Kampsport
+Kanu/S
+Karate
+Karateka/S
+Kell/n
+Kinnreem/S
+Kling/n
+Kneepolster/S
+Knoop   Knööp
+Korfball   Korfbäll
+Krinklöper/S
+Kugelstöötring/n
+Kugelstöten
+Kunstspringen
+Kunststoffbodden/S
+Latt/n
+Lichtathletik
+Lienenrichter/S
+Linksbuten
+Lock   Löcker
+Loopbahn/n
+Mannschop   Mannschoppen
+Mannschopsbank   Mannschopsbänk
+Matt /n
+Mattenrichter /S
+Mattenrichtersche /n
+Middelangrieper /S
+Middelangriepersche /n
+Middeldrüddel/S
+Middelfeldspeler/S
+Middelkrink/n
+Middellien/n
+Middelstörmer/S
+Nettball   Nettbäll
+Nettkant/n
+Nettscheedsrichter/S
+Nettscheedsrichtersche/n
+noordsch/en
+Ölvenmeter/S
+Ölvenmeterpunkt
+Öövflach   Öövflääg/n   # Übungsfläche
+Öövrebeet   Öövrebeden   # Übungsbereich
+Opbospeler /S
+Opgaavruum   Opgaavrüüm
+Opsläger/S
+Opslagfeld   Opslagfeller
+Opslagfeldlien/n
+Opslaglien/n
+Opslagzoon/n
+Optakt/n
+Opwartshaken/S
+Paddel/S
+Peerrennen/S
+Peersport
+Plank/n
+Posten/S
+Protokollblatt   Protokollbläder
+Protokollföhrer/S
+Punktrichter /S
+Punktrichtersche/n
+Rasenballspeel   Rasenballspelen
+Rechtsbuten
+Riedbüx/n
+Rieder/S
+Riedjack/n
+Riedsport
+Riedstevel/n
+Ringrichter/S
+Roder/n
+Rodersport
+Roderwettstriet   Roderwettstrieden
+Rullbahn/n
+Sandbahn/n
+Sandbodden/S
+Sandkuhl/n
+Sandlock   Sandlöcker
+Schanz/n
+Schanzendisch/n
+Scheedsgericht/n
+Scheedsrichter /S
+Scheedsrichtersche/n
+Schruuvstoll/n
+Seilboot   Seilbööd
+Siedenlien/n
+Skibrill/n
+Skiflegen
+Skihandschoh   Skihandschöh
+Skispringen
+Skisprung   Skisprüng
+Skistevel/n
+Skistock   Skistöck
+Släger/S
+Slagwies/n
+Slalom
+Speelbahn/n
+Speersmieten
+Spelerwessel/S
+Springpeerd   Springpeer
+Springrieden
+Springsaddel/S
+Squashball   Squashbäll
+Squashhoff   Squashhööv
+Staffhoochsprung   Staffhoochsprüng
+Startblock   Startblöck
+Steernband   Steernbänner
+Stiegbögel/S
+Stöötwies/n
+Stoppklock/n
+Störmerrups/n   # Stürmerfoul
+Straafbank   Straafbänk
+Straaflien/n
+Straafruum   Straafrüüm
+Strieder/S
+Striedschoh   Striedschöh
+Stüerboord
+Stüermann   Stüerlüüd
+Sweetband   Sweetbänner
+Swemmantog   Swemmantöög 
+Swemmbecken/S
+Swemmer/S
+Swemmersche/n
+Swemmwest/n
+Swemmwettstriet   Swemmwettstrieden
+Tellwies/n
+Tennis
+Tennisball   Tennisbäll
+Tennishemd   Tennishemmen
+Tennisplatz   Tennisplätz
+Tennisrock   Tennisröck
+Tennisschoh   Tennisschöh
+Tennissläger /S
+Tennissock/n
+Tögel/S
+Toom   Tööm
+Toomtüüch
+Trüchsläger /S
+Trüchslägersche /n
+Trüchslagspeel   Trüchslagspelen   # Rückschlagspiel
+Utlegger/S
+Utwesselbank   Utwesselbänk
+Utwesselspeler/S
+Utwesselspelersche/n
+Volleyball   Volleybäll
+Volleyballfeld   Volleyballfeller
+Volleyballnett/n
+Wagenrennen /S
+Wand Wänn
+Watergraven/S
+Wietspringen
+   # Flegeree 
+Affloog /e   # Abflug
+Afflooghall /en
+Affloogtiet /en
+afheven
+afheev
+Anslussfleger/S
+Waterglitschen   # Aquaplaning
+Aquaplaning
+Cockpit/S
+Pilotenkabien /S
+Direktfloog
+Direktflöög
+Düüs /en
+Düsenfleger /S
+Infloog
+Inflöög
+Fleger /S
+Flegerafwehr /en
+Flegerafwehrkanoon /en
+Flegerafwehrrakeet /en
+Floogbahn /en
+Flooggesell/en   # Flugbegleiter
+Flooggesellin/en
+Floogbenzin /e
+fleegkloor   # flugbereit
+fleegpraat
+Floogbedrief /e
+Waterfleger /S
+Floogdatenschriever/S
+floogdüchtig
+Flooggast /en
+Flegersellschop/en
+Flooghaven /S
+Flegerhavenrestaurant /S
+Flooghavenrestaurant /S
+Flooghööchd/en
+Floogkaptein/e
+Floogkapteinsche/n
+Floogkoort /en
+Floogkilometer /S
+Floogkontroll /en
+Flegerlarm
+Flooglehrer /S
+Flooglehrersche /n
+Floogleid /en
+Flegersellschop /en
+Flegerloots /en
+Flegerlootsche /n
+Floogpassageer /e
+Flegerpassageer /e
+Floogplaan /S
+Floogplatz
+Floogplätz
+Flegerplatz
+Flegerplätz
+Floogpositschoon /en
+Floogreis /en
+Flegerreis /en
+Mitfleger /S
+Mitflegersche /n
+Floogricht /en
+Floogschien /S
+Floogsnees /en   # Flugschneise
+Floogschriever /S
+Floogschöler /S
+Floogschölersche /n
+Floogsekerheit /en
+Floogsekern
+Floogstieg /e
+Floogstreek /en
+Floogstünn /S
+Floogtechnik/en
+floogtechensch
+Floogticket /S
+Flegerticket /S
+Floogundüchtigkeit /en
+floogundüchtig
+Floogansluss
+Flloganslüss
+Floogverkehr /e
+Flegerverkehr /e
+Luftfohrt
+Flegeree
+Floogwedder
+Floogwedderdeenst /e
+Floogtiet /en
+Flegerbo
+Flegerföhrer /S
+Flegerföhrersche /n
+Flegerhall /en
+Flegerdreger/S
+Flegerschipp
+Flegerscheep
+Gangway/S
+Heevschruver/S
+Kampfleger /S
+Kampjet /S
+Kortstrekenfleger /S
+Lannbahn/en
+Lannverlööf /e
+Langstrekenfleger /S
+Luftfohrtsellschop/en
+Nachtfloog
+Nachtflöög
+Nootutgang
+Nootutgäng
+Nootrutsch /en
+Pilot/en
+Torüchfloog
+Torüchflöög
+Suerstoffmask /en
+Swemmwest /en
+losflegen
+losfleeg/DWOM
+Affloogverlööf /e
+Kontrolltoorn/S
+Töövreeg /en
+Weltruumfohrtüüch   Weltruumfohrtügen
+Weltruumrakeet /en
