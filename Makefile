@@ -39,8 +39,8 @@ $(OUTDIR)/Copyright: Copyright
 # cat: die beiden Wortlisten zusammenfuegen
 # sed: wortweise umbrechen
 # grep: Leerzeilen entfernen
-nds.wl: woortlist.txt egennaams.txt
-	cat woortlist.txt egennaams.txt | perl preprocess.pl \
+nds.wl: woortlist.txt egennaams.txt knabbe_woortlist.txt
+	cat $+ | perl preprocess.pl \
 	sed {"s/-/\n/g;s/[\(][^\)]*[\)]//g;s/\ *\#.*//g;s/ /\n/g"} | grep [a-zA-ZäÄöÖüÜß\/] > $@
 
 # Anzahl Eintraege ermitteln. Direkter Aufruf von wc wuerde "#Anzahl
