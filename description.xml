@@ -2,7 +2,7 @@
 <description xmlns="http://openoffice.org/extensions/description/2006"
     xmlns:xlink="http://www.w3.org/1999/xlink"
     xmlns:lo="http://libreoffice.org/extensions/description/2011">
-     <version value="1.0"/>
+     <version value="1.1"/>
      <identifier value="net.thebehrens.dictionary.nds_de"/>
      <publisher>
         <name xlink:href="http://lern-platt.de/plattdeutsche-rechtschreibpruefung/" lang="de">Jörn Knabbe &amp; Thorsten Behrens &amp; Heiko Evermann</name>
@@ -10,7 +10,7 @@
      <display-name>
         <name lang="en">Low German spelling dictionary</name>
         <name lang="de">Niederdeutsches Wörterbuch</name>
-        <name lang="nds">Plattdüütsch Wöörnbook</name>
+        <name lang="nds">Plattdüütsch Wöörbook</name>
      </display-name>
      <platform value="all" />
      <extension-description>

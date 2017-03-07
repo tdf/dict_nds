@@ -1,8 +1,12 @@
-Plattdüütsch Wöörnbook
+Plattdüütsch Wöörbook
 
 Nu kannst Du en Text in OpenOffice as Plattdüütsch markeren:
 Menü Extras/Sprache/Für den gesamten Text/Mehr...
 Denn geiht en Dialog op un dor muttst Du "Niederdeutsch" rutsöken.
+
+Mehr Infos:
+  http://lern-platt.de/plattdeutsche-rechtschreibpruefung/
+  http://platt.knabbe.net/
 
 Based on hunspell-nds-0.1.zip and the included Aspell dictionaries,
 copyright 2004 by
@@ -10,6 +14,7 @@ copyright 2004 by
   Soenke Dibbern  <s_dibbern@web.de>
   Volker Jockheck <volkae@gmx.net>
 
-
-
-
+Updates 2015, 2017 copyright by
+  Heiko Evermann   <heiko.evermann@gmx.de>
+  Jörn Knabbe      <knabbe@web.de>
+  Thorsten Behrens <thb@documentfoundation.org>
