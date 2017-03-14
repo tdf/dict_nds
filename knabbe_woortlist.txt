@@ -727,7 +727,6 @@ Düüs /en
 Düsenfleger /S
 Infloog
 Inflöög
-Fleger /S
 Flegerafwehr /en
 Flegerafwehrkanoon /en
 Flegerafwehrrakeet /en
@@ -762,8 +761,6 @@ Flegerlootsche /n
 Floogpassageer /e
 Flegerpassageer /e
 Floogplaan /S
-Floogplatz
-Floogplätz
 Flegerplatz
 Flegerplätz
 Floogpositschoon /en

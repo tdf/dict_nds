@@ -1806,7 +1806,8 @@ Fleit/n
 fleten/QRJUX fleten/qrjux fleet/QRJUX flüttst/QRJUX flütt/QRJUX floot/DQRJUX floten/QRJUX flaten/QRJUX
 flicken/IDWMOAJPZKTU flicken/ajpzktu
 flietig/e               
-Floog Flöög                            
+Floog Flöög
+Floogplatz Floogplätz
 Flöök Flöken
 Floppy                           
 Flott                            
