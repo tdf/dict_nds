@@ -10,12 +10,7 @@ Anleggbrüch/en
 Vörsetten   # Vorsetzen (künstlicher Vorbau vor einem natürlichen Gewässer
 Lannungsbrüch/n
 Utflogschipp Utflogscheep
-Containerbrüch/n
-Containerschipp  Containerscheep
-Containerhaven/S
-Containerümslag
 Fährschipp  Fährscheep
-Fabrikschipp  Fabrikscheep
 Loopplank /n   # Gangway
 Bahnansluss  Bahnanslüss
 Krüüzfohrtschipp Krüüzfohrtscheep
@@ -38,12 +33,8 @@ Bulloog  Bullogen
 Schipper/S
 Schippersche/n
 Kapteinsche/n
-Schippslast/n   # Schiffsladung
-Snellboot  Snellbööd
 Swümmkraan/S
-Seemann  Seelüüd
 Fohrensmann  Fohrenslüüd
-Seeteken /S
 Seilschipp  Seilscheep
 stauen/IDWOM   # stauen
 Steven /S   # Steven
@@ -55,7 +46,6 @@ Musikdamper/S
 Droomschipp  Droomscheep
 Ünnerseeboot  Ünnerseebööd
 Verladen   # Verladung
-Waterspegel /S
 Winsch /n   # Winde
 köhlen/UQIDWOMuq
 Andromeda/S
@@ -554,17 +544,6 @@ Ieshockey
 Ieshockeyfeld   Ieshockeyfeller
 Inrullen 
 Insteek/S
-Judo
-Judomatt/n
-Kajak
-Kampflaag   Kampflääg/n   # Kampffläche
-Kampgericht/n
-Kamprichter/S
-Kamprichtersche /n
-Kampsport
-Kanu/S
-Karate
-Karateka/S
 Kell/n
 Kinnreem/S
 Kling/n
@@ -801,7 +780,6 @@ Flegerhall /en
 Flegerdreger/S
 Flegerschipp
 Flegerscheep
-Gangway/S
 Heevschruver/S
 Kampfleger /S
 Kampjet /S
@@ -810,12 +788,6 @@ Lannbahn/en
 Lannverlööf /e
 Langstrekenfleger /S
 Luftfohrtsellschop/en
-Nachtfloog
-Nachtflöög
-Nootutgang
-Nootutgäng
-Nootrutsch /en
-Pilot/en
 Torüchfloog
 Torüchflöög
 Suerstoffmask /en
@@ -824,6 +796,5 @@ losflegen
 losfleeg/DWOM
 Affloogverlööf /e
 Kontrolltoorn/S
-Töövreeg /en
 Weltruumfohrtüüch   Weltruumfohrtügen
 Weltruumrakeet /en

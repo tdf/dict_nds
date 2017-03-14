@@ -946,6 +946,10 @@ cm
 Code/S
 codeer/s
 Comic/S
+Containerbrüch/n
+Containerschipp  Containerscheep
+Containerhaven/S
+Containerümslag
 Copyright
 CPU
 da
@@ -1665,6 +1669,7 @@ Exzentrizität
 faak faaker faakst faken fakener fakenst
 faat/s    
 Fabrik/n  
+Fabrikschipp  Fabrikscheep
 Fach/n
 Fachfru
 Fachmann Fachlüüd                     
@@ -1941,6 +1946,7 @@ gahn wiedergahn                # Nieg-ins
 gahn hoochgahn/IDW                # Nieg-ins
 Galaxie/n
 Gang Gäng
+Gangway/S
 ganz/en
 Garantie/n
 Gas/n
@@ -2407,6 +2413,8 @@ jongleer/s
 Jöögd                # HD: Jugend
 Journalist/n
 Joystick/S
+Judo
+Judomatt/n
 jüm
 jümehr
 jümmer/S ümmer
@@ -2423,6 +2431,7 @@ kachel/sJU
 Kaffee      
 Kakao       
 kaak/JARTUPHBFVQs kaken/jartuphfq 
+Kajak
 kakendig				# wat is dat?
 Kalenner/S Klenner/S
 kalibreer/s
@@ -2431,9 +2440,15 @@ kamen hoochkamen/IDW                # Nieg-ins
 Kamer/n                # HD: Kammer, Zimmer
 Kamera/S
 kämm/RUGHs kämmen/rugh      
-Kamm   Kämm               
+Kamm   Kämm        
+Kampflaag   Kampflääg/n   # Kampffläche
+Kampgericht/n
+Kamprichter/S
+Kamprichtersche/n
+Kampsport
 Kanal/S			# Plural prüfen
 Kanink/n            
+Kanu/S
 Kant/n
 Kantüffel/n Kantüffel/S		# prüfen Plural
 Kapitel/S
@@ -2441,7 +2456,9 @@ kapsel/s inkapsel/s
 Kapsel Kapseln
 kapseln/IDWMOQJV kapseln/qj
 Kaptein/S           
-Kapuuz/n            
+Kapuuz/n
+Karate
+Karateka/S
 Kark/n
 Kark/n
 Karkhoff Karkhööv
@@ -3166,6 +3183,7 @@ Naam/S
 Naamruum Naamrüüm      
 Naamwoort Naamwöör     
 Nacht/n
+Nachtfloog Nachtflöög
 Nachtschicht/n
 Nadel/ns			 # Plural auf -n und auf -s
 Nafraag/n
@@ -3242,6 +3260,8 @@ nööm/sÜ
 noord/n
 Noorden Noord Noordwest Noordoost     
 noot
+Nootutgang Nootutgäng
+Nootrutsch/n
 Norm/n
 normal/en
 normalerwies
@@ -3453,6 +3473,7 @@ pielliek/en
 piellieks
 pielrecht/en
 piep/s 
+Pilot/n
 PIN
 Pingel/S
 pingeln/IDWMOARYGF
@@ -3859,6 +3880,7 @@ Schildkrööt/n
 Schildpadde                      # prüfen. HD Schildkröte?
 schimp/UBs schimpen/u
 Schipp Scheep
+Schippslast/n   # Schiffsladung
 Schirm/n
 Schoh   Schöh 
 Schokolaad/n
@@ -3927,7 +3949,9 @@ se
 Seemiel/n
 Seep                # Nieg-ins
 See Seen # das geht wohl nicht mit /n
+Seemann  Seelüüd
 Seesteern			# Plural?
+Seeteken /S
 seggen/IDWMOAQRPTUVF seggen/aqrptuf see/DAQRPTUVF seen/AQRPTUVF
 seggen afsegg/s
 Segment/n
@@ -4044,7 +4068,9 @@ Snee
 Sneeflaag/n				# prüfen
 Sneekristall/n
 Sneemann/S           
-Sneeregen Sneestorm                            
+Sneeregen Sneestorm 
+snell/en          
+Snellboot  Snellbööd
 Snick/n                # Schnecke 
 snieden/IWAQBRJPTUVX snieden/aqrjptux snittst/AQBRJPTUVX snitt/AQBRJPTUVX sneed/DAQBRJPTUVX sneden/AQBRJPTUVX
 Snippel/S 
@@ -4459,6 +4485,7 @@ toünnerst
 Tourist/n
 toveel/en
 töven/Q töven/q tööv/DWQ
+Töövreeg/en
 Töveree Tövereen
 Töverer/S
 toverlässig/en
@@ -4784,6 +4811,7 @@ Waterkant
 Waterketel/S
 Watermöhl/n
 Waterpott
+Waterspegel/S
 Waterstoff
 Waterstraat Waterstraten
 Watertünn/n
