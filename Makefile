@@ -39,7 +39,7 @@ $(OUTDIR)/Copyright: Copyright
 # cat: die beiden Wortlisten zusammenfuegen
 # sed: wortweise umbrechen
 # grep: Leerzeilen entfernen
-nds.wl: woortlist.txt egennaams.txt knabbe_woortlist.txt
+nds.wl: woortlist.txt egennaams.txt 
 	cat $+ | perl preprocess.pl \
 	sed {"s/-/\n/g;s/[\(][^\)]*[\)]//g;s/\ *\#.*//g;s/ /\n/g"} | grep [a-zA-ZäÄöÖüÜß\/] > $@
 
