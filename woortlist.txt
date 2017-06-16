@@ -1,4 +1,4 @@
-aaa verschooneenpunkteen # Debug zum Prüfen, ob LibreOffice wirklich die richtige Version geladen hat. Kann später weg.
+aaa verschooneenpunkttwee # Debug zum Prüfen, ob LibreOffice wirklich die richtige Version geladen hat. Kann später weg.
 Aadboor/S
 Aadler/S
 Aaft
@@ -20,7 +20,6 @@ Aas
 Aaskraam
 Aaskreih/n
 Aasvagel/S
-Abalster # wat is dat?
 abasig/en
 Abitur
 abstrakt/en
@@ -28,7 +27,7 @@ ach
 acht/en
 Achtdaagsklock/n
 Achtdaagstiet # glööv nich, dat dat en Mehrtall hett
-Achtelstell # Mehrtall?
+Achtelstell Achtelstellen 
 achten/IDWMOBV
 achter
 achter'nanner
@@ -51,7 +50,7 @@ Achtergrundprogramm/n
 Achtergrundstrahl/n
 Achterhand Achterhänn Achterhannen # wi weet wedder nich wat wi wullt...
 Achterhand   Achterhannen
-Achterhöörn # hett keen Mehrtall, oder?
+Achterhöörn # hett keen Mehrtall
 Achterkant/n
 Achterklapp/n
 Achterkopp Achterköpp
@@ -86,7 +85,7 @@ Adjektiv/n
 Adjüüs
 Administrater/S # bitte nich op -tor...
 Administratschoon
-Adress/n
+Adress/n E-Mail-Adress/n
 Adressat/n
 Adressbook Adressböker
 adresseer/s
@@ -123,7 +122,7 @@ Afgang Afgäng
 Afgas/e
 afgrenz/s
 Afgrenzer/S
-Afgunst # ik meen: hett keen Mehrtall
+Afgunst # hett keen Mehrtall
 afgünstig/en
 afhaal/s
 afhangig/en
@@ -175,7 +174,7 @@ Aftaster/S
 Afteek/n
 Afteker/S
 Aftellriemel Aftellriemels
-Aftog                            # Plural?
+Aftog Aftöög
 Afwarms
 Afwater/S
 Afweg Afweeg
@@ -214,7 +213,8 @@ aktuell/en
 akustisch/en
 Akzent/n
 al
-Alarm/S 				# Pl Alarms oder Alarmen?
+Alarm/S 				# Pl: NICHT Alarmen
+Albaster Alabaster 
 Albdroom Albdrööm
 albern/en
 Album Alben
@@ -254,7 +254,7 @@ ALT Alt
 Alternatiev Alternativen
 alternativ/en
 AltGr
-Ambolt # Mehrtall? und was ist das?
+Ambolt/n # HD: Amboss
 Amen
 Amidaam
 Ammer/S # Eimer
@@ -262,7 +262,7 @@ ammerwies/en
 Amööb/n
 Amplituud/n
 Amsel Amseln # Autoplural wäre falsch
-Amt Ämter
+Amt Ämter Ehrenamt Ehrenämter
 Amtsspraak/n
 Amtstiet Amtstieden
 amüseer/s
@@ -274,7 +274,7 @@ Analyse/n
 analyseer/s
 Ananas
 Anatomie
-Anbarg/n			# was ist das?
+Anbarg/n			# hd. Abhang bzw. Anhöhe
 Anbeder/S
 Anbott/n
 Andacht/n
@@ -292,7 +292,7 @@ Anfraag/n
 Angaav/n
 Angaavruum   Angaavrüüm
 Angang Angäng
-Angel/n
+Angel Angeln # /n führt zu falschem Ergebnis
 Angelegenheit/n
 Angever/S
 Angreep/n
@@ -308,7 +308,7 @@ Anhang Anhäng
 Animatschoon/n
 animeer/s
 Anker/S
-Ankerklüüs  # Mehrtall? und was ist das?
+Ankerklüüs Ankerklüsen # Öffnung am Bug eines Schiffes zum Durchlassen der Ankerkette  
 Anklaag/n
 Ankrüüzfeld Ankrüüzfeller
 Anlaag/n
@@ -349,7 +349,7 @@ Anslussfleger/S
 Anspeelkrink/n
 Anspeelpunkt   Anspeelpünkt/n
 Anspraak/n
-Anstalt/n
+Anstalt/n Versööksanstalt/n
 Anstand
 anstännig/en
 ansteed
@@ -391,10 +391,10 @@ arbeid/sQBRJPTZUVFX arbeid/qbrjptzuvfx
 Arbeider/S   Arbeidersche/n
 Arbeiderpartei
 Arbeit Arbeiden
-Arbeitdag                     # wieso ohne s?
+Arbeitsdag Arbeitsdaag
 Arbeitsgrupp/n
 Arbeitskledaasch
-Arbeitsorner	              # Plural?
+Arbeitsorner/S
 Architekt/n
 Archiv/n
 Archivdatei/n
@@ -429,7 +429,7 @@ Arvdeel Arvdelen
 Arvschop Arvschoppen
 Arvstück/n
 Arzbischop Arzbischöp Arzbischoppen
-Arzbisdom # Mehrtall?
+Arzbisdom Arzbisdömer
 as
 as'n
 as't
@@ -462,7 +462,7 @@ Atombomb/n
 Atomenergie/n
 Atomkraftwark/en
 Atommass/n
-Atommodell                             #  => Mehrtall?
+Atommodell/n
 Atomtall/n
 Atomutstieg/en
 Atoom/n
@@ -514,7 +514,7 @@ Baas/n
 Babutz/n
 Baby
 Babypopp/n
-Backbeest # Pl?
+Backbeest/n
 Backbook   Backböker
 Backboord
 backen/IDWMOAQRJPUVF backen/aqrjpuvf
@@ -531,7 +531,7 @@ Badmintonplatz   Badmintonplätz
 Badmintonsläger/S
 baff/en
 Bagaasch
-Bagaluten                            # Singular -ut oder -uut?
+Bagalut/n
 Bagen/S
 Bagengraad
 Bagenlien/n
@@ -543,7 +543,7 @@ Bagger/S
 Bahn/n
 bahn/s # Verb: bahnen
 Bahnansluss  Bahnanslüss
-Bahnhoff Bahnhöff Bahnhööv           # Plural?
+Bahnhoff Bahnhööv         	
 Bahnstieg/n
 Bahntje/S Baantje/S # wie nun?
 Bakterien
@@ -570,7 +570,7 @@ Banaan Bananen
 Band Bänner Bänn 		# hd. Fäden u. Bücher
 Bandbreed/n
 Bandloopwark/n
-Bandmaat # Pl?
+Bandmaat Bandmaten
 bang/en banger/en
 Bangbüx/n
 bangbüxig/en
@@ -638,8 +638,7 @@ beed/s
 beed bede beden # beid?
 beedsiets
 Beek/n
-been/en                            # wat is dat?
-Been Benen Beens # wi weet wedder nich, woans dat deklineert warrt...
+Been Benen # wi weet wedder nich, woans dat deklineert warrt...
 Beenschuler/S
 Beer Beren
 Beerboom Beerbööm
@@ -678,7 +677,7 @@ bemeier/s
 bemöten/IDWO                # Nieg-ins
 benaricht/s
 benaut/en
-Bericht/n
+Bericht/n Johrsbericht/n Kassenbericht/n
 Berühmtheit/n
 Bescheed/n
 beschrift/s
@@ -704,12 +703,12 @@ beswiemelt/en
 bet
 betahlen $af $an $in $na $to $ut $vör  betahl/s %betahlen
 betdat
-beteken   # prüfen swv?
+beteken/s
 Beteker/S
 beten
 beter/en
-betern/IDWMOPUV betern/puv
-betherto
+betern/IDWMOPUV betern/pu
+bether betherto
 Betog Betöög
 Beton Betong
 Betonbodden/S
@@ -741,7 +740,7 @@ bibliograafsch/en
 Bibliotheek/n
 Bickbeernmoos
 Bidrag Bidrääg
-bidregen bidreeg/W bidriggst bidriggt bidroog/D bidrogen bidragen # HD: betrügen ??
+bidregen bidreeg/W bidriggst bidriggt bidroog/D bidrogen bidragen # HD: betrügen 
 Bidreger/S
 Biel/n
 bienanner
@@ -766,8 +765,7 @@ billen/IDQJHUÜ bildt/QJHUÜ billen/qjhuü
 billig/en
 bilüttens
 bimmel/s
-bimsen/IDWMO						# /s prüfen?
-Binagel/S                           # wat is dat?
+bimsen/IDWMO						# /s geht hier nicht
 binah
 binär/en
 Binärdatei/n
@@ -798,13 +796,12 @@ Biotop/en
 Biotunn  Biotünn
 birsen/IDWMO
 Bischop Bischöp Bischoppen
-bischuren bischurens			# wat is dat?
+bischuren bischurens			# HD: zuweilen
 Bisdom
 Bisetterbrett  Bisetterbreed  Bisetterbreder
 Bislaap
-Bispill/S oder Bispeel/n                            # prüfen
-Bispill Bispelen # Eentall nich Bispeel!            # prüfen
-Bispillwoort Bispillwöör
+Bispeel/n                  # nach Sass: nicht Bispill, zumindest nicht als Hauptform
+Bispeelwoort Bispeelwöör
 Bistand Bistänn
 bistandsch/en
 bistüern/IDWMOF vorbitostüern
@@ -841,7 +838,7 @@ Blick/n
 Blickfatt Blickfaten
 Blicksmitt
 Blie
-blieven/IWAQHPTUVX blieven/aqhptuvx bliffst/AQHPTUVX blifft/AQHPTUVX bleev/DAQHPTUVX bleven/AQHPTUVX	# das ist doch falsch, oder?
+blieven/IWAQHPTUVX blieven/aqhptux bliffst/AQHPTUVX blifft/AQHPTUVX bleev/DWAQHPTUVX bleven/AQHPTUVX	
 blind blinne blinnen
 Blindkopie/n
 blink/ATPs blinken/atp
@@ -871,6 +868,7 @@ blucken/IDWMOP
 Blues
 Bobiologie   # Baubiologie
 Bo Boten # HD: Bau, Pl: Gebäude
+Bo Aaftbo # Kompositum
 Bock Böck
 Bodden
 Boddenlast/n   # Bodenbelastung
@@ -888,7 +886,7 @@ Bomber/S
 Bontje/S
 Boog Bogen # hd. der Bug, die Buge/Büge
 Böök/n   # HD: Buche (Baum)
-Book Böker
+Book Böker Wöörbook Wöörböker 
 Bookmaker/S
 Bookstaav/n
 boolsch/en
@@ -942,7 +940,7 @@ Brass
 breden/UV breed/DWMOUV
 Bree
 Breed
-Breef Breven
+Breef Breven Nettbreef Netbreven
 Breefkasten                             # Plural ??
 Breefmark/n
 breet brede/n breder/en breedst/en
@@ -964,7 +962,7 @@ Brettspill/S oder Brettspeel/n                            # wie nun?
 Bries   # Brise
 Brill/n
 Brillenglas Brillenglöös
-bringen/IDWAQRJPYCUVFX bringen/aqrjpycuvfx brochen/IDWMOAQRJPYCUVFX
+bringen/IDWAQRJPYCUVFX bringen/aqrjpycufx brochen/IDWMOAQRJPYCUVFX
 bringen bröcht                # Nieg-ins die Formen auf ö sind auch häufig
 bringen mitbringen/IDW                # Nieg-ins
 Broder Bröder
@@ -987,8 +985,8 @@ BSE
 Bucht/n
 Buck   Bück
 Buddel/S         # HD: Flasche
-buddeln/IDWMOQRJZGTUVÜ buddeln/qrjzgtuvü
-buen/MOAQBJPTCUVF buen/moaqbjptcuvf buu/DWAQBJPTCUVF
+buddeln/IDWMOQRJZGTUVÜ buddeln/qrjzgtuü
+buen/MOAQBJPTCUVF buen/moaqbjptcuf buu/DWAQBJPTCUVF
 Buer Buern
 Bueree
 Buernhoff Buernhööv
@@ -1024,7 +1022,7 @@ Butenafwehrersche/n
 Butenangrieper/S
 Butenangriepersche/n
 butendem
-butenlannsch/en                             # => ännsch?
+butenlännsch/en
 Butenmantel/S
 Butenrichter/S
 Butenrichtersche/n
@@ -1097,7 +1095,7 @@ Daglohn
 Daglöhner/S
 Dagstiet Dagstieden
 dal 						# HD: runter. nicht daal, Sass Regel 9
-Dalben 				# Einzahl?
+Dalben 				# Einzahl=Mehrzahl
 Daler/S
 Dalf Dalven
 dalli
@@ -1121,12 +1119,12 @@ Dank
 dankbor/en
 Dankborkeit
 danke
-danken/s
+dank/s
 dankensweert/en
 Dann/n
 Dannenappel Dannenappeln
 Dannenboom Dannenbööm
-Dannennadel/n
+Dannennadel Dannennadeln # /n geht hier nicht
 dannig/en danniger/en dannigst/en # HD: kräftig
 danz/s
 Danzbeen
@@ -1175,7 +1173,6 @@ Daupunkt Daupünkt
 deaktiveer/s
 debuggen/IDWMO
 Debugger
-deck/sAQBJPT decken/aqbjp					# Präfixe??
 Deckel/S
 de dat den
 Deef Deev Deven
@@ -1183,7 +1180,7 @@ Deeg							# HD: Teig
 deegt/en deegter/en deegst/en
 Deek/n
 Deel/n
-deel/s							# Präfixe?
+deel/JRTUPVQs  delen/JRTUPVQjrtupq	
 Deelbild Deelbiller
 Deelkoppel/S
 Deelnehmer/S
@@ -1229,9 +1226,9 @@ demödig/en
 Demografie
 demokraatsch/en
 Demokratie
-denen/ABV denen/a deen/DWMOABV # hd. dienen
+denen/ABVa  deen/ABV  deenst/ABV  deent/ABV #  HD: dienen
 Dener/S
-dengeln/IDWMO				# wat is dat?
+dengeln/IDWMO				#   Dat is „Sense schärfen" 
 denken/IDWBRUVFXÜH denken/bruvfxüh dachten/IDMOBRUVFXÜH
 denn
 dennig # Sass meent: dannig
@@ -1297,8 +1294,7 @@ direktemang
 Direkter/S
 Direktfloog Direktflöög
 dirigeer/s
-Disch/n
-Dische Dischen  # ???
+Disch/n Bökerdisch/n
 Discher/S
 dischern/IDWMO
 Dischkant/n
@@ -3686,7 +3682,6 @@ nett/en
 Nett/n
 Nettball   Nettbäll
 nettbaseert/en
-Nettbreef Netbreven
 Nettkant/n
 Nettkieker/S
 Nettpost
