@@ -1420,6 +1420,7 @@ Dorsteller/S
 dörstig/en
 dorto
 dorüm
+dorut
 dorünner
 dörven dörv dörvst dörv dörvt dorv dorvst dorv dorven dörvf # HD: dürfen. kiek ok bi dröven. Autoexpander macht das nicht richtig
 dorvör
@@ -1441,7 +1442,6 @@ Dracht/n
 drachtig/en
 Draff					# HD: Trab
 Draffrennen/S
-dragen => drägen?                            # prüfen
 Draggen # spez. Oort vun Anker, Mehrtall?
 Draht Dröhd
 Drahtgadder/S
@@ -1464,7 +1464,7 @@ Dre'eck/n Dreeck/n
 Dre'eck/S
 dre'eckig/en dreeeckig/en
 Dreck
-Dreeangel # Mehrtall?
+Dreeangel/S
 dreebastig/en
 dreedubbelt/en
 Dreeeck/n
@@ -1479,13 +1479,13 @@ Dreesprungbalken/S
 Dreesprung   Dreesprüng
 dreetimpig/en
 dreetollig/en
-dregen/CUVAQBJPTYFX dregen/cuvaqbjptyfx dreeg/WAQBJPTYCUVFX driggst/AQBJPTYCUVFX driggt/AQBJPTYCUVFX droog/DAQBJPTYCUVFX drogen/AQBJPTYCUVFX dragen/AQBJPTYCUVFX
+dregen/CUVAQBJPTYFX dregen/cuaqbjptyfx dreeg/WAQBJPTYCUVFX driggst/AQBJPTYCUVFX driggt/AQBJPTYCUVFX droog/DAQBJPTYCUVFX drogen/AQBJPTYCUVFX dragen/AQBJPTYCUVFX
 Dreger/S
 Dregers
 dreih/s
 Dreihbass
 Dreihbook Dreiböker
-dreihen/IDWMOAQRPTYCVXÜ dreihen/aqrptycvxü
+dreihen/IDWMOAQRPTYCVXÜ dreihen/aqrptycxü
 Dreiher/S
 Dreihfeld Dreihfeller
 Dreihkrüüz/n
@@ -1525,11 +1525,11 @@ druck/s
 druckbor/en
 Druck Drück
 drucken/IDWMOQBJPU drucken/qjpu
-drücken/QBRJPTYCUVXs drücken/qrjptycuvx
+drücken/QBRJPTYCUVXs drücken/qrjptycux
 Drucker/S
 Druckerdriever/S
 Druckvöransicht/n
-drüppeln/IDWMOQBRCPZKGTUVX drüppeln/qbrcpzkgtuvx
+drüppeln/IDWMOQBRCPZKGTUVX drüppeln/qbrcpzkgtux
 Drüppen/S
 drütt drüdde drüdden
 Druus
@@ -1553,8 +1553,8 @@ düden/ABCU düden/acu düüd/DWMOABCU
 du di dien diene
 duelleer/s
 Duer
-duer/s                            # prüfen
-Duer => Düer?                            # prüfen
+duer/s                          
+Duer Düer Utduer                            # beides ok
 düer düre düren
 duerhaftig/en
 duern/IDWMO #(hd. dauern *un ok* bedauern)
@@ -1667,6 +1667,7 @@ eenanner
 eendoont
 een dörtig eenundörtig tweeundörtig dreeundörtig veerundörtig fiefundörtig sössundörtig sövenundörtig achtundörtig negenundörtig
 eenfach/en eenfacher/en eenfachst/en
+eengol
 een föfftig eenunföfftig unföfftigtwee dreeunföfftig veerunföfftig fiefunföfftig sössunföfftig sövenunföfftig achtunföfftig negenunföfftig
 Eenheit/n
 Eenhoorn/S
@@ -1675,6 +1676,7 @@ eenmal
 een negentig eenunnegentig tweeunnegentig dreeunnegentig veerunnegentig fiefunnegentig sössunnegentig sövenunnegentig achtunnegentig negenunnegentig
 eensam/en
 eensdaags
+eenstimmig/en
 eensoortet/en
 een sösstig eenunsösstig tweeunsösstig dreeunsösstig veerunsösstig fiefunsösstig sössunsösstig sövenunsösstig achtunsösstig negenunsösstig
 een söventig eenunsöventig tweeunsöventig dreeunsöventig veerunsöventig fiefunsöventig sössunsöventig sövenunsöventig achtunsöventig negenunsöventig
@@ -1755,7 +1757,7 @@ Element/n
 Elend
 elennig/en elennigst/en
 Elfenbeen
-Elixier/n # Pl?
+Elixier/n 
 elk
 elkeen
 Ellbagen/S
@@ -1775,7 +1777,7 @@ emuleer/s
 enanner/ARJHPTUFÜ
 Endlagern
 endlich
-endlos/en # endloos?
+endlos/en 
 Enegiewenn
 enen/V een/DWMOV
 en ene enen
@@ -1824,10 +1826,10 @@ Eventüür Eventüren
 Evolutschoon/n
 ewig/en
 Ewigkeit/n
-Examen/S # Mehrtall op -s?
+Examen/S 
 examineer/s
 Exempel
-Exemplar # -or? Und Plural?
+Exemplor/n   # Sass. Nicht -ar
 Exotischen/en
 expandeer/s
 Experiment/n
@@ -1854,7 +1856,7 @@ Fabrikschipp  Fabrikscheep
 Fach/n
 Fachfru
 Fachmann Fachlüüd
-Fackel/n
+Fackel Fackeln # /n geht hier nicht
 fackel/s
 Faden/S
 Fähr/n
@@ -1867,15 +1869,15 @@ Faktor/n
 Fakultät/n
 fallen/IDWAQBRJPZGTCUVXL fallen/aqrjpzgtcuvxl fullen/IDAQBRJPZGTCUVXL
 fallen affallen
-fallen gefallen/CZRTUÜPQXczrtuüpqx                # Nieg-ins
+fallen gefallen/CZRTUÜPQXczrtuüpqx                # todo => umstellen auf neues Präfixsystem
 Fall Fäll
 Fallreep  Fallrepen
 falsch/en
 Familie/n
 Familiennaam
-Familienstand            # plural?
+Familienstand  Familienstänn
 famos/en
-Fang                           # Plural
+Fang Fäng
 Fangarm/S
 fangen/IDWAQJPV fangen/aqjp fungen/IDAQJPV
 Fanghand   Fanghannen
@@ -1905,7 +1907,7 @@ Fedder/n
 Fedderball Fedderbäll
 Fedderkraft
 feeg/CYZRUGQXs fegen/cyzrugqx
-Feend/n   	# prüfen
+Feend/n   	# HD: Feind. ok: Fiend
 feern/en
 Feernbedenen
 Feernglas Feernglöös
@@ -2097,7 +2099,7 @@ fohr/sOAQBRJHPZKGYCUVFXL fohren/aqrjhpzkgycufxl # auch föhren, schwaches Verb !
 fohren loosfohren   loosföhrst   loosföhrt   loosfohr                # Nieg-ins
 fohren överfohr/s overfohren rümfohr/s rümfohren
 Fohrensmann  Fohrenslüüd
-Föhrer/S
+Föhrer/S Kassenföhrer/S
 Fohrer/S   Fohrersch/n
 Föhrerschien/S
 Fohrrad   Fohrrööd
@@ -2151,7 +2153,7 @@ Fotografie
 Foul/S
 Fraag/n
 fraag nafraag/s
-Fraagspeel/n                            # prüfen
+Fraagspeel/n  
 fragen/AQBHUFH fragen/aqhufh fraag/DWMOAQBHUF
 Fraktal/n
 Fraktaltall/n
@@ -2169,7 +2171,7 @@ Freid
 Frequenz/n
 Frequenzband Frequenzbänner
 freren/QARJTUV freren/qarjtu freer/DWQARJTUV froor/DQARJTUV froren/QARJTUV
-fresen früst # nur in Mi/Dat früst.   # wat is dat???
+fresen früst # nur in Mi/Dat früst. HD: frieren
 freten/QARJPZGTUVX freten/qarjpzgtux freet/DQARJPZGTUVX fritt/DQARJPZGTUVX
 Freud Freuden
 freuen/IDW frei/IDW
@@ -2215,11 +2217,11 @@ funkschoneer/s
 Funkschoon Funkschonen
 fuul/en
 füünsch/en
-fuurts			# prüfen foorts?
+fuurts			# ok: foorts? aber fuurts ist erste Wahl
 Fuust
 gaatlich/en					# HD: passend, bequem
 Gaav/n
-Gadder/n   	# Plural na Sass. Woso nich /S ???
+Gadder/S   
 gahn/AQBRJHPZGTYYUVFXÜL gahn/aqbrjhpzgtyyuvfxül gah/AQBRJHPZGTYCUVFXÜL geihst/AQBRJHPZGTYCUVFXÜL geiht/AQBRJHPZGTYCUVFXÜL gaht/AQBRJHPZGYTCUVFXÜL gung/AQBRJHPZGTYCUVFXÜL gungst/AQBRJHPZGTYCUVFXÜL güngen/AQBRJHPZGTYCUVFXÜL
 gahn hoochgahn/IDW                # Nieg-ins
 gahn wiedergahn                # Nieg-ins
@@ -2237,7 +2239,7 @@ Gast Gäst
 Gastkonto/S
 gau/en gauer/en gauest/en gaust/en          # prüfen Superlativ
 Gauheit/n Gauigkeit/n
-Gavel/n
+Gavel Gaveln # /n geht hier nicht
 Geboort   # so Sass.
 Geboortsdag Geboortsdaag
 Geboortsjohr/n
