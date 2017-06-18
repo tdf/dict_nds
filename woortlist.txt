@@ -1667,7 +1667,7 @@ eenanner
 eendoont
 een dörtig eenundörtig tweeundörtig dreeundörtig veerundörtig fiefundörtig sössundörtig sövenundörtig achtundörtig negenundörtig
 eenfach/en eenfacher/en eenfachst/en
-eengol
+eengaal  # HD: egal
 een föfftig eenunföfftig unföfftigtwee dreeunföfftig veerunföfftig fiefunföfftig sössunföfftig sövenunföfftig achtunföfftig negenunföfftig
 Eenheit/n
 Eenhoorn/S
@@ -2267,7 +2267,6 @@ Gegenvörslag Gegenvörslääg
 geheem/en gehemer/en geheemst/en
 Geheemnis Geheemnissen
 Geist
-Gelaats/n			# was ist das?
 Geldbedrag                         # prüfen Plural?
 Geld Geller Smeergeld Smeergeller
 Geldsoort/n
@@ -2275,7 +2274,7 @@ Geldweert/n
 Gelegenheit/n
 gellen/IDWQV gellen/q gullen/IDQV
 gemeen/en
-Gemeen Gemeenen 			# prüfen, so Sass, warum nicht Gemenen
+Gemeen Gemenen  Landgemeen  Landgemenen Samtgemeen  Samtgemenen  # Sass "Gemenen" ist falsch
 Gemeenschop Gemeenschoppen
 geneetsch/en
 general/en
@@ -2307,6 +2306,7 @@ Geslecht Geslechter
 Geswister/S
 geten ik geet du güttst he gütt wi geet ik goot gööt du gootst göötst ge gööt wi goten göten gaten/en
 geven/ABQRJPGTYZUVFX geven/aqrjpgtyzufx  geev/ABQRJPGTYZUVFX giffst/ABQRJPGTYZUVFX gifft/ABRJPGTYZUVFX geevt/ABQRJPGTYZUVFX geevst/ABRJPGTYZUVFX giff
+gegen trüchgeven # todo
 Gever/S
 Gewidder/S
 Gift/n
@@ -2330,7 +2330,7 @@ glinster/s
 glinstern/IDW
 glitschig/en
 global/en
-Globus                            # prüfen Mehrzahl
+Globus Globussen # Plural analog zu "Bus"
 glöhen/IDWMOARPGUVX glöhen/arpguvx
 glöhnig/en
 Gloov/n
@@ -2358,7 +2358,7 @@ Goosfööt
 Goos Göös
 goot gode goden
 gor/en
-gotisch/en gootsch/en			#?? beides
+gotisch/en gootsch/en			# beides OK
 Gott Gödder
 Gottsdeenst/n
 Graad Graden
@@ -2406,8 +2406,7 @@ gröön/en
 gröön/s
 Grööntüüch
 groot/en grötter/en gröttst/en
-grööt/s
-grööt/s   # HD: grüßen
+gröten/B grööt/B grött/B gröttst/B # HD: grüßen
 Grootbookstaav/n
 Grootvader/s Grootvadder/S
 Grött/n
@@ -2442,7 +2441,7 @@ halen/QVUYPJHZKG halen/quypjhzkg haal/DWMOQVUYPJHZKG
 halfautomaatsch/en
 halfdörsichtig/en
 half halve halven halvig/en
-Halfkugel/n
+Halfkugel Halfkugeln # Automatismus mit /n geht nicht 
 Halfmaand
 Halfmaat
 Halfmetall/n
@@ -2483,14 +2482,13 @@ harmoonsch/en
 Harnstoff
 Harnsüür
 hart/en
-Hart/n				# ??
+Hart/n				# HD: Herz
 Hartgummischiev/n
 hartlich/en
 Harvst
-hau/s
-hau/s
+hauen/CZRTUÜGVKQXczrtuügkqx hau/CZRTUÜGVKQXs 
 Haubitz/n
-Haven/S                # HD: Haven
+Haven/S                # HD: Hafen
 Haventoll  Haventöll
 he
 hebben/AF hebben/af heff/AF hest/AF hett/AF hebbt/AF harr/AF harrst/AF harrn/AF hatt/AF
@@ -2557,7 +2555,8 @@ högen höög/DW
 Höhl/n                # HD: Höhle
 Höker/S
 holl
-hollen/AQBRJPTYCUVF hollen/aqrjptycuf hool/WAQBRJPTYCUVF höllst/AQBRJPTYCUVF höllt/AQBRJPTYCUVF heel/DAQBRJPTYCUVF helen/AQBRJPTYCUVF hollt
+hollen/AQBRJPTYCUVF hollen/aqrjptycuf hool/DWAQBRJPTYCUVF höllst/AQBRJPTYCUVF höllt/AQBRJPTYCUVF heel/DAQBRJPTYCUVF helen/AQBRJPTYCUVF hollt
+hollen mithool/DW
 Holler/S
 Hölp
 hölpsch/en
@@ -2572,7 +2571,6 @@ Hoochformat/n
 hooch hoge/n höger/en hööchst/en
 hoochkant
 Hoochkomma/S
-hoochlaad/s hoochtoladen
 Hoochnevel
 Hoochpass
 Hoochschool/n
@@ -2601,10 +2599,11 @@ hoost/s 		# HD: Husten
 Hoot Hööt
 Hopen/S
 hören/AFJPTYCVX hören/afjptycvx höör/DWMOAFJPTYCVX
+Hörer/S  Tohörer/S
 Hülp
 Hülper/S
 Hülpprogramm/n
-Hummel/n
+Hummel Hummeln # Automatismus mit /n geht nicht 
 Hund Hunnen
 Hunger
 hungrig/en hungriger/en
@@ -2615,7 +2614,7 @@ huul/s
 Huusdöör/n
 Huusfro Huusfroons
 Huushollt Huusholden
-Huus Hüüs
+Huus Hüüs Armenhuus Armenhüüs  
 Huusopgaav/n
 Huut
 hüüt
@@ -2684,7 +2683,7 @@ Inleser/S
 Inrullen
 Insaag Insagen
 Inschrift/n
-Insel/n
+Insel Inseln # Automatismus mit /n geht nicht 
 inst
 Installatschoon/n
 installeer/s
@@ -2736,7 +2735,7 @@ Jack/n
 Jager/S Jagerslüüd
 Januor Februor März April Mai Juni Juli August September Oktober November Dezember
 je
-jeedeen
+jeedeen jede jeden  jeder  jedet 
 ji
 jibbeln/IDWBVX jibbeln/x
 jichtens
@@ -3135,7 +3134,7 @@ Labor/S
 Labyrinth/n
 lachen/IDWMOABHUVX lachen/ahux
 Lachs
-laden/QBJPTUVF laden/qjptuf laad/DWMOQBJPTUVF
+laden/QBJPTUVF laden/qjptuf laad/DWMOQBJPTUVF hoochlaad/s hoochtoladen rünner rünnerlaad/s rünnertoladen        
 Laden/S
 Lader/S				# wat is dat?
 Lager/S
